@@ -90,8 +90,28 @@ def tidy_brand(raw):
     return key.title()
 
 
+# On a PC, read KEY=VALUE lines from ~/.fuelfinder.env into the environment (GitHub secrets take priority when set)
+def load_env_file():
+    # The credentials file in the user's home folder
+    env_file = Path.home() / ".fuelfinder.env"
+    # Skip quietly when the file is not there
+    if not env_file.exists():
+        # Nothing to load
+        return
+    # Go through each line of the file (utf-8-sig copes with Notepad's byte-order mark)
+    for line in env_file.read_text(encoding="utf-8-sig").splitlines():
+        # Only lines with an equals sign hold a setting
+        if "=" in line:
+            # Split the name from the value at the first equals sign
+            key, value = line.split("=", 1)
+            # Keep any value already set in the environment
+            os.environ.setdefault(key.strip(), value.strip())
+
+
 # Get an access token using the client-credentials flow
 def get_token():
+    # Load the PC credentials file if there is one
+    load_env_file()
     # Read the client ID from the environment
     client_id = os.environ.get("FUEL_FINDER_CLIENT_ID", "").strip()
     # Read the client secret from the environment
