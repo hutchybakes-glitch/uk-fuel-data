@@ -1,0 +1,53 @@
+# Takes a Fuel Finder snapshot six times a day and commits the data files.
+# Times are UTC; GitHub often starts scheduled jobs 5-30 minutes late.
+name: Fuel Finder snapshot
+
+on:
+  # Six runs a day, about 20 minutes before the Power BI refreshes
+  schedule:
+    - cron: "40 5,8,11,14,17,20 * * *"
+  # Allow a manual run from the Actions tab
+  workflow_dispatch:
+  # Run when the script or this workflow changes, so changes are tested straight away
+  push:
+    branches: [main]
+    paths:
+      - "scripts/snapshot.py"
+      - ".github/workflows/snapshot.yml"
+
+# The job needs to push its data commit back to the repo
+permissions:
+  contents: write
+
+# Never run two snapshots at the same time
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Get the repo, including the existing history files
+      - uses: actions/checkout@v4
+      # Install Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Install the one library the script needs
+      - run: pip install requests==2.32.3
+      # Take the snapshot using the repo secrets
+      - run: python scripts/snapshot.py
+        env:
+          FUEL_FINDER_CLIENT_ID: ${{ secrets.FUEL_FINDER_CLIENT_ID }}
+          FUEL_FINDER_CLIENT_SECRET: ${{ secrets.FUEL_FINDER_CLIENT_SECRET }}
+      # Commit and push the data files if anything changed
+      - run: |
+          git config user.name "fuel-snapshot-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && exit 0; sleep 5; done
+          exit 1
