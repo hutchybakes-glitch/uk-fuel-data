@@ -318,12 +318,24 @@ region_of = {}
 if region_path.exists():
     # Open it for reading
     with open(region_path, newline="", encoding="utf-8") as f:
-        # Store region and nation for each postcode district
-        region_of = {row["outcode"]: (row["region"], row["nation"]) for row in csv.DictReader(f)}
-# Add region and nation to every station from its postcode district (the part before the space)
+        # Read all rows once
+        outcodes = list(csv.DictReader(f))
+    # Store region and nation for each postcode district
+    region_of = {row["outcode"]: (row["region"], row["nation"]) for row in outcodes}
+    # Keep each district's centre for the nearest-district fallback
+    centres = [(float(row["lat"]), float(row["lon"]), row["region"], row["nation"]) for row in outcodes]
+# Add region and nation to every station from its postcode district, falling back to the nearest district centre
 for r in station_rows:
+    # Some postcodes arrive without their space ("CW13HD"): the inward part is always the last three characters
+    if r["postcode"] and " " not in r["postcode"] and len(r["postcode"]) >= 5:
+        # Put the space back
+        r["postcode"] = r["postcode"][:-3] + " " + r["postcode"][-3:]
     # Look up the station's postcode district
     reg, nat = region_of.get(r["postcode"].split(" ")[0] if r["postcode"] else "", ("Unknown", "Unknown"))
+    # Typos in the postcode ("C063PU"): use the nearest postcode district centre to the station's coordinates instead
+    if reg == "Unknown" and region_of and r["lat"] != "":
+        # The nearest centre by simple squared distance (longitude scaled for latitude)
+        reg, nat = min(centres, key=lambda c: (c[0] - r["lat"]) ** 2 + ((c[1] - r["lon"]) * 0.6) ** 2)[2:]
     # Store the region
     r["region"] = reg
     # Store the nation
