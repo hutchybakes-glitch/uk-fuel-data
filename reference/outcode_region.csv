@@ -1,0 +1,2944 @@
+outcode,region,nation,lat,lon
+AB10,Scotland,Scotland,57.13539,-2.12087
+AB11,Scotland,Scotland,57.13937,-2.09302
+AB12,Scotland,Scotland,57.10177,-2.1134
+AB13,Scotland,Scotland,57.10798,-2.23465
+AB14,Scotland,Scotland,57.10053,-2.2717
+AB15,Scotland,Scotland,57.13762,-2.16949
+AB16,Scotland,Scotland,57.16001,-2.15672
+AB21,Scotland,Scotland,57.20785,-2.20061
+AB22,Scotland,Scotland,57.18667,-2.12294
+AB23,Scotland,Scotland,57.21214,-2.08871
+AB24,Scotland,Scotland,57.16395,-2.10795
+AB25,Scotland,Scotland,57.15263,-2.11407
+AB30,Scotland,Scotland,56.84632,-2.47815
+AB31,Scotland,Scotland,57.07305,-2.52195
+AB32,Scotland,Scotland,57.15497,-2.31756
+AB33,Scotland,Scotland,57.22561,-2.74065
+AB34,Scotland,Scotland,57.09335,-2.81143
+AB35,Scotland,Scotland,57.03834,-3.1509
+AB36,Scotland,Scotland,57.19732,-3.06873
+AB37,Scotland,Scotland,57.32657,-3.35291
+AB38,Scotland,Scotland,57.48562,-3.22675
+AB39,Scotland,Scotland,56.98225,-2.21482
+AB41,Scotland,Scotland,57.37388,-2.10527
+AB42,Scotland,Scotland,57.50126,-1.89358
+AB43,Scotland,Scotland,57.65725,-2.04393
+AB44,Scotland,Scotland,57.66827,-2.49216
+AB45,Scotland,Scotland,57.65178,-2.56804
+AB51,Scotland,Scotland,57.2881,-2.40364
+AB52,Scotland,Scotland,57.34404,-2.60971
+AB53,Scotland,Scotland,57.52503,-2.39358
+AB54,Scotland,Scotland,57.45394,-2.76145
+AB55,Scotland,Scotland,57.52505,-2.9882
+AB56,Scotland,Scotland,57.67432,-2.9293
+AB99,Scotland,Scotland,57.11132,-2.094
+AL1,East of England,England,51.74892,-0.3238
+AL10,East of England,England,51.76019,-0.23254
+AL2,East of England,England,51.71902,-0.33576
+AL3,East of England,England,51.78047,-0.37772
+AL4,East of England,England,51.77378,-0.29475
+AL5,East of England,England,51.8159,-0.35237
+AL6,East of England,England,51.83224,-0.19979
+AL7,East of England,England,51.79684,-0.18719
+AL8,East of England,England,51.80364,-0.21176
+AL9,East of England,England,51.74435,-0.19743
+B1,West Midlands,England,52.47971,-1.90949
+B10,West Midlands,England,52.46957,-1.85237
+B11,West Midlands,England,52.45443,-1.85858
+B12,West Midlands,England,52.46104,-1.88442
+B13,West Midlands,England,52.43774,-1.87863
+B14,West Midlands,England,52.41736,-1.88983
+B15,West Midlands,England,52.46629,-1.92328
+B16,West Midlands,England,52.47752,-1.93421
+B17,West Midlands,England,52.46125,-1.95873
+B18,West Midlands,England,52.49117,-1.92552
+B19,West Midlands,England,52.4971,-1.90568
+B2,West Midlands,England,52.48787,-1.89715
+B20,West Midlands,England,52.51555,-1.91921
+B21,West Midlands,England,52.50691,-1.94147
+B23,West Midlands,England,52.52852,-1.85527
+B24,West Midlands,England,52.51973,-1.827
+B25,West Midlands,England,52.46519,-1.82175
+B26,West Midlands,England,52.46152,-1.78866
+B27,West Midlands,England,52.44452,-1.82277
+B28,West Midlands,England,52.42755,-1.84313
+B29,West Midlands,England,52.43768,-1.94752
+B3,West Midlands,England,52.48374,-1.90375
+B30,West Midlands,England,52.422,-1.92773
+B31,West Midlands,England,52.40799,-1.97386
+B32,West Midlands,England,52.44835,-1.99451
+B33,West Midlands,England,52.48033,-1.7884
+B34,West Midlands,England,52.49642,-1.78172
+B35,West Midlands,England,52.51893,-1.78883
+B36,West Midlands,England,52.50417,-1.7785
+B37,West Midlands,England,52.47853,-1.74229
+B38,West Midlands,England,52.39987,-1.93477
+B4,West Midlands,England,52.48528,-1.89267
+B40,West Midlands,England,52.45621,-1.72058
+B42,West Midlands,England,52.53382,-1.91184
+B43,West Midlands,England,52.5485,-1.93085
+B44,West Midlands,England,52.54571,-1.88511
+B45,West Midlands,England,52.38867,-2.00881
+B46,West Midlands,England,52.50905,-1.6948
+B47,West Midlands,England,52.38547,-1.87987
+B48,West Midlands,England,52.35472,-1.94694
+B49,West Midlands,England,52.21808,-1.86725
+B5,West Midlands,England,52.46888,-1.89765
+B50,West Midlands,England,52.16797,-1.85606
+B6,West Midlands,England,52.50523,-1.88612
+B60,West Midlands,England,52.32521,-2.05158
+B61,West Midlands,England,52.34655,-2.06879
+B62,West Midlands,England,52.45652,-2.03375
+B63,West Midlands,England,52.45147,-2.06997
+B64,West Midlands,England,52.47257,-2.06937
+B65,West Midlands,England,52.48363,-2.04383
+B66,West Midlands,England,52.49269,-1.96465
+B67,West Midlands,England,52.48559,-1.97881
+B68,West Midlands,England,52.47865,-2.00138
+B69,West Midlands,England,52.50278,-2.03019
+B7,West Midlands,England,52.49411,-1.87239
+B70,West Midlands,England,52.52105,-2.00449
+B71,West Midlands,England,52.53606,-1.99049
+B72,West Midlands,England,52.55008,-1.82191
+B73,West Midlands,England,52.55318,-1.84237
+B74,West Midlands,England,52.58435,-1.86226
+B75,West Midlands,England,52.5786,-1.80827
+B76,West Midlands,England,52.54337,-1.78165
+B77,West Midlands,England,52.61868,-1.66802
+B78,West Midlands,England,52.60637,-1.67447
+B79,West Midlands,England,52.65049,-1.68022
+B8,West Midlands,England,52.49114,-1.84135
+B80,West Midlands,England,52.27326,-1.89226
+B9,West Midlands,England,52.47823,-1.85086
+B90,West Midlands,England,52.39829,-1.82565
+B91,West Midlands,England,52.41401,-1.78353
+B92,West Midlands,England,52.43722,-1.77319
+B93,West Midlands,England,52.38026,-1.74425
+B94,West Midlands,England,52.3496,-1.79467
+B95,West Midlands,England,52.28577,-1.78065
+B96,West Midlands,England,52.25146,-1.96036
+B97,West Midlands,England,52.2996,-1.95487
+B98,West Midlands,England,52.30218,-1.91278
+B99,West Midlands,England,52.49596,-1.89423
+BA1,South West,England,51.39326,-2.36125
+BA10,South West,England,51.11311,-2.44796
+BA11,South West,England,51.23271,-2.32464
+BA12,South West,England,51.17143,-2.18914
+BA13,South West,England,51.26202,-2.18223
+BA14,South West,England,51.31914,-2.20247
+BA15,South West,England,51.34832,-2.25813
+BA16,South West,England,51.12416,-2.74591
+BA2,South West,England,51.35922,-2.37928
+BA20,South West,England,50.93788,-2.64553
+BA21,South West,England,50.95211,-2.63389
+BA22,South West,England,50.97005,-2.63901
+BA3,South West,England,51.27161,-2.47827
+BA4,South West,England,51.17234,-2.53188
+BA5,South West,England,51.21267,-2.65551
+BA6,South West,England,51.14202,-2.7075
+BA7,South West,England,51.08974,-2.52033
+BA8,South West,England,50.99644,-2.41189
+BA9,South West,England,51.05771,-2.41024
+BB1,North West,England,53.75692,-2.46288
+BB10,North West,England,53.79954,-2.21911
+BB11,North West,England,53.78259,-2.25397
+BB12,North West,England,53.80345,-2.29259
+BB18,North West,England,53.91461,-2.17186
+BB2,North West,England,53.74119,-2.50213
+BB3,North West,England,53.69804,-2.46579
+BB4,North West,England,53.7039,-2.29178
+BB5,North West,England,53.75432,-2.37363
+BB6,North West,England,53.79296,-2.41691
+BB7,North West,England,53.87036,-2.38914
+BB8,North West,England,53.85818,-2.16352
+BB9,North West,England,53.83742,-2.21567
+BD1,Yorkshire and the Humber,England,53.79626,-1.75433
+BD10,Yorkshire and the Humber,England,53.83311,-1.72515
+BD11,Yorkshire and the Humber,England,53.7526,-1.6742
+BD12,Yorkshire and the Humber,England,53.74561,-1.76262
+BD13,Yorkshire and the Humber,England,53.78725,-1.86146
+BD14,Yorkshire and the Humber,England,53.78217,-1.8188
+BD15,Yorkshire and the Humber,England,53.81007,-1.83834
+BD16,Yorkshire and the Humber,England,53.84857,-1.83333
+BD17,Yorkshire and the Humber,England,53.8477,-1.76824
+BD18,Yorkshire and the Humber,England,53.83073,-1.77706
+BD19,Yorkshire and the Humber,England,53.72737,-1.71409
+BD2,Yorkshire and the Humber,England,53.81525,-1.73384
+BD20,Yorkshire and the Humber,England,53.89841,-1.94998
+BD21,Yorkshire and the Humber,England,53.86415,-1.90758
+BD22,Yorkshire and the Humber,England,53.84554,-1.95531
+BD23,Yorkshire and the Humber,England,53.99276,-2.05618
+BD24,Yorkshire and the Humber,England,54.07984,-2.28416
+BD3,Yorkshire and the Humber,England,53.79847,-1.72653
+BD4,Yorkshire and the Humber,England,53.77609,-1.71848
+BD5,Yorkshire and the Humber,England,53.77813,-1.75927
+BD6,Yorkshire and the Humber,England,53.76453,-1.78571
+BD7,Yorkshire and the Humber,England,53.78365,-1.78573
+BD8,Yorkshire and the Humber,England,53.80169,-1.78408
+BD9,Yorkshire and the Humber,England,53.81304,-1.79272
+BD97,Yorkshire and the Humber,England,53.82649,-1.79674
+BD98,Yorkshire and the Humber,England,53.79604,-1.7506
+BD99,Yorkshire and the Humber,England,53.79452,-1.76953
+BH1,South West,England,50.72469,-1.86005
+BH10,South West,England,50.75954,-1.89278
+BH11,South West,England,50.76291,-1.92047
+BH12,South West,England,50.73735,-1.92771
+BH13,South West,England,50.70895,-1.92053
+BH14,South West,England,50.72141,-1.94466
+BH15,South West,England,50.72243,-1.98562
+BH16,South West,England,50.74047,-2.04753
+BH17,South West,England,50.7469,-1.98039
+BH18,South West,England,50.75967,-1.9988
+BH19,South West,England,50.61171,-1.97094
+BH2,South West,England,50.72099,-1.88428
+BH20,South West,England,50.68731,-2.14927
+BH21,South West,England,50.81214,-1.97451
+BH22,South West,England,50.80499,-1.88853
+BH23,South West,England,50.74763,-1.75424
+BH24,South East,England,50.84303,-1.7886
+BH25,South East,England,50.75281,-1.65803
+BH3,South West,England,50.73653,-1.88332
+BH31,South West,England,50.87656,-1.87328
+BH4,South West,England,50.72119,-1.89954
+BH5,South West,England,50.72526,-1.83211
+BH6,South West,England,50.72763,-1.80195
+BH7,South West,England,50.73651,-1.82589
+BH8,South West,England,50.74215,-1.85177
+BH9,South West,England,50.74964,-1.87255
+BL0,North West,England,53.64862,-2.31686
+BL1,North West,England,53.5905,-2.44501
+BL11,North West,England,53.57236,-2.42546
+BL2,North West,England,53.58849,-2.39504
+BL3,North West,England,53.56459,-2.43181
+BL4,North West,England,53.54637,-2.40185
+BL5,North West,England,53.54813,-2.51565
+BL6,North West,England,53.59184,-2.54084
+BL7,North West,England,53.6317,-2.42236
+BL78,North West,England,53.55988,-2.40905
+BL8,North West,England,53.60507,-2.32795
+BL9,North West,England,53.59223,-2.28708
+BN1,South East,England,50.84266,-0.13936
+BN10,South East,England,50.79604,0.0016
+BN11,South East,England,50.81357,-0.37703
+BN12,South East,England,50.81396,-0.4294
+BN13,South East,England,50.83278,-0.41165
+BN14,South East,England,50.83405,-0.3821
+BN15,South East,England,50.83052,-0.3253
+BN16,South East,England,50.81542,-0.49487
+BN17,South East,England,50.81513,-0.53999
+BN18,South East,England,50.8455,-0.59035
+BN2,South East,England,50.82528,-0.10091
+BN20,South East,England,50.77525,0.25184
+BN21,South East,England,50.77279,0.27648
+BN22,South East,England,50.78993,0.2835
+BN23,South East,England,50.79767,0.31259
+BN24,South East,England,50.81663,0.32452
+BN25,South East,England,50.77657,0.1086
+BN26,South East,England,50.82119,0.22315
+BN27,South East,England,50.87179,0.26335
+BN3,South East,England,50.83525,-0.17764
+BN41,South East,England,50.84136,-0.21735
+BN42,South East,England,50.83758,-0.23471
+BN43,South East,England,50.83606,-0.26671
+BN44,South East,England,50.89084,-0.32291
+BN45,South East,England,50.89666,-0.19067
+BN5,South East,England,50.92747,-0.26887
+BN50,South East,England,50.82633,-0.14079
+BN51,South East,England,50.80482,-0.05865
+BN52,South East,England,50.8344,-0.16803
+BN6,South East,England,50.93144,-0.15528
+BN7,South East,England,50.87752,-0.00126
+BN8,South East,England,50.917,0.05292
+BN88,South East,England,50.82684,-0.1392
+BN9,South East,England,50.79562,0.04988
+BN95,South East,England,50.82315,-0.33002
+BN99,South East,England,50.82366,-0.356
+BR1,London,England,51.41203,0.02093
+BR2,London,England,51.38725,0.02238
+BR3,London,England,51.40464,-0.02974
+BR4,London,England,51.37498,-0.00829
+BR5,London,England,51.39172,0.1034
+BR6,London,England,51.36512,0.09115
+BR7,London,England,51.41501,0.06546
+BR8,South East,England,51.39868,0.17454
+BS1,South West,England,51.45325,-2.59383
+BS10,South West,England,51.50743,-2.61096
+BS11,South West,England,51.4975,-2.67453
+BS13,South West,England,51.41205,-2.61158
+BS14,South West,England,51.41296,-2.56355
+BS15,South West,England,51.45961,-2.5069
+BS16,South West,England,51.48694,-2.50948
+BS2,South West,England,51.45989,-2.58194
+BS20,South West,England,51.48062,-2.75357
+BS21,South West,England,51.43505,-2.84958
+BS22,South West,England,51.36108,-2.92934
+BS23,South West,England,51.3431,-2.9721
+BS24,South West,England,51.33093,-2.9282
+BS25,South West,England,51.32015,-2.8202
+BS26,South West,England,51.27886,-2.85664
+BS27,South West,England,51.2727,-2.77293
+BS28,South West,England,51.22612,-2.81525
+BS29,South West,England,51.33305,-2.87973
+BS3,South West,England,51.43868,-2.60319
+BS30,South West,England,51.44467,-2.47128
+BS31,South West,England,51.40885,-2.49225
+BS32,South West,England,51.54449,-2.55743
+BS34,South West,England,51.52291,-2.56566
+BS35,South West,England,51.59747,-2.54888
+BS36,South West,England,51.52566,-2.48633
+BS37,South West,England,51.54213,-2.41511
+BS39,South West,England,51.32813,-2.53358
+BS4,South West,England,51.43533,-2.56383
+BS40,South West,England,51.34651,-2.69206
+BS41,South West,England,51.42205,-2.65353
+BS48,South West,England,51.425,-2.74798
+BS49,South West,England,51.38311,-2.81228
+BS5,South West,England,51.46206,-2.55175
+BS6,South West,England,51.47079,-2.6005
+BS7,South West,England,51.48705,-2.58105
+BS8,South West,England,51.45749,-2.62233
+BS9,South West,England,51.48726,-2.62679
+BS98,South West,England,51.45975,-2.58896
+BS99,South West,England,51.44368,-2.59781
+BT1,Northern Ireland,Northern Ireland,54.59978,-5.92851
+BT10,Northern Ireland,Northern Ireland,54.55953,-5.98549
+BT11,Northern Ireland,Northern Ireland,54.5764,-5.99809
+BT12,Northern Ireland,Northern Ireland,54.59291,-5.95864
+BT13,Northern Ireland,Northern Ireland,54.60582,-5.95934
+BT14,Northern Ireland,Northern Ireland,54.62142,-5.96261
+BT15,Northern Ireland,Northern Ireland,54.62341,-5.93199
+BT16,Northern Ireland,Northern Ireland,54.59043,-5.79702
+BT17,Northern Ireland,Northern Ireland,54.55356,-6.02014
+BT18,Northern Ireland,Northern Ireland,54.64132,-5.82187
+BT19,Northern Ireland,Northern Ireland,54.65133,-5.66737
+BT2,Northern Ireland,Northern Ireland,54.5938,-5.93049
+BT20,Northern Ireland,Northern Ireland,54.65845,-5.66565
+BT21,Northern Ireland,Northern Ireland,54.64037,-5.54778
+BT22,Northern Ireland,Northern Ireland,54.50246,-5.51489
+BT23,Northern Ireland,Northern Ireland,54.56444,-5.71519
+BT24,Northern Ireland,Northern Ireland,54.4172,-5.8716
+BT25,Northern Ireland,Northern Ireland,54.39597,-6.11291
+BT26,Northern Ireland,Northern Ireland,54.45433,-6.06505
+BT27,Northern Ireland,Northern Ireland,54.50918,-6.02369
+BT28,Northern Ireland,Northern Ireland,54.5229,-6.08659
+BT29,Northern Ireland,Northern Ireland,54.62049,-6.197
+BT3,Northern Ireland,Northern Ireland,54.61697,-5.90398
+BT30,Northern Ireland,Northern Ireland,54.33513,-5.70224
+BT31,Northern Ireland,Northern Ireland,54.27676,-5.96849
+BT32,Northern Ireland,Northern Ireland,54.33547,-6.24556
+BT33,Northern Ireland,Northern Ireland,54.22333,-5.89113
+BT34,Northern Ireland,Northern Ireland,54.15267,-6.17616
+BT35,Northern Ireland,Northern Ireland,54.16203,-6.44121
+BT36,Northern Ireland,Northern Ireland,54.6766,-5.95652
+BT37,Northern Ireland,Northern Ireland,54.67752,-5.90822
+BT38,Northern Ireland,Northern Ireland,54.72863,-5.80182
+BT39,Northern Ireland,Northern Ireland,54.7453,-6.018
+BT4,Northern Ireland,Northern Ireland,54.60261,-5.86996
+BT40,Northern Ireland,Northern Ireland,54.84583,-5.82382
+BT41,Northern Ireland,Northern Ireland,54.73211,-6.25596
+BT42,Northern Ireland,Northern Ireland,54.8546,-6.27579
+BT43,Northern Ireland,Northern Ireland,54.89124,-6.26577
+BT44,Northern Ireland,Northern Ireland,54.97206,-6.28868
+BT45,Northern Ireland,Northern Ireland,54.75991,-6.63886
+BT46,Northern Ireland,Northern Ireland,54.86521,-6.6637
+BT47,Northern Ireland,Northern Ireland,54.9741,-7.21391
+BT48,Northern Ireland,Northern Ireland,55.0104,-7.32785
+BT49,Northern Ireland,Northern Ireland,55.04709,-6.951
+BT5,Northern Ireland,Northern Ireland,54.58913,-5.87109
+BT51,Northern Ireland,Northern Ireland,55.06034,-6.6823
+BT52,Northern Ireland,Northern Ireland,55.13448,-6.65529
+BT53,Northern Ireland,Northern Ireland,55.08539,-6.47533
+BT54,Northern Ireland,Northern Ireland,55.20435,-6.25685
+BT55,Northern Ireland,Northern Ireland,55.17911,-6.71022
+BT56,Northern Ireland,Northern Ireland,55.19762,-6.65034
+BT57,Northern Ireland,Northern Ireland,55.2035,-6.518
+BT6,Northern Ireland,Northern Ireland,54.58001,-5.89795
+BT60,Northern Ireland,Northern Ireland,54.29252,-6.64882
+BT61,Northern Ireland,Northern Ireland,54.36891,-6.62238
+BT62,Northern Ireland,Northern Ireland,54.41203,-6.46629
+BT63,Northern Ireland,Northern Ireland,54.40791,-6.39104
+BT64,Northern Ireland,Northern Ireland,54.44899,-6.39024
+BT65,Northern Ireland,Northern Ireland,54.44495,-6.36597
+BT66,Northern Ireland,Northern Ireland,54.45496,-6.33273
+BT67,Northern Ireland,Northern Ireland,54.48659,-6.26737
+BT68,Northern Ireland,Northern Ireland,54.36509,-6.84852
+BT69,Northern Ireland,Northern Ireland,54.41997,-6.95109
+BT7,Northern Ireland,Northern Ireland,54.58212,-5.92456
+BT70,Northern Ireland,Northern Ireland,54.51417,-6.88644
+BT71,Northern Ireland,Northern Ireland,54.51305,-6.70469
+BT74,Northern Ireland,Northern Ireland,54.34497,-7.6651
+BT75,Northern Ireland,Northern Ireland,54.37353,-7.31748
+BT76,Northern Ireland,Northern Ireland,54.41987,-7.19229
+BT77,Northern Ireland,Northern Ireland,54.42892,-7.11831
+BT78,Northern Ireland,Northern Ireland,54.57034,-7.37592
+BT79,Northern Ireland,Northern Ireland,54.62316,-7.20091
+BT8,Northern Ireland,Northern Ireland,54.53997,-5.90585
+BT80,Northern Ireland,Northern Ireland,54.64639,-6.74519
+BT81,Northern Ireland,Northern Ireland,54.69596,-7.6108
+BT82,Northern Ireland,Northern Ireland,54.8264,-7.43033
+BT9,Northern Ireland,Northern Ireland,54.57214,-5.94997
+BT92,Northern Ireland,Northern Ireland,54.2245,-7.4678
+BT93,Northern Ireland,Northern Ireland,54.46829,-7.82553
+BT94,Northern Ireland,Northern Ireland,54.37635,-7.53399
+CA1,North West,England,54.88576,-2.91175
+CA10,North West,England,54.61314,-2.65922
+CA11,North West,England,54.66466,-2.78411
+CA12,North West,England,54.60262,-3.13487
+CA13,North West,England,54.66001,-3.36777
+CA14,North West,England,54.63463,-3.53791
+CA15,North West,England,54.71223,-3.48091
+CA16,North West,England,54.57428,-2.48458
+CA17,North West,England,54.47993,-2.35077
+CA18,North West,England,54.35432,-3.3911
+CA19,North West,England,54.38712,-3.38459
+CA2,North West,England,54.88385,-2.95143
+CA20,North West,England,54.41064,-3.46173
+CA21,North West,England,54.44546,-3.51641
+CA22,North West,England,54.48053,-3.53307
+CA23,North West,England,54.51465,-3.49523
+CA24,North West,England,54.51547,-3.5436
+CA25,North West,England,54.52319,-3.51927
+CA26,North West,England,54.5445,-3.48285
+CA27,North West,England,54.4911,-3.59347
+CA28,North West,England,54.54332,-3.57851
+CA3,North West,England,54.90998,-2.94033
+CA4,North West,England,54.84789,-2.83183
+CA5,North West,England,54.85566,-3.02086
+CA6,North West,England,54.99235,-2.89616
+CA7,North West,England,54.80761,-3.23906
+CA8,North West,England,54.93896,-2.68704
+CA9,North West,England,54.80075,-2.41268
+CA95,North West,England,54.64468,-3.56645
+CB1,East of England,England,52.19522,0.14149
+CB10,East of England,England,52.02918,0.26221
+CB11,East of England,England,51.99885,0.21233
+CB2,East of England,England,52.18528,0.12307
+CB21,East of England,England,52.12804,0.28118
+CB22,East of England,England,52.12925,0.13557
+CB23,East of England,England,52.21543,-0.03391
+CB24,East of England,England,52.2793,0.08011
+CB25,East of England,England,52.26166,0.25356
+CB3,East of England,England,52.21375,0.09796
+CB4,East of England,England,52.22314,0.12974
+CB5,East of England,England,52.21267,0.15703
+CB6,East of England,England,52.40635,0.22371
+CB7,East of England,England,52.35974,0.3272
+CB8,East of England,England,52.23102,0.4289
+CB9,East of England,England,52.08371,0.4397
+CF10,Wales,Wales,51.47473,-3.17322
+CF11,Wales,Wales,51.47285,-3.1925
+CF14,Wales,Wales,51.52011,-3.20366
+CF15,Wales,Wales,51.53297,-3.27171
+CF23,Wales,Wales,51.51451,-3.15557
+CF24,Wales,Wales,51.48811,-3.16196
+CF3,Wales,Wales,51.52062,-3.1113
+CF30,Wales,Wales,51.51965,-3.1196
+CF31,Wales,Wales,51.50894,-3.57879
+CF32,Wales,Wales,51.55971,-3.58448
+CF33,Wales,Wales,51.52563,-3.69401
+CF34,Wales,Wales,51.6106,-3.65207
+CF35,Wales,Wales,51.52264,-3.52582
+CF36,Wales,Wales,51.48518,-3.69933
+CF37,Wales,Wales,51.60332,-3.33436
+CF38,Wales,Wales,51.5606,-3.33283
+CF39,Wales,Wales,51.5995,-3.42587
+CF40,Wales,Wales,51.62035,-3.45167
+CF41,Wales,Wales,51.64736,-3.48203
+CF42,Wales,Wales,51.6675,-3.52419
+CF43,Wales,Wales,51.65764,-3.45072
+CF44,Wales,Wales,51.71831,-3.45865
+CF45,Wales,Wales,51.66953,-3.36213
+CF46,Wales,Wales,51.66471,-3.3006
+CF47,Wales,Wales,51.75157,-3.37499
+CF48,Wales,Wales,51.74163,-3.37159
+CF5,Wales,Wales,51.48335,-3.24553
+CF61,Wales,Wales,51.40842,-3.48107
+CF62,Wales,Wales,51.404,-3.31167
+CF63,Wales,Wales,51.41221,-3.25722
+CF64,Wales,Wales,51.43274,-3.19247
+CF71,Wales,Wales,51.46111,-3.45907
+CF72,Wales,Wales,51.52991,-3.40435
+CF81,Wales,Wales,51.70215,-3.24476
+CF82,Wales,Wales,51.65121,-3.23812
+CF83,Wales,Wales,51.58685,-3.21879
+CF91,Wales,Wales,51.46554,-3.19405
+CF95,Wales,Wales,51.4812,-3.17105
+CF99,Wales,Wales,51.46376,-3.16231
+CH1,North West,England,53.20268,-2.90999
+CH2,North West,England,53.21811,-2.86895
+CH25,North West,England,53.39701,-3.01184
+CH26,North West,England,53.3657,-3.06591
+CH27,North West,England,53.41974,-3.03676
+CH28,North West,England,53.40053,-3.1119
+CH29,North West,England,53.39017,-3.17943
+CH3,North West,England,53.16476,-2.81981
+CH30,North West,England,53.37896,-3.09839
+CH31,North West,England,53.32968,-3.09881
+CH32,North West,England,53.36198,-2.99761
+CH33,North West,England,53.29057,-3.06264
+CH34,North West,England,53.27827,-2.9042
+CH4,North West,England,53.16547,-2.94713
+CH41,North West,England,53.39441,-3.03311
+CH42,North West,England,53.37379,-3.02246
+CH43,North West,England,53.3844,-3.05964
+CH44,North West,England,53.41533,-3.03706
+CH45,North West,England,53.42899,-3.05166
+CH46,North West,England,53.40411,-3.11087
+CH47,North West,England,53.39652,-3.16918
+CH48,North West,England,53.37015,-3.16928
+CH49,North West,England,53.38105,-3.1039
+CH5,Wales,Wales,53.20453,-3.04121
+CH6,Wales,Wales,53.24939,-3.14449
+CH60,North West,England,53.32649,-3.09607
+CH61,North West,England,53.34915,-3.10198
+CH62,North West,England,53.3342,-2.98157
+CH63,North West,England,53.34431,-3.01257
+CH64,North West,England,53.28828,-3.0475
+CH65,North West,England,53.27742,-2.90204
+CH66,North West,England,53.2776,-2.93734
+CH7,Wales,Wales,53.17006,-3.13209
+CH70,North West,England,53.19276,-2.92257
+CH8,Wales,Wales,53.28286,-3.24648
+CH88,North West,England,53.19461,-2.87475
+CH99,North West,England,53.17513,-2.89547
+CM0,East of England,England,51.6616,0.83283
+CM1,East of England,England,51.74748,0.4583
+CM11,East of England,England,51.62332,0.44625
+CM12,East of England,England,51.62838,0.4144
+CM13,East of England,England,51.61496,0.33829
+CM14,East of England,England,51.61864,0.29156
+CM15,East of England,England,51.64486,0.30311
+CM16,East of England,England,51.70057,0.12036
+CM17,East of England,England,51.7735,0.14618
+CM18,East of England,England,51.75524,0.10611
+CM19,East of England,England,51.7594,0.07114
+CM2,East of England,England,51.72081,0.48662
+CM20,East of England,England,51.77565,0.10276
+CM21,East of England,England,51.81249,0.14505
+CM22,East of England,England,51.86815,0.22833
+CM23,East of England,England,51.87276,0.15803
+CM24,East of England,England,51.89935,0.20376
+CM3,East of England,England,51.72189,0.5844
+CM4,East of England,England,51.67511,0.38938
+CM5,East of England,England,51.72223,0.24829
+CM6,East of England,England,51.87817,0.36532
+CM7,East of England,England,51.89736,0.53699
+CM77,East of England,England,51.86597,0.55342
+CM8,East of England,England,51.80627,0.63712
+CM9,East of England,England,51.74044,0.6987
+CM92,East of England,England,51.76936,0.06128
+CM98,East of England,England,51.75211,0.51845
+CM99,East of England,England,51.7425,0.50063
+CO1,East of England,England,51.88454,0.89741
+CO10,East of England,England,52.05865,0.72151
+CO11,East of England,England,51.94196,1.07669
+CO12,East of England,England,51.93105,1.25216
+CO13,East of England,England,51.83929,1.23613
+CO14,East of England,England,51.85033,1.26717
+CO15,East of England,England,51.79652,1.15493
+CO16,East of England,England,51.82248,1.12392
+CO2,East of England,England,51.86947,0.89392
+CO3,East of England,England,51.88468,0.85551
+CO4,East of England,England,51.90927,0.91907
+CO5,East of England,England,51.81547,0.81834
+CO6,East of England,England,51.92484,0.79075
+CO7,East of England,England,51.88271,1.00539
+CO8,East of England,England,51.97347,0.76655
+CO9,East of England,England,51.96896,0.60958
+CR0,London,England,51.37326,-0.07797
+CR2,London,England,51.34783,-0.08201
+CR3,South East,England,51.28838,-0.08264
+CR4,London,England,51.40439,-0.15914
+CR5,London,England,51.31095,-0.14134
+CR6,South East,England,51.30952,-0.05291
+CR7,London,England,51.3993,-0.10672
+CR8,London,England,51.33185,-0.11437
+CR9,London,England,51.37366,-0.09831
+CR90,London,England,51.37807,-0.11327
+CT1,South East,England,51.27738,1.08562
+CT10,South East,England,51.36318,1.42918
+CT11,South East,England,51.336,1.41337
+CT12,South East,England,51.34369,1.36822
+CT13,South East,England,51.26596,1.3264
+CT14,South East,England,51.21669,1.38509
+CT15,South East,England,51.17242,1.28213
+CT16,South East,England,51.14317,1.29912
+CT17,South East,England,51.12914,1.29389
+CT18,South East,England,51.1157,1.14883
+CT19,South East,England,51.08909,1.16787
+CT2,South East,England,51.29417,1.08088
+CT20,South East,England,51.07985,1.16205
+CT21,South East,England,51.07213,1.07511
+CT3,South East,England,51.27658,1.21041
+CT4,South East,England,51.22338,1.06505
+CT5,South East,England,51.35328,1.03519
+CT50,South East,England,51.07992,1.14304
+CT6,South East,England,51.36406,1.12966
+CT7,South East,England,51.37,1.29549
+CT8,South East,England,51.37991,1.33659
+CT9,South East,England,51.38255,1.38919
+CV1,West Midlands,England,52.40944,-1.5064
+CV10,West Midlands,England,52.52615,-1.50247
+CV11,West Midlands,England,52.52025,-1.45212
+CV12,West Midlands,England,52.4788,-1.47236
+CV13,East Midlands,England,52.61625,-1.41259
+CV2,West Midlands,England,52.42461,-1.46345
+CV21,West Midlands,England,52.37698,-1.25053
+CV22,West Midlands,England,52.35859,-1.2778
+CV23,West Midlands,England,52.36786,-1.27851
+CV3,West Midlands,England,52.39121,-1.47812
+CV31,West Midlands,England,52.27774,-1.52437
+CV32,West Midlands,England,52.29817,-1.5313
+CV33,West Midlands,England,52.24839,-1.48991
+CV34,West Midlands,England,52.28065,-1.57695
+CV35,West Midlands,England,52.22253,-1.59385
+CV36,West Midlands,England,52.059,-1.62218
+CV37,West Midlands,England,52.18133,-1.71639
+CV4,West Midlands,England,52.39696,-1.57292
+CV47,West Midlands,England,52.23478,-1.38584
+CV5,West Midlands,England,52.4129,-1.55633
+CV6,West Midlands,England,52.43445,-1.50737
+CV7,West Midlands,England,52.44733,-1.56595
+CV8,West Midlands,England,52.35184,-1.54184
+CV9,West Midlands,England,52.58644,-1.56206
+CW1,North West,England,53.10401,-2.43593
+CW10,North West,England,53.18846,-2.44332
+CW11,North West,England,53.14324,-2.36768
+CW12,North West,England,53.16665,-2.21451
+CW2,North West,England,53.07935,-2.44619
+CW3,West Midlands,England,52.99769,-2.40753
+CW4,North West,England,53.20872,-2.35592
+CW5,North West,England,53.06185,-2.52294
+CW6,North West,England,53.16225,-2.66673
+CW7,North West,England,53.19008,-2.52875
+CW8,North West,England,53.25314,-2.56492
+CW9,North West,England,53.25861,-2.50159
+CW98,North West,England,53.0882,-2.43111
+DA1,South East,England,51.44809,0.20953
+DA10,South East,England,51.44105,0.30213
+DA11,South East,England,51.43472,0.35049
+DA12,South East,England,51.42767,0.38733
+DA13,South East,England,51.37818,0.35136
+DA14,London,England,51.42493,0.11203
+DA15,London,England,51.44159,0.09807
+DA16,London,England,51.46484,0.10618
+DA17,London,England,51.48649,0.14878
+DA18,London,England,51.49428,0.13629
+DA2,South East,England,51.43247,0.23369
+DA3,South East,England,51.38419,0.30843
+DA4,South East,England,51.38864,0.23239
+DA5,London,England,51.44063,0.14556
+DA6,London,England,51.45505,0.13929
+DA7,London,England,51.46566,0.1462
+DA8,London,England,51.47579,0.17556
+DA9,South East,England,51.44778,0.27734
+DD1,Scotland,Scotland,56.461,-2.97657
+DD10,Scotland,Scotland,56.74968,-2.42582
+DD11,Scotland,Scotland,56.57359,-2.59903
+DD2,Scotland,Scotland,56.47038,-3.03203
+DD3,Scotland,Scotland,56.48328,-2.99
+DD4,Scotland,Scotland,56.48216,-2.93561
+DD5,Scotland,Scotland,56.4802,-2.85775
+DD6,Scotland,Scotland,56.43589,-2.92741
+DD7,Scotland,Scotland,56.50276,-2.72079
+DD8,Scotland,Scotland,56.65591,-2.92241
+DD9,Scotland,Scotland,56.74856,-2.66823
+DE1,East Midlands,England,52.9219,-1.47719
+DE11,East Midlands,England,52.77265,-1.55649
+DE12,East Midlands,England,52.72308,-1.5535
+DE13,West Midlands,England,52.80704,-1.69372
+DE14,West Midlands,England,52.80441,-1.64421
+DE15,West Midlands,England,52.79685,-1.61044
+DE21,East Midlands,England,52.9342,-1.43171
+DE22,East Midlands,England,52.93415,-1.50014
+DE23,East Midlands,England,52.9003,-1.4981
+DE24,East Midlands,England,52.88897,-1.45261
+DE3,East Midlands,England,52.91011,-1.5437
+DE4,East Midlands,England,53.12661,-1.56523
+DE45,East Midlands,England,53.21441,-1.6787
+DE5,East Midlands,England,53.04474,-1.40256
+DE55,East Midlands,England,53.1026,-1.37291
+DE56,East Midlands,England,53.02255,-1.47533
+DE6,East Midlands,England,52.99079,-1.71613
+DE65,East Midlands,England,52.86737,-1.61281
+DE7,East Midlands,England,52.97347,-1.32349
+DE72,East Midlands,England,52.89313,-1.35839
+DE73,East Midlands,England,52.84818,-1.43752
+DE74,East Midlands,England,52.83881,-1.32542
+DE75,East Midlands,England,53.01261,-1.3538
+DE99,East Midlands,England,52.91494,-1.46562
+DG1,Scotland,Scotland,55.0738,-3.58155
+DG10,Scotland,Scotland,55.32038,-3.43852
+DG11,Scotland,Scotland,55.11393,-3.33899
+DG12,Scotland,Scotland,54.98991,-3.25007
+DG13,Scotland,Scotland,55.17315,-3.03006
+DG14,Scotland,Scotland,55.08202,-2.98304
+DG16,Scotland,Scotland,54.99707,-3.06877
+DG2,Scotland,Scotland,55.06473,-3.65919
+DG3,Scotland,Scotland,55.23746,-3.79903
+DG4,Scotland,Scotland,55.37549,-3.95261
+DG5,Scotland,Scotland,54.92138,-3.81116
+DG6,Scotland,Scotland,54.83712,-4.0556
+DG7,Scotland,Scotland,54.96919,-4.01359
+DG8,Scotland,Scotland,54.87223,-4.51605
+DG9,Scotland,Scotland,54.87737,-5.02295
+DH1,North East,England,54.78197,-1.56545
+DH2,North East,England,54.85978,-1.59981
+DH3,North East,England,54.87281,-1.56728
+DH4,North East,England,54.85389,-1.49252
+DH5,North East,England,54.82326,-1.45521
+DH6,North East,England,54.75258,-1.46404
+DH7,North East,England,54.78994,-1.66573
+DH8,North East,England,54.85689,-1.85014
+DH9,North East,England,54.8686,-1.71102
+DH97,North East,England,54.79272,-1.53503
+DH98,North East,England,54.79272,-1.53503
+DH99,North East,England,54.78824,-1.54938
+DL1,North East,England,54.53014,-1.5388
+DL10,Yorkshire and the Humber,England,54.41411,-1.6905
+DL11,Yorkshire and the Humber,England,54.43954,-1.87679
+DL12,North East,England,54.57198,-1.98488
+DL13,North East,England,54.71703,-1.95689
+DL14,North East,England,54.65159,-1.69169
+DL15,North East,England,54.71103,-1.73027
+DL16,North East,England,54.69889,-1.60576
+DL17,North East,England,54.68025,-1.5413
+DL2,North East,England,54.52874,-1.59525
+DL3,North East,England,54.53248,-1.57167
+DL4,North East,England,54.63025,-1.64438
+DL5,North East,England,54.61773,-1.57868
+DL6,Yorkshire and the Humber,England,54.37053,-1.39258
+DL7,Yorkshire and the Humber,England,54.33772,-1.48677
+DL8,Yorkshire and the Humber,England,54.29262,-1.78287
+DL9,Yorkshire and the Humber,England,54.3756,-1.70668
+DL98,North East,England,54.52752,-1.55971
+DN1,Yorkshire and the Humber,England,53.52138,-1.13064
+DN10,East Midlands,England,53.4242,-0.93318
+DN11,Yorkshire and the Humber,England,53.44841,-1.0816
+DN12,Yorkshire and the Humber,England,53.48261,-1.22387
+DN14,Yorkshire and the Humber,England,53.70929,-0.9416
+DN15,Yorkshire and the Humber,England,53.61469,-0.65181
+DN16,Yorkshire and the Humber,England,53.56742,-0.63966
+DN17,Yorkshire and the Humber,England,53.57268,-0.70597
+DN18,Yorkshire and the Humber,England,53.68132,-0.44758
+DN19,Yorkshire and the Humber,England,53.68407,-0.35978
+DN2,Yorkshire and the Humber,England,53.53398,-1.10265
+DN20,Yorkshire and the Humber,England,53.55782,-0.50653
+DN21,East Midlands,England,53.41918,-0.7037
+DN22,East Midlands,England,53.32427,-0.92841
+DN3,Yorkshire and the Humber,England,53.54606,-1.05918
+DN31,Yorkshire and the Humber,England,53.56997,-0.08982
+DN32,Yorkshire and the Humber,England,53.56204,-0.07011
+DN33,Yorkshire and the Humber,England,53.53934,-0.09944
+DN34,Yorkshire and the Humber,England,53.55745,-0.11348
+DN35,Yorkshire and the Humber,England,53.55459,-0.03642
+DN36,Yorkshire and the Humber,England,53.51141,-0.04041
+DN37,Yorkshire and the Humber,England,53.53908,-0.13775
+DN38,Yorkshire and the Humber,England,53.56036,-0.39098
+DN39,Yorkshire and the Humber,England,53.61621,-0.33564
+DN4,Yorkshire and the Humber,England,53.50503,-1.12129
+DN40,Yorkshire and the Humber,England,53.62099,-0.22722
+DN41,Yorkshire and the Humber,England,53.58136,-0.19477
+DN5,Yorkshire and the Humber,England,53.53843,-1.17456
+DN6,Yorkshire and the Humber,England,53.59791,-1.17841
+DN7,Yorkshire and the Humber,England,53.58279,-1.01315
+DN8,Yorkshire and the Humber,England,53.61523,-0.95508
+DN9,Yorkshire and the Humber,England,53.5059,-0.89477
+DT1,South West,England,50.71198,-2.44607
+DT10,South West,England,50.93802,-2.33425
+DT11,South West,England,50.86181,-2.18338
+DT2,South West,England,50.74954,-2.45101
+DT3,South West,England,50.64213,-2.46871
+DT4,South West,England,50.60955,-2.46554
+DT5,South West,England,50.54876,-2.4424
+DT6,South West,England,50.73917,-2.77566
+DT7,South West,England,50.72943,-2.94744
+DT8,South West,England,50.81986,-2.75908
+DT9,South West,England,50.94191,-2.51592
+DY1,West Midlands,England,52.51651,-2.09671
+DY10,West Midlands,England,52.38688,-2.22371
+DY11,West Midlands,England,52.38439,-2.26229
+DY12,West Midlands,England,52.38637,-2.33217
+DY13,West Midlands,England,52.33668,-2.28161
+DY14,West Midlands,England,52.38049,-2.46841
+DY2,West Midlands,England,52.49637,-2.08141
+DY3,West Midlands,England,52.53083,-2.13123
+DY4,West Midlands,England,52.53292,-2.05549
+DY5,West Midlands,England,52.48058,-2.12391
+DY6,West Midlands,England,52.49866,-2.16409
+DY7,West Midlands,England,52.46634,-2.23138
+DY8,West Midlands,England,52.4609,-2.15589
+DY9,West Midlands,England,52.43304,-2.12255
+E1,London,England,51.51739,-0.05935
+E10,London,England,51.56772,-0.01437
+E11,London,England,51.5687,0.01357
+E12,London,England,51.55073,0.05307
+E13,London,England,51.52787,0.02666
+E14,London,England,51.50616,-0.01813
+E15,London,England,51.54027,0.00321
+E16,London,England,51.51035,0.03
+E17,London,England,51.58696,-0.02084
+E18,London,England,51.59278,0.02501
+E1W,London,England,51.50946,-0.05889
+E2,London,England,51.52964,-0.06262
+E20,London,England,51.54632,-0.01065
+E22,London,England,51.50168,-0.01478
+E3,London,England,51.5281,-0.02483
+E4,London,England,51.62174,-0.00573
+E5,London,England,51.55927,-0.05357
+E6,London,England,51.52653,0.05385
+E7,London,England,51.54713,0.02749
+E8,London,England,51.54379,-0.06611
+E9,London,England,51.54401,-0.04173
+E98,London,England,51.50803,-0.06442
+EC1A,London,England,51.52053,-0.10418
+EC1M,London,England,51.5213,-0.1023
+EC1N,London,England,51.51991,-0.10881
+EC1P,London,England,51.52457,-0.11202
+EC1R,London,England,51.52504,-0.10834
+EC1V,London,England,51.5268,-0.09778
+EC1Y,London,England,51.52307,-0.09222
+EC2A,London,England,51.52369,-0.08548
+EC2M,London,England,51.51856,-0.08616
+EC2N,London,England,51.5158,-0.0858
+EC2P,London,England,51.52444,-0.11171
+EC2R,London,England,51.51628,-0.0911
+EC2V,London,England,51.51541,-0.09362
+EC2Y,London,England,51.51949,-0.09353
+EC3A,London,England,51.51477,-0.08026
+EC3M,London,England,51.51185,-0.08209
+EC3N,London,England,51.51174,-0.07661
+EC3P,London,England,51.52416,-0.1108
+EC3R,London,England,51.51053,-0.08342
+EC3V,London,England,51.51301,-0.08574
+EC4A,London,England,51.5158,-0.10818
+EC4M,London,England,51.51432,-0.09951
+EC4N,London,England,51.51281,-0.09135
+EC4P,London,England,51.52457,-0.11202
+EC4R,London,England,51.51087,-0.09041
+EC4V,London,England,51.51248,-0.1
+EC4Y,London,England,51.51291,-0.10895
+EH1,Scotland,Scotland,55.95079,-3.19279
+EH10,Scotland,Scotland,55.91975,-3.21112
+EH11,Scotland,Scotland,55.93274,-3.25141
+EH12,Scotland,Scotland,55.94223,-3.2813
+EH13,Scotland,Scotland,55.9067,-3.24291
+EH14,Scotland,Scotland,55.90884,-3.2863
+EH15,Scotland,Scotland,55.94616,-3.11255
+EH16,Scotland,Scotland,55.92273,-3.15156
+EH17,Scotland,Scotland,55.90471,-3.14298
+EH18,Scotland,Scotland,55.87687,-3.12244
+EH19,Scotland,Scotland,55.87242,-3.10447
+EH2,Scotland,Scotland,55.95235,-3.20207
+EH20,Scotland,Scotland,55.87881,-3.1572
+EH21,Scotland,Scotland,55.93798,-3.04531
+EH22,Scotland,Scotland,55.88557,-3.06117
+EH23,Scotland,Scotland,55.83956,-3.05102
+EH24,Scotland,Scotland,55.84978,-3.13671
+EH25,Scotland,Scotland,55.86132,-3.17474
+EH26,Scotland,Scotland,55.83411,-3.2237
+EH27,Scotland,Scotland,55.89003,-3.41556
+EH28,Scotland,Scotland,55.92977,-3.39064
+EH29,Scotland,Scotland,55.95697,-3.40404
+EH3,Scotland,Scotland,55.95187,-3.20682
+EH30,Scotland,Scotland,55.98519,-3.39715
+EH31,Scotland,Scotland,56.03629,-2.82601
+EH32,Scotland,Scotland,55.96725,-2.94802
+EH33,Scotland,Scotland,55.94108,-2.94546
+EH34,Scotland,Scotland,55.90776,-2.88044
+EH35,Scotland,Scotland,55.9106,-2.94453
+EH36,Scotland,Scotland,55.85544,-2.8543
+EH37,Scotland,Scotland,55.86137,-2.95992
+EH38,Scotland,Scotland,55.77739,-2.95282
+EH39,Scotland,Scotland,56.04703,-2.73434
+EH4,Scotland,Scotland,55.96269,-3.26219
+EH40,Scotland,Scotland,55.98954,-2.66111
+EH41,Scotland,Scotland,55.94861,-2.77841
+EH42,Scotland,Scotland,55.99356,-2.52528
+EH43,Scotland,Scotland,55.62385,-3.01135
+EH44,Scotland,Scotland,55.61918,-3.06355
+EH45,Scotland,Scotland,55.6546,-3.19065
+EH46,Scotland,Scotland,55.74086,-3.35584
+EH47,Scotland,Scotland,55.85844,-3.6661
+EH48,Scotland,Scotland,55.89894,-3.66538
+EH49,Scotland,Scotland,55.97597,-3.59834
+EH5,Scotland,Scotland,55.97621,-3.22242
+EH51,Scotland,Scotland,56.01075,-3.60507
+EH52,Scotland,Scotland,55.93978,-3.48412
+EH53,Scotland,Scotland,55.89573,-3.46789
+EH54,Scotland,Scotland,55.89195,-3.52443
+EH55,Scotland,Scotland,55.84681,-3.57511
+EH6,Scotland,Scotland,55.97254,-3.17514
+EH7,Scotland,Scotland,55.96032,-3.1652
+EH8,Scotland,Scotland,55.94878,-3.16441
+EH9,Scotland,Scotland,55.93308,-3.18524
+EH91,Scotland,Scotland,55.92518,-3.29792
+EH95,Scotland,Scotland,55.97861,-3.25352
+EH99,Scotland,Scotland,55.94764,-3.20377
+EN1,London,England,51.65434,-0.06782
+EN10,East of England,England,51.73813,-0.02315
+EN11,East of England,England,51.76569,-0.00938
+EN2,London,England,51.66005,-0.09437
+EN3,London,England,51.66023,-0.03655
+EN4,London,England,51.64939,-0.16007
+EN5,London,England,51.65013,-0.19812
+EN6,East of England,England,51.69956,-0.17611
+EN7,East of England,England,51.71225,-0.06977
+EN8,East of England,England,51.69943,-0.03382
+EN9,East of England,England,51.69631,0.01531
+EX1,South West,England,50.72888,-3.49654
+EX10,South West,England,50.69329,-3.2467
+EX11,South West,England,50.74684,-3.28953
+EX12,South West,England,50.70685,-3.08193
+EX13,South West,England,50.78711,-3.00709
+EX14,South West,England,50.81405,-3.19179
+EX15,South West,England,50.8773,-3.34167
+EX16,South West,England,50.92275,-3.49219
+EX17,South West,England,50.8121,-3.70552
+EX18,South West,England,50.90195,-3.88777
+EX19,South West,England,50.87708,-4.00342
+EX2,South West,England,50.70858,-3.5146
+EX20,South West,England,50.75212,-4.01821
+EX21,South West,England,50.80549,-4.2079
+EX22,South West,England,50.82817,-4.36815
+EX23,South West,England,50.82423,-4.53232
+EX24,South West,England,50.7405,-3.08941
+EX3,South West,England,50.68626,-3.46018
+EX31,South West,England,51.08534,-4.06921
+EX32,South West,England,51.0719,-4.02009
+EX33,South West,England,51.11544,-4.17506
+EX34,South West,England,51.19807,-4.10639
+EX35,South West,England,51.22387,-3.82716
+EX36,South West,England,51.01684,-3.79776
+EX37,South West,England,50.97865,-3.95428
+EX38,South West,England,50.94402,-4.15246
+EX39,South West,England,51.01548,-4.2454
+EX4,South West,England,50.73146,-3.52635
+EX5,South West,England,50.75588,-3.43338
+EX6,South West,England,50.6766,-3.5981
+EX7,South West,England,50.5848,-3.47061
+EX8,South West,England,50.62988,-3.40146
+EX9,South West,England,50.63972,-3.32396
+FK1,Scotland,Scotland,55.98431,-3.7944
+FK10,Scotland,Scotland,56.1159,-3.7832
+FK11,Scotland,Scotland,56.14988,-3.85173
+FK12,Scotland,Scotland,56.15283,-3.80189
+FK13,Scotland,Scotland,56.15181,-3.73984
+FK14,Scotland,Scotland,56.16822,-3.65494
+FK15,Scotland,Scotland,56.20338,-3.95015
+FK16,Scotland,Scotland,56.19111,-4.06083
+FK17,Scotland,Scotland,56.23968,-4.22001
+FK18,Scotland,Scotland,56.32507,-4.32883
+FK19,Scotland,Scotland,56.37085,-4.31381
+FK2,Scotland,Scotland,56.00478,-3.7556
+FK20,Scotland,Scotland,56.40541,-4.64009
+FK21,Scotland,Scotland,56.46593,-4.32105
+FK3,Scotland,Scotland,56.01066,-3.7206
+FK4,Scotland,Scotland,55.99646,-3.90786
+FK5,Scotland,Scotland,56.02733,-3.82297
+FK6,Scotland,Scotland,56.02155,-3.9154
+FK7,Scotland,Scotland,56.09596,-3.91779
+FK8,Scotland,Scotland,56.13181,-4.06012
+FK9,Scotland,Scotland,56.14481,-3.94298
+FY1,North West,England,53.81518,-3.04689
+FY2,North West,England,53.84591,-3.03962
+FY3,North West,England,53.82143,-3.02035
+FY4,North West,England,53.79101,-3.02715
+FY5,North West,England,53.87512,-3.02144
+FY6,North West,England,53.8679,-2.98106
+FY7,North West,England,53.91604,-3.02743
+FY8,North West,England,53.75099,-3.00258
+G1,Scotland,Scotland,55.8589,-4.24878
+G11,Scotland,Scotland,55.87326,-4.31297
+G12,Scotland,Scotland,55.88056,-4.30059
+G13,Scotland,Scotland,55.89351,-4.34794
+G14,Scotland,Scotland,55.88053,-4.35125
+G15,Scotland,Scotland,55.9093,-4.36624
+G2,Scotland,Scotland,55.86292,-4.25612
+G20,Scotland,Scotland,55.8859,-4.28248
+G21,Scotland,Scotland,55.88211,-4.21996
+G22,Scotland,Scotland,55.89052,-4.25224
+G23,Scotland,Scotland,55.90281,-4.28495
+G3,Scotland,Scotland,55.86566,-4.27779
+G31,Scotland,Scotland,55.85652,-4.20849
+G32,Scotland,Scotland,55.84882,-4.16556
+G33,Scotland,Scotland,55.875,-4.16493
+G34,Scotland,Scotland,55.86794,-4.11254
+G4,Scotland,Scotland,55.86755,-4.25199
+G40,Scotland,Scotland,55.84712,-4.22055
+G41,Scotland,Scotland,55.83768,-4.28433
+G42,Scotland,Scotland,55.83212,-4.25748
+G43,Scotland,Scotland,55.81876,-4.29203
+G44,Scotland,Scotland,55.8142,-4.25572
+G45,Scotland,Scotland,55.805,-4.23279
+G46,Scotland,Scotland,55.80334,-4.30788
+G5,Scotland,Scotland,55.84786,-4.252
+G51,Scotland,Scotland,55.85778,-4.31651
+G52,Scotland,Scotland,55.84778,-4.35016
+G53,Scotland,Scotland,55.82089,-4.35247
+G58,Scotland,Scotland,55.84236,-4.29068
+G60,Scotland,Scotland,55.92258,-4.45605
+G61,Scotland,Scotland,55.91913,-4.33173
+G62,Scotland,Scotland,55.94275,-4.32126
+G63,Scotland,Scotland,56.04235,-4.36557
+G64,Scotland,Scotland,55.91146,-4.21702
+G65,Scotland,Scotland,55.97327,-4.05768
+G66,Scotland,Scotland,55.94043,-4.15372
+G67,Scotland,Scotland,55.94659,-3.98718
+G68,Scotland,Scotland,55.95284,-4.01632
+G69,Scotland,Scotland,55.87638,-4.10083
+G70,Scotland,Scotland,55.9519,-3.98365
+G71,Scotland,Scotland,55.82264,-4.07497
+G72,Scotland,Scotland,55.80455,-4.12986
+G73,Scotland,Scotland,55.81941,-4.20686
+G74,Scotland,Scotland,55.76895,-4.17552
+G75,Scotland,Scotland,55.75042,-4.20074
+G76,Scotland,Scotland,55.77703,-4.27305
+G77,Scotland,Scotland,55.77363,-4.33231
+G78,Scotland,Scotland,55.79278,-4.40933
+G79,Scotland,Scotland,55.771,-4.22306
+G81,Scotland,Scotland,55.91356,-4.40746
+G82,Scotland,Scotland,55.95161,-4.57401
+G83,Scotland,Scotland,56.01214,-4.58678
+G84,Scotland,Scotland,56.01399,-4.75561
+G90,Scotland,Scotland,55.86903,-4.24094
+GL1,South West,England,51.85933,-2.24381
+GL10,South West,England,51.74485,-2.28786
+GL11,South West,England,51.69053,-2.3573
+GL12,South West,England,51.62353,-2.38977
+GL13,South West,England,51.69227,-2.46083
+GL14,South West,England,51.81782,-2.48165
+GL15,South West,England,51.73682,-2.55016
+GL16,South West,England,51.79578,-2.61289
+GL17,South West,England,51.85533,-2.51169
+GL18,South West,England,51.94073,-2.41458
+GL19,South West,England,51.94542,-2.28917
+GL2,South West,England,51.84401,-2.26928
+GL20,South West,England,52.0017,-2.13062
+GL3,South West,England,51.8636,-2.17742
+GL4,South West,England,51.84035,-2.21901
+GL5,South West,England,51.73807,-2.22112
+GL50,South West,England,51.90064,-2.08184
+GL51,South West,England,51.89917,-2.11054
+GL52,South West,England,51.91996,-2.05848
+GL53,South West,England,51.87934,-2.06809
+GL54,South West,England,51.89709,-1.84449
+GL55,South West,England,52.06386,-1.76939
+GL56,South West,England,51.98949,-1.70332
+GL6,South West,England,51.73437,-2.19351
+GL7,South West,England,51.71097,-1.8967
+GL8,South West,England,51.64281,-2.17124
+GL9,South West,England,51.5558,-2.30346
+GU1,South East,England,51.24311,-0.56478
+GU10,South East,England,51.19725,-0.79672
+GU11,South East,England,51.24957,-0.76335
+GU12,South East,England,51.25144,-0.72921
+GU14,South East,England,51.29409,-0.76375
+GU15,South East,England,51.33565,-0.73675
+GU16,South East,England,51.30873,-0.72413
+GU17,South East,England,51.32835,-0.78839
+GU18,South East,England,51.34847,-0.66998
+GU19,South East,England,51.35986,-0.69187
+GU2,South East,England,51.24565,-0.59414
+GU20,South East,England,51.36484,-0.65001
+GU21,South East,England,51.32117,-0.57975
+GU22,South East,England,51.3119,-0.55182
+GU23,South East,England,51.29346,-0.50654
+GU24,South East,England,51.3303,-0.62859
+GU25,South East,England,51.40101,-0.57212
+GU26,South East,England,51.11436,-0.75031
+GU27,South East,England,51.08128,-0.72152
+GU28,South East,England,50.99112,-0.63315
+GU29,South East,England,50.98491,-0.74775
+GU3,South East,England,51.247,-0.6288
+GU30,South East,England,51.07566,-0.80441
+GU31,South East,England,50.99702,-0.90332
+GU32,South East,England,51.00908,-0.96906
+GU33,South East,England,51.0516,-0.89051
+GU34,South East,England,51.13878,-0.98721
+GU35,South East,England,51.11658,-0.8505
+GU4,South East,England,51.24334,-0.54004
+GU46,South East,England,51.33858,-0.83198
+GU47,South East,England,51.34945,-0.79188
+GU5,South East,England,51.19862,-0.50993
+GU51,South East,England,51.28409,-0.84193
+GU52,South East,England,51.26297,-0.83942
+GU6,South East,England,51.13949,-0.48506
+GU7,South East,England,51.18964,-0.6123
+GU8,South East,England,51.14844,-0.64463
+GU9,South East,England,51.21918,-0.79422
+HA0,London,England,51.55102,-0.30527
+HA1,London,England,51.58034,-0.33862
+HA2,London,England,51.57375,-0.36136
+HA3,London,England,51.59381,-0.32092
+HA4,London,England,51.57029,-0.41067
+HA5,London,England,51.59504,-0.38633
+HA6,London,England,51.61192,-0.4225
+HA7,London,England,51.61134,-0.31076
+HA8,London,England,51.61136,-0.27381
+HA9,London,England,51.56064,-0.28507
+HD1,Yorkshire and the Humber,England,53.64685,-1.78904
+HD2,Yorkshire and the Humber,England,53.66905,-1.77678
+HD3,Yorkshire and the Humber,England,53.65359,-1.83216
+HD4,Yorkshire and the Humber,England,53.62547,-1.79785
+HD5,Yorkshire and the Humber,England,53.64744,-1.7462
+HD6,Yorkshire and the Humber,England,53.70213,-1.78469
+HD7,Yorkshire and the Humber,England,53.62393,-1.8778
+HD8,Yorkshire and the Humber,England,53.59902,-1.67309
+HD9,Yorkshire and the Humber,England,53.58061,-1.79716
+HG1,Yorkshire and the Humber,England,54.00023,-1.53459
+HG2,Yorkshire and the Humber,England,53.98539,-1.52886
+HG3,Yorkshire and the Humber,England,54.02945,-1.61629
+HG4,Yorkshire and the Humber,England,54.15682,-1.56643
+HG5,Yorkshire and the Humber,England,54.01354,-1.45685
+HP1,East of England,England,51.75644,-0.48824
+HP10,South East,England,51.60847,-0.69798
+HP11,South East,England,51.62366,-0.74542
+HP12,South East,England,51.62616,-0.77975
+HP13,South East,England,51.63452,-0.74052
+HP14,South East,England,51.65239,-0.8386
+HP15,South East,England,51.65884,-0.7112
+HP16,South East,England,51.70231,-0.71988
+HP17,South East,England,51.77575,-0.88777
+HP18,South East,England,51.81998,-0.96797
+HP19,South East,England,51.82373,-0.82805
+HP2,East of England,England,51.7644,-0.45194
+HP20,South East,England,51.82025,-0.80652
+HP21,South East,England,51.80513,-0.80587
+HP22,South East,England,51.80921,-0.76942
+HP23,East of England,England,51.79574,-0.66149
+HP27,South East,England,51.72095,-0.8331
+HP3,East of England,England,51.73565,-0.47168
+HP4,East of England,England,51.76797,-0.56904
+HP5,South East,England,51.71271,-0.60861
+HP6,South East,England,51.67868,-0.59842
+HP7,South East,England,51.66442,-0.61014
+HP8,South East,England,51.63812,-0.56961
+HP9,South East,England,51.61015,-0.6402
+HR1,West Midlands,England,52.06049,-2.6771
+HR2,West Midlands,England,52.00934,-2.78553
+HR3,West Midlands,England,52.09455,-3.08795
+HR4,West Midlands,England,52.09054,-2.77139
+HR5,West Midlands,England,52.19634,-3.03646
+HR6,West Midlands,England,52.23358,-2.77303
+HR7,West Midlands,England,52.18571,-2.52365
+HR8,West Midlands,England,52.04518,-2.44548
+HR9,West Midlands,England,51.90787,-2.58232
+HS1,Scotland,Scotland,58.21266,-6.38138
+HS2,Scotland,Scotland,58.24858,-6.46205
+HS3,Scotland,Scotland,57.87768,-6.85063
+HS4,Scotland,Scotland,57.87074,-6.69635
+HS5,Scotland,Scotland,57.76542,-7.01182
+HS6,Scotland,Scotland,57.60249,-7.29929
+HS7,Scotland,Scotland,57.44787,-7.34145
+HS8,Scotland,Scotland,57.23625,-7.34738
+HS9,Scotland,Scotland,56.9726,-7.47392
+HU1,Yorkshire and the Humber,England,53.74285,-0.33793
+HU10,Yorkshire and the Humber,England,53.75136,-0.44222
+HU11,Yorkshire and the Humber,England,53.82817,-0.22138
+HU12,Yorkshire and the Humber,England,53.72479,-0.12815
+HU13,Yorkshire and the Humber,England,53.72574,-0.43943
+HU14,Yorkshire and the Humber,England,53.72861,-0.50058
+HU15,Yorkshire and the Humber,England,53.74753,-0.61784
+HU16,Yorkshire and the Humber,England,53.78168,-0.42287
+HU17,Yorkshire and the Humber,England,53.84622,-0.42706
+HU18,Yorkshire and the Humber,England,53.90989,-0.16928
+HU19,Yorkshire and the Humber,England,53.72335,0.03444
+HU2,Yorkshire and the Humber,England,53.75077,-0.34072
+HU20,Yorkshire and the Humber,England,53.78791,-0.51165
+HU3,Yorkshire and the Humber,England,53.74231,-0.36772
+HU4,Yorkshire and the Humber,England,53.73632,-0.40386
+HU5,Yorkshire and the Humber,England,53.75999,-0.37633
+HU6,Yorkshire and the Humber,England,53.78114,-0.37159
+HU7,Yorkshire and the Humber,England,53.79152,-0.32976
+HU8,Yorkshire and the Humber,England,53.76948,-0.29961
+HU9,Yorkshire and the Humber,England,53.75616,-0.2888
+HX1,Yorkshire and the Humber,England,53.72103,-1.87181
+HX2,Yorkshire and the Humber,England,53.73862,-1.90657
+HX3,Yorkshire and the Humber,England,53.72677,-1.84413
+HX4,Yorkshire and the Humber,England,53.67712,-1.88249
+HX5,Yorkshire and the Humber,England,53.6846,-1.83524
+HX6,Yorkshire and the Humber,England,53.69682,-1.92745
+HX7,Yorkshire and the Humber,England,53.73921,-2.00846
+IG1,London,England,51.55946,0.07343
+IG10,East of England,England,51.64843,0.06602
+IG11,London,England,51.53444,0.09388
+IG2,London,England,51.57619,0.08157
+IG3,London,England,51.56318,0.10281
+IG4,London,England,51.58008,0.05124
+IG5,London,England,51.5913,0.06346
+IG6,London,England,51.59595,0.08766
+IG7,East of England,England,51.61428,0.096
+IG8,London,England,51.60894,0.03668
+IG9,East of England,England,51.6258,0.04047
+IP1,East of England,England,52.06762,1.1394
+IP10,East of England,England,52.01893,1.27013
+IP11,East of England,England,51.96809,1.3409
+IP12,East of England,England,52.09334,1.37025
+IP13,East of England,England,52.18974,1.32068
+IP14,East of England,England,52.20633,1.03002
+IP15,East of England,England,52.15635,1.59543
+IP16,East of England,England,52.20455,1.58349
+IP17,East of England,England,52.23112,1.50241
+IP18,East of England,England,52.3305,1.67036
+IP19,East of England,England,52.34036,1.49447
+IP2,East of England,England,52.04517,1.13385
+IP20,East of England,England,52.40618,1.31904
+IP21,East of England,England,52.36447,1.23704
+IP22,East of England,England,52.37562,1.05097
+IP23,East of England,England,52.30822,1.121
+IP24,East of England,England,52.42089,0.75931
+IP25,East of England,England,52.58633,0.83919
+IP26,East of England,England,52.5079,0.57233
+IP27,East of England,England,52.42986,0.58047
+IP28,East of England,England,52.3306,0.5271
+IP29,East of England,England,52.19083,0.659
+IP3,East of England,England,52.04132,1.18808
+IP30,East of England,England,52.21058,0.85018
+IP31,East of England,England,52.29022,0.83516
+IP32,East of England,England,52.25506,0.71853
+IP33,East of England,England,52.24291,0.70819
+IP4,East of England,England,52.06042,1.18022
+IP5,East of England,England,52.06169,1.24672
+IP6,East of England,England,52.13285,1.10933
+IP7,East of England,England,52.06821,0.94364
+IP8,East of England,England,52.06308,1.07968
+IP9,East of England,England,51.98849,1.14688
+IP98,East of England,England,52.37668,1.10924
+IV1,Scotland,Scotland,57.48407,-4.23511
+IV10,Scotland,Scotland,57.58463,-4.12609
+IV11,Scotland,Scotland,57.67712,-4.03843
+IV12,Scotland,Scotland,57.57435,-3.86485
+IV13,Scotland,Scotland,57.34159,-4.01869
+IV14,Scotland,Scotland,57.58555,-4.54951
+IV15,Scotland,Scotland,57.5993,-4.43132
+IV16,Scotland,Scotland,57.66467,-4.33829
+IV17,Scotland,Scotland,57.6989,-4.25927
+IV18,Scotland,Scotland,57.70244,-4.15509
+IV19,Scotland,Scotland,57.8041,-4.06229
+IV2,Scotland,Scotland,57.46834,-4.18499
+IV20,Scotland,Scotland,57.78837,-3.90362
+IV21,Scotland,Scotland,57.72406,-5.72148
+IV22,Scotland,Scotland,57.73919,-5.51504
+IV23,Scotland,Scotland,57.77102,-5.02697
+IV24,Scotland,Scotland,57.89104,-4.35625
+IV25,Scotland,Scotland,57.88875,-4.04161
+IV26,Scotland,Scotland,57.92715,-5.19386
+IV27,Scotland,Scotland,58.27321,-4.79291
+IV28,Scotland,Scotland,58.00944,-4.15791
+IV3,Scotland,Scotland,57.47643,-4.24819
+IV30,Scotland,Scotland,57.65223,-3.32503
+IV31,Scotland,Scotland,57.71671,-3.29086
+IV32,Scotland,Scotland,57.63041,-3.1048
+IV36,Scotland,Scotland,57.60946,-3.60821
+IV4,Scotland,Scotland,57.4521,-4.52129
+IV40,Scotland,Scotland,57.27398,-5.64884
+IV41,Scotland,Scotland,57.27276,-5.73639
+IV42,Scotland,Scotland,57.23876,-5.83087
+IV43,Scotland,Scotland,57.15591,-5.81204
+IV44,Scotland,Scotland,57.10853,-5.88287
+IV45,Scotland,Scotland,57.07172,-5.90653
+IV46,Scotland,Scotland,57.10927,-5.97907
+IV47,Scotland,Scotland,57.29524,-6.34382
+IV48,Scotland,Scotland,57.29351,-6.09745
+IV49,Scotland,Scotland,57.22947,-5.94072
+IV5,Scotland,Scotland,57.46914,-4.41038
+IV51,Scotland,Scotland,57.47459,-6.2432
+IV52,Scotland,Scotland,57.33604,-5.65242
+IV53,Scotland,Scotland,57.34416,-5.55468
+IV54,Scotland,Scotland,57.43,-5.61681
+IV55,Scotland,Scotland,57.45635,-6.60999
+IV56,Scotland,Scotland,57.3655,-6.43014
+IV6,Scotland,Scotland,57.52589,-4.45858
+IV63,Scotland,Scotland,57.3062,-4.53082
+IV7,Scotland,Scotland,57.58302,-4.38723
+IV8,Scotland,Scotland,57.55426,-4.26545
+IV9,Scotland,Scotland,57.56875,-4.17865
+IV99,Scotland,Scotland,57.48132,-4.22395
+KA1,Scotland,Scotland,55.59529,-4.49744
+KA10,Scotland,Scotland,55.55065,-4.64718
+KA11,Scotland,Scotland,55.61873,-4.6283
+KA12,Scotland,Scotland,55.61914,-4.6653
+KA13,Scotland,Scotland,55.65572,-4.70014
+KA14,Scotland,Scotland,55.74015,-4.67257
+KA15,Scotland,Scotland,55.74875,-4.62677
+KA16,Scotland,Scotland,55.60761,-4.32824
+KA17,Scotland,Scotland,55.61065,-4.27905
+KA18,Scotland,Scotland,55.45164,-4.24191
+KA19,Scotland,Scotland,55.3462,-4.66801
+KA2,Scotland,Scotland,55.59553,-4.5671
+KA20,Scotland,Scotland,55.64134,-4.75078
+KA21,Scotland,Scotland,55.64231,-4.78421
+KA22,Scotland,Scotland,55.64998,-4.80883
+KA23,Scotland,Scotland,55.69341,-4.85782
+KA24,Scotland,Scotland,55.70947,-4.71564
+KA25,Scotland,Scotland,55.75344,-4.68867
+KA26,Scotland,Scotland,55.2169,-4.83597
+KA27,Scotland,Scotland,55.53847,-5.17333
+KA28,Scotland,Scotland,55.75411,-4.92519
+KA29,Scotland,Scotland,55.75566,-4.85395
+KA3,Scotland,Scotland,55.6457,-4.4969
+KA30,Scotland,Scotland,55.79731,-4.86331
+KA4,Scotland,Scotland,55.5994,-4.38173
+KA5,Scotland,Scotland,55.51048,-4.38944
+KA6,Scotland,Scotland,55.41606,-4.50316
+KA7,Scotland,Scotland,55.44684,-4.63082
+KA8,Scotland,Scotland,55.47174,-4.61239
+KA9,Scotland,Scotland,55.49782,-4.6047
+KT1,London,England,51.40761,-0.29828
+KT10,South East,England,51.36943,-0.35425
+KT11,South East,England,51.32835,-0.40259
+KT12,South East,England,51.37734,-0.40844
+KT13,South East,England,51.36818,-0.44909
+KT14,South East,England,51.33831,-0.48856
+KT15,South East,England,51.36371,-0.49588
+KT16,South East,England,51.38205,-0.51757
+KT17,South East,England,51.34134,-0.2492
+KT18,South East,England,51.31592,-0.2633
+KT19,South East,England,51.35274,-0.27082
+KT2,London,England,51.41905,-0.29046
+KT20,South East,England,51.2864,-0.23102
+KT21,South East,England,51.31122,-0.30359
+KT22,South East,England,51.30196,-0.33961
+KT23,South East,England,51.27995,-0.37593
+KT24,South East,England,51.27063,-0.43067
+KT3,London,England,51.39966,-0.25759
+KT4,London,England,51.37838,-0.24305
+KT5,London,England,51.39052,-0.28675
+KT6,London,England,51.38743,-0.3028
+KT7,South East,England,51.38797,-0.33404
+KT8,South East,England,51.40154,-0.36289
+KT9,London,England,51.36381,-0.3033
+KW1,Scotland,Scotland,58.45685,-3.12198
+KW10,Scotland,Scotland,57.97435,-3.97853
+KW11,Scotland,Scotland,58.30785,-4.13591
+KW12,Scotland,Scotland,58.50656,-3.49254
+KW13,Scotland,Scotland,58.47835,-3.89505
+KW14,Scotland,Scotland,58.58859,-3.5545
+KW15,Scotland,Scotland,58.98011,-2.96003
+KW16,Scotland,Scotland,58.96086,-3.27684
+KW17,Scotland,Scotland,59.0353,-3.00973
+KW2,Scotland,Scotland,58.34863,-3.16378
+KW3,Scotland,Scotland,58.30641,-3.28046
+KW5,Scotland,Scotland,58.28728,-3.38237
+KW6,Scotland,Scotland,58.25042,-3.44421
+KW7,Scotland,Scotland,58.18684,-3.50163
+KW8,Scotland,Scotland,58.11532,-3.66506
+KW9,Scotland,Scotland,58.01357,-3.85889
+KY1,Scotland,Scotland,56.12947,-3.1367
+KY10,Scotland,Scotland,56.23053,-2.70098
+KY11,Scotland,Scotland,56.04867,-3.41381
+KY12,Scotland,Scotland,56.07723,-3.49647
+KY13,Scotland,Scotland,56.20856,-3.43463
+KY14,Scotland,Scotland,56.31068,-3.24195
+KY15,Scotland,Scotland,56.29899,-3.05502
+KY16,Scotland,Scotland,56.34268,-2.82404
+KY2,Scotland,Scotland,56.12413,-3.18479
+KY3,Scotland,Scotland,56.06368,-3.23145
+KY4,Scotland,Scotland,56.11402,-3.36282
+KY5,Scotland,Scotland,56.14594,-3.29329
+KY6,Scotland,Scotland,56.19745,-3.20043
+KY7,Scotland,Scotland,56.19772,-3.15811
+KY8,Scotland,Scotland,56.19728,-3.01252
+KY9,Scotland,Scotland,56.20938,-2.83426
+KY99,Scotland,Scotland,56.05308,-3.43623
+L1,North West,England,53.40199,-2.98055
+L10,North West,England,53.47434,-2.92693
+L11,North West,England,53.44793,-2.9154
+L12,North West,England,53.435,-2.89573
+L13,North West,England,53.41864,-2.92039
+L14,North West,England,53.41819,-2.88057
+L15,North West,England,53.39759,-2.92055
+L16,North West,England,53.39879,-2.88696
+L17,North West,England,53.37763,-2.94052
+L18,North West,England,53.38057,-2.90831
+L19,North West,England,53.35899,-2.90329
+L2,North West,England,53.40672,-2.98983
+L20,North West,England,53.45295,-2.98918
+L21,North West,England,53.47138,-3.0004
+L22,North West,England,53.47726,-3.02797
+L23,North West,England,53.49158,-3.02255
+L24,North West,England,53.34349,-2.83936
+L25,North West,England,53.37882,-2.86369
+L26,North West,England,53.36436,-2.83076
+L27,North West,England,53.38787,-2.83882
+L28,North West,England,53.43535,-2.86568
+L29,North West,England,53.50757,-2.98549
+L3,North West,England,53.40831,-2.98463
+L30,North West,England,53.48456,-2.97258
+L31,North West,England,53.51315,-2.93713
+L32,North West,England,53.47842,-2.88949
+L33,North West,England,53.48998,-2.87656
+L34,North West,England,53.43505,-2.81541
+L35,North West,England,53.41437,-2.78393
+L36,North West,England,53.41458,-2.84181
+L37,North West,England,53.55679,-3.06331
+L38,North West,England,53.5243,-3.051
+L39,North West,England,53.56168,-2.8968
+L4,North West,England,53.43786,-2.96128
+L40,North West,England,53.60297,-2.84189
+L5,North West,England,53.42487,-2.97735
+L6,North West,England,53.41896,-2.95159
+L67,North West,England,53.45049,-2.94322
+L68,North West,England,53.47307,-2.96069
+L69,North West,England,53.38664,-2.97484
+L7,North West,England,53.40585,-2.94973
+L70,North West,England,53.40408,-2.95677
+L71,North West,England,53.43387,-2.97474
+L72,North West,England,53.47469,-2.96738
+L74,North West,England,53.39302,-2.98829
+L75,North West,England,53.43427,-2.97786
+L8,North West,England,53.38991,-2.96378
+L9,North West,England,53.46138,-2.95358
+LA1,North West,England,54.04657,-2.79949
+LA10,North West,England,54.31373,-2.49371
+LA11,North West,England,54.19997,-2.92594
+LA12,North West,England,54.20286,-3.08371
+LA13,North West,England,54.11822,-3.19837
+LA14,North West,England,54.11841,-3.23129
+LA15,North West,England,54.15579,-3.17944
+LA16,North West,England,54.18687,-3.20332
+LA17,North West,England,54.23939,-3.17596
+LA18,North West,England,54.2155,-3.27605
+LA19,North West,England,54.29656,-3.38025
+LA2,North West,England,54.06601,-2.67077
+LA20,North West,England,54.2938,-3.20637
+LA21,North West,England,54.3632,-3.07826
+LA22,North West,England,54.42276,-2.99145
+LA23,North West,England,54.37127,-2.9131
+LA3,North West,England,54.04973,-2.87927
+LA4,North West,England,54.07025,-2.85249
+LA5,North West,England,54.14377,-2.79154
+LA6,North West,England,54.17526,-2.61115
+LA7,North West,England,54.22577,-2.77286
+LA8,North West,England,54.32341,-2.76143
+LA9,North West,England,54.32523,-2.74349
+LD1,Wales,Wales,52.26086,-3.36624
+LD2,Wales,Wales,52.14181,-3.39323
+LD3,Wales,Wales,51.96092,-3.36986
+LD4,Wales,Wales,52.11798,-3.55688
+LD5,Wales,Wales,52.12649,-3.62255
+LD6,Wales,Wales,52.3105,-3.50896
+LD7,Wales,Wales,52.35247,-3.0899
+LD8,Wales,Wales,52.26478,-3.0463
+LE1,East Midlands,England,52.63394,-1.13289
+LE10,East Midlands,England,52.53683,-1.37031
+LE11,East Midlands,England,52.76805,-1.21899
+LE12,East Midlands,England,52.76838,-1.19179
+LE13,East Midlands,England,52.76607,-0.88758
+LE14,East Midlands,England,52.78559,-0.90036
+LE15,East Midlands,England,52.65648,-0.70253
+LE16,East Midlands,England,52.48607,-0.89789
+LE17,East Midlands,England,52.46699,-1.17782
+LE18,East Midlands,England,52.58293,-1.11124
+LE19,East Midlands,England,52.5862,-1.20755
+LE2,East Midlands,England,52.60722,-1.11671
+LE21,East Midlands,England,52.62769,-1.14112
+LE3,East Midlands,England,52.63179,-1.17681
+LE4,East Midlands,England,52.66478,-1.12503
+LE41,East Midlands,England,52.61293,-1.1949
+LE5,East Midlands,England,52.63834,-1.08522
+LE6,East Midlands,England,52.65697,-1.2337
+LE65,East Midlands,England,52.74882,-1.46944
+LE67,East Midlands,England,52.71512,-1.36202
+LE7,East Midlands,England,52.67998,-1.07034
+LE8,East Midlands,England,52.55472,-1.09435
+LE87,East Midlands,England,52.6313,-1.13113
+LE9,East Midlands,England,52.57346,-1.28154
+LE94,East Midlands,England,52.4837,-0.90551
+LE95,East Midlands,England,52.60619,-1.19055
+LL11,Wales,Wales,53.06359,-3.03642
+LL12,Wales,Wales,53.08791,-2.98898
+LL13,Wales,Wales,53.03451,-2.9589
+LL14,Wales,Wales,52.99133,-3.05305
+LL15,Wales,Wales,53.10327,-3.31606
+LL16,Wales,Wales,53.18517,-3.43285
+LL17,Wales,Wales,53.25224,-3.43695
+LL18,Wales,Wales,53.31021,-3.47585
+LL19,Wales,Wales,53.33115,-3.41034
+LL20,Wales,Wales,52.95894,-3.16075
+LL21,Wales,Wales,52.98995,-3.41099
+LL22,Wales,Wales,53.26796,-3.59798
+LL23,Wales,Wales,52.90532,-3.60186
+LL24,Wales,Wales,53.05775,-3.78585
+LL25,Wales,Wales,53.0542,-3.87884
+LL26,Wales,Wales,53.13933,-3.78594
+LL27,Wales,Wales,53.14854,-3.82757
+LL28,Wales,Wales,53.28757,-3.76213
+LL29,Wales,Wales,53.28907,-3.70836
+LL30,Wales,Wales,53.31805,-3.81606
+LL31,Wales,Wales,53.2904,-3.81019
+LL32,Wales,Wales,53.25805,-3.84123
+LL33,Wales,Wales,53.25073,-3.97902
+LL34,Wales,Wales,53.27082,-3.91334
+LL35,Wales,Wales,52.54685,-4.04136
+LL36,Wales,Wales,52.60465,-4.06371
+LL37,Wales,Wales,52.66585,-4.08385
+LL38,Wales,Wales,52.69533,-4.05033
+LL39,Wales,Wales,52.71002,-4.01217
+LL40,Wales,Wales,52.75701,-3.87469
+LL41,Wales,Wales,52.96925,-3.9392
+LL42,Wales,Wales,52.72577,-4.0554
+LL43,Wales,Wales,52.77451,-4.09289
+LL44,Wales,Wales,52.79092,-4.09718
+LL45,Wales,Wales,52.82208,-4.09624
+LL46,Wales,Wales,52.85537,-4.10733
+LL47,Wales,Wales,52.90204,-4.06295
+LL48,Wales,Wales,52.93615,-4.06954
+LL49,Wales,Wales,52.92929,-4.13783
+LL51,Wales,Wales,52.97398,-4.23899
+LL52,Wales,Wales,52.92476,-4.24163
+LL53,Wales,Wales,52.8844,-4.49238
+LL54,Wales,Wales,53.05808,-4.28747
+LL55,Wales,Wales,53.13405,-4.20401
+LL56,Wales,Wales,53.18426,-4.20603
+LL57,Wales,Wales,53.20677,-4.11209
+LL58,Wales,Wales,53.28219,-4.09929
+LL59,Wales,Wales,53.23546,-4.16085
+LL60,Wales,Wales,53.2156,-4.27519
+LL61,Wales,Wales,53.19574,-4.26332
+LL62,Wales,Wales,53.21084,-4.38601
+LL63,Wales,Wales,53.21858,-4.47225
+LL64,Wales,Wales,53.2287,-4.51826
+LL65,Wales,Wales,53.30089,-4.5702
+LL66,Wales,Wales,53.3798,-4.40827
+LL67,Wales,Wales,53.41109,-4.45718
+LL68,Wales,Wales,53.39797,-4.37889
+LL69,Wales,Wales,53.38627,-4.31971
+LL70,Wales,Wales,53.36385,-4.28797
+LL71,Wales,Wales,53.32955,-4.37121
+LL72,Wales,Wales,53.35227,-4.24003
+LL73,Wales,Wales,53.33516,-4.24453
+LL74,Wales,Wales,53.31919,-4.22939
+LL75,Wales,Wales,53.28512,-4.2167
+LL76,Wales,Wales,53.30076,-4.2392
+LL77,Wales,Wales,53.26059,-4.31207
+LL78,Wales,Wales,53.31743,-4.26323
+LN1,East Midlands,England,53.26164,-0.59408
+LN10,East Midlands,England,53.15829,-0.21771
+LN11,East Midlands,England,53.3729,0.02572
+LN12,East Midlands,England,53.32924,0.26401
+LN13,East Midlands,England,53.26518,0.18352
+LN2,East Midlands,England,53.25793,-0.50525
+LN3,East Midlands,England,53.24224,-0.41709
+LN4,East Midlands,England,53.14895,-0.38121
+LN5,East Midlands,England,53.17312,-0.55663
+LN6,East Midlands,England,53.19951,-0.6016
+LN7,East Midlands,England,53.49317,-0.34521
+LN8,East Midlands,England,53.37459,-0.3261
+LN9,East Midlands,England,53.21734,-0.11164
+LS1,Yorkshire and the Humber,England,53.79763,-1.55126
+LS10,Yorkshire and the Humber,England,53.76233,-1.53246
+LS11,Yorkshire and the Humber,England,53.77643,-1.55734
+LS12,Yorkshire and the Humber,England,53.7912,-1.5968
+LS13,Yorkshire and the Humber,England,53.81078,-1.63552
+LS14,Yorkshire and the Humber,England,53.82774,-1.45853
+LS15,Yorkshire and the Humber,England,53.80537,-1.44495
+LS16,Yorkshire and the Humber,England,53.85257,-1.60376
+LS17,Yorkshire and the Humber,England,53.86018,-1.52756
+LS18,Yorkshire and the Humber,England,53.83851,-1.63987
+LS19,Yorkshire and the Humber,England,53.85973,-1.68386
+LS2,Yorkshire and the Humber,England,53.80257,-1.54565
+LS20,Yorkshire and the Humber,England,53.87462,-1.71586
+LS21,Yorkshire and the Humber,England,53.91153,-1.67993
+LS22,Yorkshire and the Humber,England,53.93201,-1.39583
+LS23,Yorkshire and the Humber,England,53.90073,-1.34809
+LS24,Yorkshire and the Humber,England,53.86792,-1.2524
+LS25,Yorkshire and the Humber,England,53.78609,-1.32485
+LS26,Yorkshire and the Humber,England,53.75135,-1.44985
+LS27,Yorkshire and the Humber,England,53.74885,-1.6033
+LS28,Yorkshire and the Humber,England,53.80231,-1.67
+LS29,Yorkshire and the Humber,England,53.9184,-1.79872
+LS3,Yorkshire and the Humber,England,53.80229,-1.56339
+LS4,Yorkshire and the Humber,England,53.81048,-1.58472
+LS5,Yorkshire and the Humber,England,53.82079,-1.60704
+LS6,Yorkshire and the Humber,England,53.82012,-1.57083
+LS7,Yorkshire and the Humber,England,53.82072,-1.53988
+LS8,Yorkshire and the Humber,England,53.82481,-1.50947
+LS88,Yorkshire and the Humber,England,53.76533,-1.50143
+LS9,Yorkshire and the Humber,England,53.79892,-1.50931
+LS98,Yorkshire and the Humber,England,53.77374,-1.51754
+LS99,Yorkshire and the Humber,England,53.76562,-1.50083
+LU1,East of England,England,51.8743,-0.42729
+LU2,East of England,England,51.89313,-0.39465
+LU3,East of England,England,51.90887,-0.44272
+LU4,East of England,England,51.89833,-0.46867
+LU5,East of England,England,51.91204,-0.51486
+LU6,East of England,England,51.87772,-0.53835
+LU7,East of England,England,51.90781,-0.66232
+M1,North West,England,53.47754,-2.23614
+M11,North West,England,53.47882,-2.18099
+M12,North West,England,53.46441,-2.20193
+M13,North West,England,53.46048,-2.21543
+M14,North West,England,53.44855,-2.22592
+M15,North West,England,53.46771,-2.25171
+M16,North West,England,53.45522,-2.26501
+M17,North West,England,53.46797,-2.31975
+M18,North West,England,53.46115,-2.17077
+M19,North West,England,53.43641,-2.19623
+M2,North West,England,53.48043,-2.24452
+M20,North West,England,53.42421,-2.2327
+M21,North West,England,53.43801,-2.27293
+M22,North West,England,53.38577,-2.26013
+M23,North West,England,53.39962,-2.28882
+M24,North West,England,53.55175,-2.19812
+M25,North West,England,53.5283,-2.27577
+M26,North West,England,53.56237,-2.33462
+M27,North West,England,53.51211,-2.33636
+M28,North West,England,53.51473,-2.39982
+M29,North West,England,53.5084,-2.4581
+M3,North West,England,53.48377,-2.25291
+M30,North West,England,53.48431,-2.35503
+M31,North West,England,53.41912,-2.42464
+M32,North West,England,53.45102,-2.30943
+M33,North West,England,53.42099,-2.32639
+M34,North West,England,53.45658,-2.11856
+M35,North West,England,53.5072,-2.155
+M38,North West,England,53.53277,-2.42365
+M4,North West,England,53.48506,-2.2301
+M40,North West,England,53.50405,-2.19116
+M41,North West,England,53.45101,-2.3655
+M43,North West,England,53.48349,-2.14913
+M44,North West,England,53.4408,-2.4272
+M45,North West,England,53.54763,-2.29038
+M46,North West,England,53.52585,-2.49234
+M5,North West,England,53.4789,-2.28276
+M50,North West,England,53.47484,-2.29449
+M6,North West,England,53.49282,-2.29841
+M60,North West,England,53.48433,-2.23524
+M61,North West,England,53.48647,-2.22916
+M7,North West,England,53.50554,-2.26283
+M8,North West,England,53.50871,-2.24014
+M9,North West,England,53.522,-2.21391
+M90,North West,England,53.36354,-2.27819
+M99,North West,England,53.48459,-2.23134
+ME1,South East,England,51.37067,0.49648
+ME10,South East,England,51.34361,0.73582
+ME11,South East,England,51.41294,0.74674
+ME12,South East,England,51.42203,0.80439
+ME13,South East,England,51.30424,0.89461
+ME14,South East,England,51.27887,0.54362
+ME15,South East,England,51.25326,0.53396
+ME16,South East,England,51.27407,0.49536
+ME17,South East,England,51.23347,0.61033
+ME18,South East,England,51.24163,0.41547
+ME19,South East,England,51.28986,0.40831
+ME2,South East,England,51.39138,0.48143
+ME20,South East,England,51.30231,0.46133
+ME3,South East,England,51.43546,0.54717
+ME4,South East,England,51.3818,0.52918
+ME5,South East,England,51.34872,0.53283
+ME6,South East,England,51.32299,0.43489
+ME7,South East,England,51.37975,0.55582
+ME8,South East,England,51.36158,0.59751
+ME9,South East,England,51.33629,0.72176
+MK1,South East,England,52.00545,-0.72448
+MK10,South East,England,52.04163,-0.69785
+MK11,South East,England,52.05103,-0.84075
+MK12,South East,England,52.05838,-0.81686
+MK13,South East,England,52.05339,-0.78231
+MK14,South East,England,52.06349,-0.7553
+MK15,South East,England,52.05726,-0.73051
+MK16,South East,England,52.08975,-0.72163
+MK17,South East,England,52.00139,-0.69573
+MK18,South East,England,51.97786,-0.96902
+MK19,East Midlands,England,52.07634,-0.85508
+MK2,South East,England,51.99037,-0.72519
+MK20,South East,England,52.07381,-0.71975
+MK3,South East,England,51.99312,-0.75217
+MK4,South East,England,52.00304,-0.78591
+MK40,East of England,England,52.13797,-0.47751
+MK41,East of England,England,52.15287,-0.44752
+MK42,East of England,England,52.11615,-0.47107
+MK43,East of England,England,52.11132,-0.55878
+MK44,East of England,England,52.19762,-0.4228
+MK45,East of England,England,52.023,-0.46987
+MK46,South East,England,52.15646,-0.70137
+MK5,South East,England,52.02079,-0.78501
+MK6,South East,England,52.0296,-0.74292
+MK7,South East,England,52.01931,-0.69151
+MK77,South East,England,52.04152,-0.81728
+MK8,South East,England,52.03316,-0.80771
+MK9,South East,England,52.04073,-0.75563
+ML1,Scotland,Scotland,55.79933,-3.97479
+ML10,Scotland,Scotland,55.68032,-4.0684
+ML11,Scotland,Scotland,55.66702,-3.78958
+ML12,Scotland,Scotland,55.56925,-3.59428
+ML2,Scotland,Scotland,55.7769,-3.91316
+ML3,Scotland,Scotland,55.76939,-4.05524
+ML4,Scotland,Scotland,55.81828,-4.02159
+ML5,Scotland,Scotland,55.86027,-4.03193
+ML6,Scotland,Scotland,55.86788,-3.96132
+ML7,Scotland,Scotland,55.82982,-3.7948
+ML8,Scotland,Scotland,55.73183,-3.84348
+ML9,Scotland,Scotland,55.72459,-3.96775
+N1,London,England,51.53776,-0.09697
+N10,London,England,51.59494,-0.1452
+N11,London,England,51.61374,-0.139
+N12,London,England,51.6149,-0.17762
+N13,London,England,51.61802,-0.10424
+N14,London,England,51.63443,-0.13094
+N15,London,England,51.58278,-0.08099
+N16,London,England,51.56252,-0.07663
+N17,London,England,51.59775,-0.07125
+N18,London,England,51.61382,-0.06664
+N19,London,England,51.56526,-0.13004
+N1C,London,England,51.53693,-0.12588
+N1P,London,England,51.53902,-0.1034
+N2,London,England,51.59009,-0.16927
+N20,London,England,51.62925,-0.17431
+N21,London,England,51.63673,-0.09968
+N22,London,England,51.59978,-0.1102
+N3,London,England,51.60014,-0.19383
+N4,London,England,51.57013,-0.10366
+N5,London,England,51.5539,-0.09854
+N6,London,England,51.57322,-0.14617
+N7,London,England,51.55336,-0.1183
+N8,London,England,51.58299,-0.11995
+N81,London,England,51.56632,-0.07671
+N9,London,England,51.62851,-0.05805
+NE1,North East,England,54.97242,-1.61154
+NE10,North East,England,54.94725,-1.55389
+NE11,North East,England,54.93988,-1.63589
+NE12,North East,England,55.02456,-1.57078
+NE13,North East,England,55.04258,-1.64885
+NE15,North East,England,54.98512,-1.72521
+NE16,North East,England,54.93078,-1.69298
+NE17,North East,England,54.91281,-1.81746
+NE18,North East,England,55.03811,-1.8646
+NE19,North East,England,55.17887,-2.09836
+NE2,North East,England,54.98706,-1.60596
+NE20,North East,England,55.053,-1.78754
+NE21,North East,England,54.9576,-1.72146
+NE22,North East,England,55.1353,-1.58743
+NE23,North East,England,55.0802,-1.58453
+NE24,North East,England,55.12162,-1.5228
+NE25,North East,England,55.053,-1.48989
+NE26,North East,England,55.05273,-1.4576
+NE27,North East,England,55.03277,-1.51488
+NE28,North East,England,55.00052,-1.52142
+NE29,North East,England,55.01185,-1.46549
+NE3,North East,England,55.01044,-1.63547
+NE30,North East,England,55.02133,-1.43863
+NE31,North East,England,54.97075,-1.51332
+NE32,North East,England,54.96742,-1.48436
+NE33,North East,England,54.99121,-1.42961
+NE34,North East,England,54.97176,-1.42244
+NE35,North East,England,54.95098,-1.46064
+NE36,North East,England,54.94472,-1.44079
+NE37,North East,England,54.91283,-1.5278
+NE38,North East,England,54.89335,-1.5248
+NE39,North East,England,54.9236,-1.76137
+NE4,North East,England,54.97394,-1.64443
+NE40,North East,England,54.96595,-1.77409
+NE41,North East,England,54.97608,-1.82017
+NE42,North East,England,54.96181,-1.85447
+NE43,North East,England,54.94804,-1.90612
+NE44,North East,England,54.94301,-1.97817
+NE45,North East,England,54.97682,-2.01475
+NE46,North East,England,54.9791,-2.10773
+NE47,North East,England,54.92861,-2.25498
+NE48,North East,England,55.13136,-2.25776
+NE49,North East,England,54.9673,-2.46097
+NE5,North East,England,54.9964,-1.68943
+NE6,North East,England,54.97751,-1.56582
+NE61,North East,England,55.17845,-1.6858
+NE62,North East,England,55.16125,-1.59375
+NE63,North East,England,55.17836,-1.56242
+NE64,North East,England,55.18465,-1.51541
+NE65,North East,England,55.31489,-1.74292
+NE66,North East,England,55.42845,-1.72991
+NE67,North East,England,55.53691,-1.69036
+NE68,North East,England,55.57921,-1.65948
+NE69,North East,England,55.60488,-1.71859
+NE7,North East,England,55.00027,-1.57975
+NE70,North East,England,55.59371,-1.81734
+NE71,North East,England,55.55541,-2.04414
+NE8,North East,England,54.95508,-1.60623
+NE85,North East,England,54.93196,-1.58475
+NE88,North East,England,54.95051,-1.61021
+NE9,North East,England,54.93131,-1.58521
+NE92,North East,England,54.94178,-1.61498
+NE98,North East,England,54.9723,-1.59836
+NE99,North East,England,54.97121,-1.61359
+NG1,East Midlands,England,52.95478,-1.14848
+NG10,East Midlands,England,52.90068,-1.28417
+NG11,East Midlands,England,52.8988,-1.17393
+NG12,East Midlands,England,52.90949,-1.05463
+NG13,East Midlands,England,52.94957,-0.90878
+NG14,East Midlands,England,53.01706,-1.04155
+NG15,East Midlands,England,53.04448,-1.20374
+NG16,East Midlands,England,53.02717,-1.29505
+NG17,East Midlands,England,53.11635,-1.2614
+NG18,East Midlands,England,53.13809,-1.18403
+NG19,East Midlands,England,53.16055,-1.19794
+NG2,East Midlands,England,52.93522,-1.13528
+NG20,East Midlands,England,53.20977,-1.18632
+NG21,East Midlands,England,53.14466,-1.10202
+NG22,East Midlands,England,53.18242,-0.97903
+NG23,East Midlands,England,53.11635,-0.79891
+NG24,East Midlands,England,53.069,-0.79829
+NG25,East Midlands,England,53.07445,-0.96256
+NG3,East Midlands,England,52.96974,-1.12731
+NG31,East Midlands,England,52.91461,-0.64223
+NG32,East Midlands,England,52.95108,-0.65121
+NG33,East Midlands,England,52.81599,-0.57903
+NG34,East Midlands,England,52.98727,-0.39387
+NG4,East Midlands,England,52.97142,-1.08772
+NG5,East Midlands,England,52.99733,-1.14443
+NG6,East Midlands,England,52.9987,-1.19223
+NG7,East Midlands,England,52.95796,-1.17253
+NG8,East Midlands,England,52.96507,-1.21334
+NG80,East Midlands,England,52.928,-1.19351
+NG9,East Midlands,England,52.92601,-1.23802
+NG90,East Midlands,England,52.92592,-1.19069
+NN1,East Midlands,England,52.2415,-0.88818
+NN10,East Midlands,England,52.29302,-0.59763
+NN11,East Midlands,England,52.2425,-1.17931
+NN12,East Midlands,England,52.12575,-0.99839
+NN13,East Midlands,England,52.03427,-1.14796
+NN14,East Midlands,England,52.41222,-0.70036
+NN15,East Midlands,England,52.38253,-0.70193
+NN16,East Midlands,England,52.40466,-0.70879
+NN17,East Midlands,England,52.50154,-0.68036
+NN18,East Midlands,England,52.47791,-0.71247
+NN2,East Midlands,England,52.2635,-0.89095
+NN29,East Midlands,England,52.25765,-0.66492
+NN3,East Midlands,England,52.26406,-0.84226
+NN4,East Midlands,England,52.21385,-0.89948
+NN5,East Midlands,England,52.24652,-0.9373
+NN6,East Midlands,England,52.32546,-0.94151
+NN7,East Midlands,England,52.20976,-0.9323
+NN8,East Midlands,England,52.30398,-0.69927
+NN9,East Midlands,England,52.33482,-0.59341
+NP10,Wales,Wales,51.57802,-3.04792
+NP11,Wales,Wales,51.64349,-3.1315
+NP12,Wales,Wales,51.66912,-3.19798
+NP13,Wales,Wales,51.73548,-3.14158
+NP15,Wales,Wales,51.72636,-2.88663
+NP16,Wales,Wales,51.65056,-2.68949
+NP18,Wales,Wales,51.60857,-2.94233
+NP19,Wales,Wales,51.58797,-2.96254
+NP20,Wales,Wales,51.59023,-3.00657
+NP22,Wales,Wales,51.77142,-3.25811
+NP23,Wales,Wales,51.78543,-3.19769
+NP24,Wales,Wales,51.71896,-3.23852
+NP25,Wales,Wales,51.80258,-2.72435
+NP26,Wales,Wales,51.59109,-2.77922
+NP4,Wales,Wales,51.71963,-3.04724
+NP44,Wales,Wales,51.65137,-3.02793
+NP7,Wales,Wales,51.82946,-3.01145
+NP8,Wales,Wales,51.86182,-3.15459
+NR1,East of England,England,52.62657,1.30683
+NR10,East of England,England,52.73605,1.2406
+NR11,East of England,England,52.84092,1.27348
+NR12,East of England,England,52.75977,1.47146
+NR13,East of England,England,52.63532,1.46278
+NR14,East of England,England,52.56244,1.37667
+NR15,East of England,England,52.50331,1.26656
+NR16,East of England,England,52.47337,1.05201
+NR17,East of England,England,52.51605,0.99509
+NR18,East of England,England,52.5708,1.10949
+NR19,East of England,England,52.67496,0.92954
+NR2,East of England,England,52.62917,1.27998
+NR20,East of England,England,52.7219,0.98106
+NR21,East of England,England,52.84158,0.85221
+NR22,East of England,England,52.89432,0.86417
+NR23,East of England,England,52.94886,0.85801
+NR24,East of England,England,52.85878,1.0501
+NR25,East of England,England,52.91994,1.0833
+NR26,East of England,England,52.93876,1.20863
+NR27,East of England,England,52.92431,1.29972
+NR28,East of England,England,52.82251,1.39755
+NR29,East of England,England,52.69413,1.63695
+NR3,East of England,England,52.64329,1.29176
+NR30,East of England,England,52.62012,1.72766
+NR31,East of England,England,52.57443,1.70861
+NR32,East of England,England,52.48989,1.73136
+NR33,East of England,England,52.4541,1.71681
+NR34,East of England,England,52.43858,1.58381
+NR35,East of England,England,52.46183,1.43306
+NR4,East of England,England,52.61144,1.25354
+NR5,East of England,England,52.6409,1.22907
+NR6,East of England,England,52.66224,1.28103
+NR7,East of England,England,52.6445,1.33604
+NR8,East of England,England,52.67686,1.20514
+NR9,East of England,England,52.63312,1.11286
+NR99,East of England,England,52.62667,1.30929
+NW1,London,England,51.5334,-0.14385
+NW10,London,England,51.54118,-0.24819
+NW11,London,England,51.57837,-0.19741
+NW1W,London,England,51.53079,-0.13541
+NW2,London,England,51.55833,-0.22015
+NW26,London,England,51.53406,-0.24813
+NW3,London,England,51.55235,-0.17254
+NW4,London,England,51.58734,-0.22423
+NW5,London,England,51.55173,-0.14512
+NW6,London,England,51.54219,-0.19624
+NW7,London,England,51.61468,-0.23377
+NW8,London,England,51.53225,-0.17429
+NW9,London,England,51.58819,-0.25471
+OL1,North West,England,53.54992,-2.10693
+OL10,North West,England,53.59018,-2.2232
+OL11,North West,England,53.60568,-2.17667
+OL12,North West,England,53.63657,-2.16546
+OL13,North West,England,53.70085,-2.20435
+OL14,Yorkshire and the Humber,England,53.71439,-2.10113
+OL15,North West,England,53.64484,-2.0999
+OL16,North West,England,53.61239,-2.13125
+OL2,North West,England,53.57317,-2.10997
+OL3,North West,England,53.55329,-2.01154
+OL4,North West,England,53.54244,-2.07342
+OL5,North West,England,53.51806,-2.03842
+OL6,North West,England,53.4947,-2.08583
+OL7,North West,England,53.49066,-2.10725
+OL8,North West,England,53.52584,-2.11684
+OL9,North West,England,53.53919,-2.14442
+OX1,South East,England,51.74497,-1.2613
+OX10,South East,England,51.60744,-1.12849
+OX11,South East,England,51.60092,-1.25144
+OX12,South East,England,51.59739,-1.42497
+OX13,South East,England,51.67441,-1.35722
+OX14,South East,England,51.6685,-1.27642
+OX15,South East,England,52.03033,-1.41099
+OX16,South East,England,52.06238,-1.34343
+OX17,East Midlands,England,52.0737,-1.28894
+OX18,South East,England,51.76295,-1.59131
+OX2,South East,England,51.76629,-1.28101
+OX20,South East,England,51.85536,-1.357
+OX25,South East,England,51.90081,-1.21441
+OX26,South East,England,51.90104,-1.15532
+OX27,South East,England,51.9359,-1.15006
+OX28,South East,England,51.78723,-1.4861
+OX29,South East,England,51.7938,-1.4376
+OX3,South East,England,51.76242,-1.21166
+OX33,South East,England,51.75859,-1.14
+OX39,South East,England,51.70163,-0.91579
+OX4,South East,England,51.73111,-1.2174
+OX44,South East,England,51.69619,-1.12057
+OX49,South East,England,51.65037,-1.00196
+OX5,South East,England,51.83046,-1.28203
+OX7,South East,England,51.90973,-1.52842
+OX9,South East,England,51.73788,-0.98391
+PA1,Scotland,Scotland,55.84469,-4.418
+PA10,Scotland,Scotland,55.83273,-4.55215
+PA11,Scotland,Scotland,55.85712,-4.58483
+PA12,Scotland,Scotland,55.79416,-4.62626
+PA13,Scotland,Scotland,55.89308,-4.63109
+PA14,Scotland,Scotland,55.92718,-4.66382
+PA15,Scotland,Scotland,55.94245,-4.74761
+PA16,Scotland,Scotland,55.94255,-4.80076
+PA17,Scotland,Scotland,55.86366,-4.88529
+PA18,Scotland,Scotland,55.88754,-4.89046
+PA19,Scotland,Scotland,55.95292,-4.82613
+PA2,Scotland,Scotland,55.82887,-4.43396
+PA20,Scotland,Scotland,55.83407,-5.05721
+PA21,Scotland,Scotland,55.90175,-5.24937
+PA22,Scotland,Scotland,55.97144,-5.13428
+PA23,Scotland,Scotland,55.95381,-4.93347
+PA24,Scotland,Scotland,56.15856,-4.9045
+PA25,Scotland,Scotland,56.2143,-5.04335
+PA26,Scotland,Scotland,56.25968,-4.93551
+PA27,Scotland,Scotland,56.1558,-5.0859
+PA28,Scotland,Scotland,55.43747,-5.60366
+PA29,Scotland,Scotland,55.80646,-5.47522
+PA3,Scotland,Scotland,55.85151,-4.4458
+PA30,Scotland,Scotland,56.01331,-5.44949
+PA31,Scotland,Scotland,56.05233,-5.45813
+PA32,Scotland,Scotland,56.19757,-5.12553
+PA33,Scotland,Scotland,56.36674,-5.06392
+PA34,Scotland,Scotland,56.39401,-5.48664
+PA35,Scotland,Scotland,56.40421,-5.22731
+PA36,Scotland,Scotland,56.5241,-4.76955
+PA37,Scotland,Scotland,56.46673,-5.39433
+PA38,Scotland,Scotland,56.59381,-5.33361
+PA4,Scotland,Scotland,55.87484,-4.39515
+PA41,Scotland,Scotland,55.67447,-5.74255
+PA42,Scotland,Scotland,55.63681,-6.18945
+PA43,Scotland,Scotland,55.7556,-6.28414
+PA44,Scotland,Scotland,55.79915,-6.29281
+PA45,Scotland,Scotland,55.81962,-6.16809
+PA46,Scotland,Scotland,55.8596,-6.11999
+PA47,Scotland,Scotland,55.68199,-6.504
+PA48,Scotland,Scotland,55.7389,-6.3841
+PA49,Scotland,Scotland,55.78227,-6.39478
+PA5,Scotland,Scotland,55.83108,-4.50977
+PA6,Scotland,Scotland,55.8658,-4.537
+PA60,Scotland,Scotland,55.8762,-5.91601
+PA61,Scotland,Scotland,56.07118,-6.20154
+PA62,Scotland,Scotland,56.35924,-5.85146
+PA63,Scotland,Scotland,56.38174,-5.71581
+PA64,Scotland,Scotland,56.43688,-5.68787
+PA65,Scotland,Scotland,56.47019,-5.72748
+PA66,Scotland,Scotland,56.32875,-6.35222
+PA67,Scotland,Scotland,56.31373,-6.23195
+PA68,Scotland,Scotland,56.43637,-6.14256
+PA69,Scotland,Scotland,56.37943,-6.07781
+PA7,Scotland,Scotland,55.90595,-4.5053
+PA70,Scotland,Scotland,56.3644,-6.02766
+PA71,Scotland,Scotland,56.48068,-5.98148
+PA72,Scotland,Scotland,56.5182,-5.96598
+PA73,Scotland,Scotland,56.49592,-6.18368
+PA74,Scotland,Scotland,56.53295,-6.22972
+PA75,Scotland,Scotland,56.61254,-6.1127
+PA76,Scotland,Scotland,56.33352,-6.39492
+PA77,Scotland,Scotland,56.4953,-6.88113
+PA78,Scotland,Scotland,56.62641,-6.54581
+PA8,Scotland,Scotland,55.90062,-4.45272
+PA80,Scotland,Scotland,56.56448,-5.78636
+PA9,Scotland,Scotland,55.80726,-4.55698
+PE1,East of England,England,52.58609,-0.23698
+PE10,East Midlands,England,52.77404,-0.37761
+PE11,East Midlands,England,52.80733,-0.16716
+PE12,East Midlands,England,52.78548,0.02514
+PE13,East of England,England,52.66996,0.13699
+PE14,East of England,England,52.64008,0.20823
+PE15,East of England,England,52.53746,0.08588
+PE16,East of England,England,52.45521,0.04895
+PE19,East of England,England,52.23586,-0.26295
+PE2,East of England,England,52.55751,-0.25991
+PE20,East Midlands,England,52.93108,-0.10341
+PE21,East Midlands,England,52.97427,-0.02391
+PE22,East Midlands,England,53.05065,0.04284
+PE23,East Midlands,England,53.17277,0.0892
+PE24,East Midlands,England,53.16463,0.26453
+PE25,East Midlands,England,53.15407,0.33402
+PE26,East of England,England,52.45307,-0.11698
+PE27,East of England,England,52.33169,-0.07102
+PE28,East of England,England,52.3594,-0.19086
+PE29,East of England,England,52.33214,-0.17896
+PE3,East of England,England,52.58434,-0.27523
+PE30,East of England,England,52.75987,0.4167
+PE31,East of England,England,52.88218,0.5733
+PE32,East of England,England,52.72772,0.63547
+PE33,East of England,England,52.64518,0.46658
+PE34,East of England,England,52.72572,0.33657
+PE35,East of England,England,52.82746,0.5098
+PE36,East of England,England,52.9395,0.50888
+PE37,East of England,England,52.64104,0.70027
+PE38,East of England,England,52.58886,0.37575
+PE4,East of England,England,52.6119,-0.26221
+PE5,East of England,England,52.575,-0.35046
+PE6,East Midlands,England,52.65815,-0.2503
+PE7,East of England,England,52.53635,-0.21051
+PE8,East Midlands,England,52.52271,-0.45358
+PE9,East Midlands,England,52.65465,-0.48084
+PH1,Scotland,Scotland,56.42259,-3.48026
+PH10,Scotland,Scotland,56.60627,-3.35881
+PH11,Scotland,Scotland,56.63779,-3.23433
+PH12,Scotland,Scotland,56.57601,-3.15508
+PH13,Scotland,Scotland,56.53729,-3.2749
+PH14,Scotland,Scotland,56.45293,-3.18084
+PH15,Scotland,Scotland,56.60967,-3.94149
+PH16,Scotland,Scotland,56.70692,-3.80656
+PH17,Scotland,Scotland,56.68631,-4.37519
+PH18,Scotland,Scotland,56.77328,-3.89051
+PH19,Scotland,Scotland,56.9267,-4.25582
+PH2,Scotland,Scotland,56.38757,-3.40329
+PH20,Scotland,Scotland,57.05628,-4.14664
+PH21,Scotland,Scotland,57.09101,-4.01799
+PH22,Scotland,Scotland,57.19407,-3.82091
+PH23,Scotland,Scotland,57.28376,-3.8142
+PH24,Scotland,Scotland,57.25611,-3.74518
+PH25,Scotland,Scotland,57.26032,-3.65001
+PH26,Scotland,Scotland,57.32972,-3.60636
+PH3,Scotland,Scotland,56.30183,-3.70465
+PH30,Scotland,Scotland,56.7922,-4.60124
+PH31,Scotland,Scotland,56.89212,-4.81413
+PH32,Scotland,Scotland,57.144,-4.68372
+PH33,Scotland,Scotland,56.82071,-5.10796
+PH34,Scotland,Scotland,56.91835,-4.9276
+PH35,Scotland,Scotland,57.07707,-4.90696
+PH36,Scotland,Scotland,56.72116,-5.8496
+PH37,Scotland,Scotland,56.83564,-5.50209
+PH38,Scotland,Scotland,56.84379,-5.74379
+PH39,Scotland,Scotland,56.91231,-5.84181
+PH4,Scotland,Scotland,56.26193,-3.78536
+PH40,Scotland,Scotland,56.9631,-5.8015
+PH41,Scotland,Scotland,57.00298,-5.82831
+PH42,Scotland,Scotland,56.90186,-6.14273
+PH43,Scotland,Scotland,57.01363,-6.28196
+PH44,Scotland,Scotland,57.05679,-6.50324
+PH49,Scotland,Scotland,56.67484,-5.11488
+PH5,Scotland,Scotland,56.3284,-3.82981
+PH50,Scotland,Scotland,56.71456,-4.96548
+PH6,Scotland,Scotland,56.37181,-3.99957
+PH7,Scotland,Scotland,56.37284,-3.82801
+PH8,Scotland,Scotland,56.56241,-3.59964
+PH9,Scotland,Scotland,56.64908,-3.6939
+PL1,South West,England,50.37057,-4.15475
+PL10,South West,England,50.34524,-4.21134
+PL11,South West,England,50.37295,-4.25551
+PL12,South West,England,50.41955,-4.25025
+PL13,South West,England,50.35879,-4.4747
+PL14,South West,England,50.46398,-4.4661
+PL15,South West,England,50.6329,-4.39721
+PL16,South West,England,50.64627,-4.26594
+PL17,South West,England,50.51489,-4.31017
+PL18,South West,England,50.51541,-4.22178
+PL19,South West,England,50.55623,-4.15499
+PL2,South West,England,50.38973,-4.16349
+PL20,South West,England,50.5,-4.10019
+PL21,South West,England,50.38532,-3.91777
+PL22,South West,England,50.40358,-4.65209
+PL23,South West,England,50.33756,-4.63685
+PL24,South West,England,50.35534,-4.71126
+PL25,South West,England,50.34121,-4.78004
+PL26,South West,England,50.3459,-4.82653
+PL27,South West,England,50.52329,-4.87612
+PL28,South West,England,50.53262,-4.96768
+PL29,South West,England,50.5864,-4.8299
+PL3,South West,England,50.38828,-4.12744
+PL30,South West,England,50.50233,-4.72888
+PL31,South West,England,50.46904,-4.72272
+PL32,South West,England,50.63317,-4.66216
+PL33,South West,England,50.62188,-4.73161
+PL34,South West,England,50.65975,-4.74454
+PL35,South West,England,50.68473,-4.6854
+PL4,South West,England,50.37555,-4.12804
+PL5,South West,England,50.41096,-4.16677
+PL6,South West,England,50.41871,-4.11575
+PL7,South West,England,50.39279,-4.04556
+PL8,South West,England,50.33552,-4.01066
+PL9,South West,England,50.35575,-4.08406
+PL95,South West,England,50.36439,-4.10447
+PO1,South East,England,50.79946,-1.08966
+PO10,South East,England,50.85236,-0.92862
+PO11,South East,England,50.79209,-0.97595
+PO12,South East,England,50.79786,-1.14163
+PO13,South East,England,50.81232,-1.18118
+PO14,South East,England,50.83874,-1.21935
+PO15,South East,England,50.86884,-1.22944
+PO16,South East,England,50.85088,-1.15912
+PO17,South East,England,50.8899,-1.17361
+PO18,South East,England,50.86458,-0.81631
+PO19,South East,England,50.83879,-0.77858
+PO2,South East,England,50.81784,-1.07742
+PO20,South East,England,50.78646,-0.78155
+PO21,South East,England,50.78519,-0.69955
+PO22,South East,England,50.80038,-0.64757
+PO3,South East,England,50.81613,-1.05918
+PO30,South East,England,50.69078,-1.31396
+PO31,South East,England,50.7553,-1.30744
+PO32,South East,England,50.75121,-1.2809
+PO33,South East,England,50.72162,-1.16997
+PO34,South East,England,50.7159,-1.11349
+PO35,South East,England,50.68664,-1.08523
+PO36,South East,England,50.65855,-1.16384
+PO37,South East,England,50.63134,-1.17967
+PO38,South East,England,50.60625,-1.24406
+PO39,South East,England,50.6803,-1.54012
+PO4,South East,England,50.79019,-1.06205
+PO40,South East,England,50.68258,-1.52189
+PO41,South East,England,50.70095,-1.47512
+PO5,South East,England,50.78859,-1.08608
+PO6,South East,England,50.84657,-1.06985
+PO7,South East,England,50.88283,-1.04085
+PO8,South East,England,50.91349,-1.01162
+PO9,South East,England,50.86343,-0.9841
+PR0,North West,England,53.75882,-2.6839
+PR1,North West,England,53.75732,-2.70158
+PR11,North West,England,53.79457,-2.68499
+PR2,North West,England,53.77887,-2.70672
+PR25,North West,England,53.69437,-2.69392
+PR26,North West,England,53.68965,-2.73954
+PR3,North West,England,53.86656,-2.71931
+PR4,North West,England,53.75618,-2.83214
+PR5,North West,England,53.73165,-2.65742
+PR6,North West,England,53.6678,-2.61197
+PR7,North West,England,53.64873,-2.65557
+PR8,North West,England,53.62617,-3.00979
+PR9,North West,England,53.65992,-2.96811
+RG1,South East,England,51.45176,-0.96979
+RG10,South East,England,51.48236,-0.85336
+RG12,South East,England,51.4067,-0.74981
+RG14,South East,England,51.39981,-1.32306
+RG17,South East,England,51.4432,-1.5033
+RG18,South East,England,51.4312,-1.26054
+RG19,South East,England,51.39095,-1.24549
+RG2,South East,England,51.41879,-0.95046
+RG20,South East,England,51.40347,-1.3376
+RG21,South East,England,51.26478,-1.08847
+RG22,South East,England,51.24802,-1.12493
+RG23,South East,England,51.25258,-1.15033
+RG24,South East,England,51.28109,-1.07906
+RG25,South East,England,51.22726,-1.16319
+RG26,South East,England,51.33985,-1.12926
+RG27,South East,England,51.30402,-0.94828
+RG28,South East,England,51.23431,-1.33726
+RG29,South East,England,51.24595,-0.94626
+RG30,South East,England,51.45104,-1.01487
+RG31,South East,England,51.45637,-1.04601
+RG4,South East,England,51.4829,-0.96968
+RG40,South East,England,51.39908,-0.83796
+RG41,South East,England,51.41693,-0.86301
+RG42,South East,England,51.42814,-0.75708
+RG45,South East,England,51.37229,-0.79869
+RG5,South East,England,51.45205,-0.89959
+RG6,South East,England,51.43753,-0.92789
+RG7,South East,England,51.398,-1.07748
+RG8,South East,England,51.50637,-1.10639
+RG9,South East,England,51.54488,-0.92599
+RH1,South East,England,51.23745,-0.15732
+RH10,South East,England,51.11887,-0.15387
+RH11,South East,England,51.11016,-0.20776
+RH12,South East,England,51.07786,-0.33068
+RH13,South East,England,51.03383,-0.32848
+RH14,South East,England,51.03347,-0.48598
+RH15,South East,England,50.95798,-0.13018
+RH16,South East,England,51.00122,-0.09806
+RH17,South East,England,51.02162,-0.11944
+RH18,South East,England,51.09294,0.0358
+RH19,South East,England,51.12572,-0.01446
+RH2,South East,England,51.23515,-0.20299
+RH20,South East,England,50.93764,-0.47053
+RH3,South East,England,51.23256,-0.2773
+RH4,South East,England,51.2298,-0.33493
+RH5,South East,England,51.19051,-0.34388
+RH6,South East,England,51.17351,-0.16464
+RH7,South East,England,51.17489,-0.01839
+RH77,South East,England,51.13877,-0.16975
+RH8,South East,England,51.25111,0.00229
+RH9,South East,England,51.23637,-0.06167
+RM1,London,England,51.58289,0.18351
+RM10,London,England,51.54489,0.15791
+RM11,London,England,51.57118,0.21872
+RM12,London,England,51.55257,0.20755
+RM13,London,England,51.52506,0.19206
+RM14,London,England,51.55699,0.2655
+RM15,East of England,England,51.50884,0.27624
+RM16,East of England,England,51.49306,0.34114
+RM17,East of England,England,51.47971,0.32849
+RM18,East of England,England,51.46761,0.37672
+RM19,East of England,England,51.48292,0.24458
+RM2,London,England,51.5843,0.20341
+RM20,East of England,England,51.47852,0.2845
+RM3,London,England,51.60194,0.22453
+RM4,East of England,England,51.6412,0.15932
+RM5,London,England,51.60128,0.16477
+RM6,London,England,51.57585,0.1296
+RM7,London,England,51.57518,0.16853
+RM8,London,England,51.55713,0.12934
+RM9,London,England,51.54023,0.13468
+S1,Yorkshire and the Humber,England,53.38001,-1.47131
+S10,Yorkshire and the Humber,England,53.37672,-1.5184
+S11,Yorkshire and the Humber,England,53.36085,-1.50766
+S12,Yorkshire and the Humber,England,53.34821,-1.40643
+S13,Yorkshire and the Humber,England,53.36468,-1.38364
+S14,Yorkshire and the Humber,England,53.34603,-1.44438
+S17,Yorkshire and the Humber,England,53.32128,-1.52902
+S18,East Midlands,England,53.2995,-1.47462
+S2,Yorkshire and the Humber,England,53.36955,-1.44768
+S20,Yorkshire and the Humber,England,53.3346,-1.35218
+S21,East Midlands,England,53.31221,-1.33896
+S25,Yorkshire and the Humber,England,53.36608,-1.21602
+S26,Yorkshire and the Humber,England,53.35207,-1.29103
+S3,Yorkshire and the Humber,England,53.38732,-1.47408
+S32,East Midlands,England,53.29438,-1.65145
+S33,East Midlands,England,53.34414,-1.7399
+S35,Yorkshire and the Humber,England,53.4585,-1.49876
+S36,Yorkshire and the Humber,England,53.50572,-1.61649
+S4,Yorkshire and the Humber,England,53.40095,-1.44962
+S40,East Midlands,England,53.23409,-1.44662
+S41,East Midlands,England,53.24754,-1.42843
+S42,East Midlands,England,53.19877,-1.41796
+S43,East Midlands,England,53.26739,-1.34027
+S44,East Midlands,England,53.22577,-1.31306
+S45,East Midlands,England,53.16595,-1.42027
+S49,East Midlands,England,53.23532,-1.43432
+S5,Yorkshire and the Humber,England,53.42227,-1.46331
+S6,Yorkshire and the Humber,England,53.40293,-1.51332
+S60,Yorkshire and the Humber,England,53.41091,-1.35139
+S61,Yorkshire and the Humber,England,53.44421,-1.39522
+S62,Yorkshire and the Humber,England,53.46545,-1.34754
+S63,Yorkshire and the Humber,England,53.51902,-1.33023
+S64,Yorkshire and the Humber,England,53.49068,-1.29869
+S65,Yorkshire and the Humber,England,53.43623,-1.31775
+S66,Yorkshire and the Humber,England,53.42018,-1.24373
+S7,Yorkshire and the Humber,England,53.35519,-1.49106
+S70,Yorkshire and the Humber,England,53.541,-1.47469
+S71,Yorkshire and the Humber,England,53.57439,-1.45612
+S72,Yorkshire and the Humber,England,53.5788,-1.39119
+S73,Yorkshire and the Humber,England,53.52444,-1.39499
+S74,Yorkshire and the Humber,England,53.50103,-1.44142
+S75,Yorkshire and the Humber,England,53.56272,-1.52152
+S8,Yorkshire and the Humber,England,53.34001,-1.47763
+S80,East Midlands,England,53.29239,-1.15307
+S81,East Midlands,England,53.33994,-1.12396
+S9,Yorkshire and the Humber,England,53.39824,-1.41759
+S95,Yorkshire and the Humber,England,53.41996,-1.40074
+S96,Yorkshire and the Humber,England,53.40221,-1.42464
+S97,Yorkshire and the Humber,England,53.50326,-1.33797
+S98,Yorkshire and the Humber,England,53.40414,-1.431
+S99,Yorkshire and the Humber,England,53.40426,-1.43104
+SA1,Wales,Wales,51.62672,-3.94039
+SA10,Wales,Wales,51.68786,-3.80047
+SA11,Wales,Wales,51.67488,-3.76135
+SA12,Wales,Wales,51.60822,-3.79583
+SA13,Wales,Wales,51.60592,-3.72492
+SA14,Wales,Wales,51.73552,-4.10625
+SA15,Wales,Wales,51.69968,-4.16789
+SA16,Wales,Wales,51.68933,-4.25759
+SA17,Wales,Wales,51.75652,-4.28492
+SA18,Wales,Wales,51.7978,-3.9609
+SA19,Wales,Wales,51.95491,-3.94786
+SA2,Wales,Wales,51.61903,-3.9982
+SA20,Wales,Wales,52.01178,-3.78777
+SA3,Wales,Wales,51.58106,-4.0525
+SA31,Wales,Wales,51.85688,-4.30841
+SA32,Wales,Wales,51.88796,-4.16972
+SA33,Wales,Wales,51.84958,-4.44081
+SA34,Wales,Wales,51.85203,-4.61913
+SA35,Wales,Wales,51.96853,-4.55612
+SA36,Wales,Wales,51.95775,-4.60836
+SA37,Wales,Wales,52.0159,-4.59334
+SA38,Wales,Wales,52.04013,-4.47733
+SA39,Wales,Wales,52.01889,-4.24362
+SA4,Wales,Wales,51.67318,-4.04823
+SA40,Wales,Wales,52.08418,-4.17545
+SA41,Wales,Wales,51.99523,-4.70529
+SA42,Wales,Wales,52.01545,-4.85309
+SA43,Wales,Wales,52.08748,-4.62811
+SA44,Wales,Wales,52.08742,-4.37319
+SA45,Wales,Wales,52.20815,-4.35829
+SA46,Wales,Wales,52.23783,-4.25743
+SA47,Wales,Wales,52.19228,-4.2999
+SA48,Wales,Wales,52.14518,-4.11368
+SA5,Wales,Wales,51.64902,-3.97123
+SA6,Wales,Wales,51.67634,-3.92252
+SA61,Wales,Wales,51.8002,-4.97444
+SA62,Wales,Wales,51.8412,-5.06463
+SA63,Wales,Wales,51.87408,-4.85666
+SA64,Wales,Wales,52.00213,-5.01242
+SA65,Wales,Wales,51.98793,-4.96981
+SA66,Wales,Wales,51.88383,-4.74534
+SA67,Wales,Wales,51.78316,-4.73281
+SA68,Wales,Wales,51.72959,-4.76433
+SA69,Wales,Wales,51.71101,-4.707
+SA7,Wales,Wales,51.66469,-3.88808
+SA70,Wales,Wales,51.67258,-4.74296
+SA71,Wales,Wales,51.66812,-4.92924
+SA72,Wales,Wales,51.69171,-4.9356
+SA73,Wales,Wales,51.71751,-5.01188
+SA8,Wales,Wales,51.72181,-3.84768
+SA80,Wales,Wales,51.64794,-3.92436
+SA9,Wales,Wales,51.78138,-3.76879
+SA99,Wales,Wales,51.67,-3.94546
+SE1,London,England,51.49916,-0.09144
+SE10,London,England,51.48492,0.00076
+SE11,London,England,51.48978,-0.11157
+SE12,London,England,51.44453,0.01985
+SE13,London,England,51.45964,-0.00966
+SE14,London,England,51.47595,-0.04227
+SE15,London,England,51.47282,-0.06556
+SE16,London,England,51.49657,-0.05314
+SE17,London,England,51.48835,-0.09339
+SE18,London,England,51.48448,0.07234
+SE19,London,England,51.41796,-0.08611
+SE1P,London,England,51.49277,-0.08013
+SE2,London,England,51.4899,0.11626
+SE20,London,England,51.4122,-0.0595
+SE21,London,England,51.43896,-0.08872
+SE22,London,England,51.45444,-0.07238
+SE23,London,England,51.44152,-0.04908
+SE24,London,England,51.45578,-0.10037
+SE25,London,England,51.39777,-0.07667
+SE26,London,England,51.42776,-0.05464
+SE27,London,England,51.43065,-0.10244
+SE28,London,England,51.50192,0.10348
+SE3,London,England,51.46897,0.02032
+SE4,London,England,51.46101,-0.03517
+SE5,London,England,51.47391,-0.09147
+SE6,London,England,51.43853,-0.01649
+SE7,London,England,51.48419,0.03404
+SE8,London,England,51.482,-0.0296
+SE9,London,England,51.44507,0.05493
+SG1,East of England,England,51.91334,-0.19561
+SG10,East of England,England,51.84715,0.07632
+SG11,East of England,England,51.8862,0.03343
+SG12,East of England,England,51.81427,-0.01689
+SG13,East of England,England,51.78761,-0.07136
+SG14,East of England,England,51.80826,-0.09433
+SG15,East of England,England,52.01351,-0.26385
+SG16,East of England,England,52.01413,-0.29904
+SG17,East of England,England,52.03429,-0.33468
+SG18,East of England,England,52.08279,-0.2645
+SG19,East of England,England,52.1395,-0.23884
+SG2,East of England,England,51.89689,-0.16378
+SG3,East of England,England,51.86031,-0.1825
+SG4,East of England,England,51.91945,-0.2594
+SG5,East of England,England,51.97248,-0.28108
+SG6,East of England,England,51.97901,-0.22271
+SG7,East of England,England,52.00499,-0.17486
+SG8,East of England,England,52.06447,-0.01478
+SG9,East of England,England,51.95056,-0.00928
+SK1,North West,England,53.40762,-2.1516
+SK10,North West,England,53.27559,-2.13126
+SK11,North West,England,53.245,-2.14606
+SK12,North West,England,53.35127,-2.09373
+SK13,East Midlands,England,53.44869,-1.96437
+SK14,North West,England,53.45205,-2.05605
+SK15,North West,England,53.48708,-2.04702
+SK16,North West,England,53.47461,-2.08257
+SK17,East Midlands,England,53.24457,-1.88182
+SK2,North West,England,53.39432,-2.1322
+SK22,East Midlands,England,53.37261,-1.98518
+SK23,East Midlands,England,53.32776,-1.94926
+SK3,North West,England,53.39843,-2.17213
+SK4,North West,England,53.41948,-2.18194
+SK5,North West,England,53.43537,-2.15242
+SK6,North West,England,53.4052,-2.08023
+SK7,North West,England,53.36833,-2.14363
+SK8,North West,England,53.37929,-2.20898
+SK9,North West,England,53.32829,-2.23021
+SL0,South East,England,51.52603,-0.51696
+SL1,South East,England,51.51783,-0.62217
+SL2,South East,England,51.53574,-0.60582
+SL3,South East,England,51.4987,-0.55132
+SL4,South East,England,51.47534,-0.62761
+SL5,South East,England,51.40578,-0.66412
+SL6,South East,England,51.52397,-0.72898
+SL60,South East,England,51.51855,-0.71478
+SL7,South East,England,51.5755,-0.77822
+SL8,South East,England,51.57878,-0.70868
+SL9,South East,England,51.59813,-0.55573
+SL95,South East,England,51.49877,-0.53705
+SM1,London,England,51.36713,-0.19281
+SM2,London,England,51.35182,-0.1988
+SM3,London,England,51.37129,-0.21625
+SM4,London,England,51.39301,-0.19971
+SM5,London,England,51.36877,-0.16903
+SM6,London,England,51.36168,-0.14464
+SM7,South East,England,51.32294,-0.20126
+SN1,South West,England,51.55585,-1.78523
+SN10,South West,England,51.337,-1.98691
+SN11,South West,England,51.43981,-1.9996
+SN12,South West,England,51.37196,-2.13612
+SN13,South West,England,51.42432,-2.21298
+SN14,South West,England,51.47536,-2.19823
+SN15,South West,England,51.4727,-2.08184
+SN16,South West,England,51.59277,-2.08747
+SN2,South West,England,51.57788,-1.78325
+SN25,South West,England,51.59833,-1.80909
+SN26,South West,England,51.61401,-1.7876
+SN3,South West,England,51.56155,-1.74475
+SN38,South West,England,51.56314,-1.80993
+SN4,South West,England,51.53046,-1.83378
+SN5,South West,England,51.567,-1.84028
+SN6,South West,England,51.62153,-1.73899
+SN7,South East,England,51.64796,-1.56586
+SN8,South West,England,51.40648,-1.68534
+SN9,South West,England,51.3238,-1.78835
+SN99,South West,England,51.55199,-1.72253
+SO14,South East,England,50.90719,-1.39739
+SO15,South East,England,50.91704,-1.42442
+SO16,South East,England,50.93675,-1.43352
+SO17,South East,England,50.92723,-1.3925
+SO18,South East,England,50.92417,-1.36198
+SO19,South East,England,50.90193,-1.35498
+SO20,South East,England,51.11645,-1.5163
+SO21,South East,England,51.07521,-1.3166
+SO22,South East,England,51.06691,-1.33516
+SO23,South East,England,51.0688,-1.30873
+SO24,South East,England,51.08455,-1.147
+SO25,South East,England,51.06756,-1.29733
+SO30,South East,England,50.9185,-1.30218
+SO31,South East,England,50.87007,-1.30047
+SO32,South East,England,50.94777,-1.20992
+SO40,South East,England,50.913,-1.50394
+SO41,South East,England,50.75534,-1.56702
+SO42,South East,England,50.81556,-1.53669
+SO43,South East,England,50.88628,-1.58935
+SO45,South East,England,50.84688,-1.39483
+SO50,South East,England,50.96907,-1.34055
+SO51,South East,England,50.99613,-1.50362
+SO52,South East,England,50.97753,-1.44411
+SO53,South East,England,50.98608,-1.38366
+SO97,South East,England,50.94848,-1.36195
+SP1,South West,England,51.07525,-1.78867
+SP10,South East,England,51.21142,-1.48464
+SP11,South East,England,51.22798,-1.51319
+SP2,South West,England,51.075,-1.82624
+SP3,South West,England,51.10241,-2.01571
+SP4,South West,England,51.16602,-1.7659
+SP5,South West,England,51.02148,-1.77068
+SP6,South East,England,50.93645,-1.80258
+SP7,South West,England,51.00506,-2.18433
+SP8,South West,England,51.03724,-2.29093
+SP9,South West,England,51.23331,-1.66499
+SR1,North East,England,54.90624,-1.37798
+SR2,North East,England,54.88564,-1.3764
+SR3,North East,England,54.87576,-1.41613
+SR4,North East,England,54.90033,-1.42583
+SR5,North East,England,54.92269,-1.42421
+SR6,North East,England,54.93555,-1.37921
+SR7,North East,England,54.83013,-1.36267
+SR8,North East,England,54.76683,-1.33669
+SS0,East of England,England,51.54668,0.68774
+SS1,East of England,England,51.53745,0.73131
+SS11,East of England,England,51.61757,0.53797
+SS12,East of England,England,51.60517,0.52065
+SS13,East of England,England,51.57496,0.51114
+SS14,East of England,England,51.57617,0.47511
+SS15,East of England,England,51.57754,0.42813
+SS16,East of England,England,51.56255,0.45202
+SS17,East of England,England,51.52189,0.43826
+SS2,East of England,England,51.55086,0.71669
+SS22,East of England,England,51.55698,0.70685
+SS3,East of England,England,51.54325,0.78948
+SS4,East of England,England,51.59304,0.71133
+SS5,East of England,England,51.60828,0.64656
+SS6,East of England,England,51.58904,0.60688
+SS7,East of England,England,51.56231,0.57781
+SS8,East of England,England,51.52192,0.58943
+SS9,East of England,England,51.55485,0.65154
+SS99,East of England,England,51.54825,0.71358
+ST1,West Midlands,England,53.02739,-2.17292
+ST10,West Midlands,England,52.98809,-1.96436
+ST11,West Midlands,England,52.96547,-2.06363
+ST12,West Midlands,England,52.94702,-2.17262
+ST13,West Midlands,England,53.10094,-2.01937
+ST14,West Midlands,England,52.90438,-1.87044
+ST15,West Midlands,England,52.9003,-2.15065
+ST16,West Midlands,England,52.81426,-2.12101
+ST17,West Midlands,England,52.78837,-2.09907
+ST18,West Midlands,England,52.81469,-2.07975
+ST19,West Midlands,England,52.70871,-2.14758
+ST2,West Midlands,England,53.02816,-2.13544
+ST20,West Midlands,England,52.79838,-2.27759
+ST21,West Midlands,England,52.87275,-2.27001
+ST3,West Midlands,England,52.98076,-2.12286
+ST4,West Midlands,England,52.99412,-2.18531
+ST5,West Midlands,England,53.01529,-2.23998
+ST55,West Midlands,England,53.01418,-2.23803
+ST6,West Midlands,England,53.05793,-2.18973
+ST7,West Midlands,England,53.08873,-2.2688
+ST8,West Midlands,England,53.1156,-2.16787
+ST9,West Midlands,England,53.05264,-2.09597
+SW10,London,England,51.48368,-0.18276
+SW11,London,England,51.46875,-0.16283
+SW12,London,England,51.44632,-0.14906
+SW13,London,England,51.4763,-0.24326
+SW14,London,England,51.46537,-0.267
+SW15,London,England,51.45696,-0.2286
+SW16,London,England,51.4212,-0.12924
+SW17,London,England,51.43106,-0.16528
+SW18,London,England,51.45151,-0.19143
+SW19,London,England,51.42417,-0.20282
+SW1A,London,England,51.50455,-0.13223
+SW1E,London,England,51.49809,-0.1398
+SW1H,London,England,51.49864,-0.13351
+SW1P,London,England,51.48978,-0.13274
+SW1V,London,England,51.4895,-0.14
+SW1W,London,England,51.49267,-0.1511
+SW1X,London,England,51.49824,-0.15675
+SW1Y,London,England,51.50763,-0.13454
+SW2,London,England,51.44928,-0.11979
+SW20,London,England,51.41079,-0.22788
+SW3,London,England,51.48936,-0.16588
+SW4,London,England,51.46096,-0.13646
+SW5,London,England,51.49161,-0.19186
+SW6,London,England,51.47654,-0.20095
+SW7,London,England,51.4963,-0.17697
+SW8,London,England,51.4768,-0.13197
+SW9,London,England,51.46935,-0.11389
+SW95,London,England,51.4804,-0.13625
+SY1,West Midlands,England,52.72275,-2.74042
+SY10,West Midlands,England,52.83991,-3.12238
+SY11,West Midlands,England,52.87032,-3.03062
+SY12,West Midlands,England,52.90313,-2.89469
+SY13,West Midlands,England,52.95198,-2.68962
+SY14,North West,England,53.03141,-2.76819
+SY15,Wales,Wales,52.55352,-3.1333
+SY16,Wales,Wales,52.52039,-3.31198
+SY17,Wales,Wales,52.51702,-3.46973
+SY18,Wales,Wales,52.44176,-3.5493
+SY19,Wales,Wales,52.57916,-3.63461
+SY2,West Midlands,England,52.705,-2.72917
+SY20,Wales,Wales,52.61499,-3.81859
+SY21,Wales,Wales,52.65825,-3.20671
+SY22,Wales,Wales,52.7565,-3.18649
+SY23,Wales,Wales,52.37925,-4.05196
+SY24,Wales,Wales,52.47324,-4.02053
+SY25,Wales,Wales,52.2382,-3.93674
+SY3,West Midlands,England,52.69919,-2.77367
+SY4,West Midlands,England,52.79812,-2.75466
+SY5,West Midlands,England,52.65166,-2.8336
+SY6,West Midlands,England,52.53824,-2.79107
+SY7,West Midlands,England,52.42502,-2.88635
+SY8,West Midlands,England,52.36497,-2.69527
+SY9,West Midlands,England,52.49909,-2.99054
+SY99,West Midlands,England,52.71284,-2.74961
+TA1,South West,England,51.01319,-3.10292
+TA10,South West,England,51.03344,-2.82568
+TA11,South West,England,51.0606,-2.70324
+TA12,South West,England,50.97485,-2.77356
+TA13,South West,England,50.94688,-2.81064
+TA14,South West,England,50.94677,-2.75171
+TA15,South West,England,50.95114,-2.71693
+TA16,South West,England,50.90941,-2.79384
+TA17,South West,England,50.90818,-2.83632
+TA18,South West,England,50.88295,-2.78708
+TA19,South West,England,50.93538,-2.91619
+TA2,South West,England,51.03411,-3.10041
+TA20,South West,England,50.87355,-2.96198
+TA21,South West,England,50.97765,-3.24347
+TA22,South West,England,51.04569,-3.54554
+TA23,South West,England,51.16268,-3.35216
+TA24,South West,England,51.18191,-3.51033
+TA3,South West,England,50.9938,-3.03715
+TA4,South West,England,51.07264,-3.26798
+TA5,South West,England,51.14277,-3.09458
+TA6,South West,England,51.12555,-3.00045
+TA7,South West,England,51.1316,-2.91051
+TA8,South West,England,51.24555,-2.99515
+TA9,South West,England,51.22524,-2.95713
+TD1,Scotland,Scotland,55.62307,-2.81067
+TD10,Scotland,Scotland,55.71139,-2.4516
+TD11,Scotland,Scotland,55.78739,-2.31264
+TD12,Scotland,Scotland,55.65259,-2.24059
+TD13,Scotland,Scotland,55.93022,-2.37054
+TD14,Scotland,Scotland,55.86716,-2.12442
+TD15,North East,England,55.74722,-2.01542
+TD2,Scotland,Scotland,55.73133,-2.75438
+TD3,Scotland,Scotland,55.70273,-2.57409
+TD4,Scotland,Scotland,55.64241,-2.67202
+TD5,Scotland,Scotland,55.58815,-2.41729
+TD6,Scotland,Scotland,55.5819,-2.69364
+TD7,Scotland,Scotland,55.53634,-2.87284
+TD8,Scotland,Scotland,55.47586,-2.54193
+TD9,Scotland,Scotland,55.39705,-2.7767
+TF1,West Midlands,England,52.70336,-2.50328
+TF10,West Midlands,England,52.76945,-2.38716
+TF11,West Midlands,England,52.66512,-2.3582
+TF12,West Midlands,England,52.61216,-2.48174
+TF13,West Midlands,England,52.57812,-2.58368
+TF2,West Midlands,England,52.70165,-2.43865
+TF3,West Midlands,England,52.66768,-2.44871
+TF4,West Midlands,England,52.66289,-2.47201
+TF5,West Midlands,England,52.71718,-2.53924
+TF6,West Midlands,England,52.73623,-2.55709
+TF7,West Midlands,England,52.63932,-2.45027
+TF8,West Midlands,England,52.6295,-2.48265
+TF9,West Midlands,England,52.8973,-2.46977
+TN1,South East,England,51.13468,0.26655
+TN10,South East,England,51.21201,0.28412
+TN11,South East,England,51.20736,0.26529
+TN12,South East,England,51.17247,0.4438
+TN13,South East,England,51.27704,0.1836
+TN14,South East,England,51.29802,0.15716
+TN15,South East,England,51.30275,0.27472
+TN16,South East,England,51.29281,0.05197
+TN17,South East,England,51.09619,0.53706
+TN18,South East,England,51.04245,0.52246
+TN19,South East,England,51.00284,0.40593
+TN2,South East,England,51.13347,0.28171
+TN20,South East,England,51.01676,0.25031
+TN21,South East,England,50.95807,0.26306
+TN22,South East,England,50.98201,0.10098
+TN23,South East,England,51.13954,0.85583
+TN24,South East,England,51.14971,0.88828
+TN25,South East,England,51.13982,0.93838
+TN26,South East,England,51.09541,0.79775
+TN27,South East,England,51.16808,0.69372
+TN28,South East,England,50.98292,0.95037
+TN29,South East,England,50.99422,0.93234
+TN3,South East,England,51.12082,0.24824
+TN30,South East,England,51.06272,0.69669
+TN31,South East,England,50.96295,0.68457
+TN32,South East,England,50.97937,0.49058
+TN33,South East,England,50.91111,0.47406
+TN34,South East,England,50.86503,0.58227
+TN35,South East,England,50.88353,0.61402
+TN36,South East,England,50.92038,0.69928
+TN37,South East,England,50.87304,0.5573
+TN38,South East,England,50.86369,0.54354
+TN39,South East,England,50.84684,0.45095
+TN4,South East,England,51.14548,0.25487
+TN40,South East,England,50.84599,0.48317
+TN5,South East,England,51.05868,0.36555
+TN6,South East,England,51.05203,0.17573
+TN7,South East,England,51.0964,0.10201
+TN8,South East,England,51.19525,0.07789
+TN9,South East,England,51.19156,0.27447
+TQ1,South West,England,50.47294,-3.52323
+TQ10,South West,England,50.4233,-3.82645
+TQ11,South West,England,50.48229,-3.78506
+TQ12,South West,England,50.52932,-3.61239
+TQ13,South West,England,50.59466,-3.71695
+TQ14,South West,England,50.55084,-3.50799
+TQ2,South West,England,50.47647,-3.54633
+TQ3,South West,England,50.44398,-3.57651
+TQ4,South West,England,50.42243,-3.57297
+TQ5,South West,England,50.39172,-3.5237
+TQ6,South West,England,50.34691,-3.59166
+TQ7,South West,England,50.2828,-3.78443
+TQ8,South West,England,50.23656,-3.77197
+TQ9,South West,England,50.4166,-3.69132
+TR1,South West,England,50.26258,-5.05444
+TR10,South West,England,50.16764,-5.11915
+TR11,South West,England,50.14995,-5.08785
+TR12,South West,England,50.04231,-5.17928
+TR13,South West,England,50.10968,-5.28662
+TR14,South West,England,50.21083,-5.2966
+TR15,South West,England,50.23307,-5.23845
+TR16,South West,England,50.23317,-5.22154
+TR17,South West,England,50.12549,-5.46834
+TR18,South West,England,50.11746,-5.54244
+TR19,South West,England,50.10001,-5.63178
+TR2,South West,England,50.25473,-4.9503
+TR20,South West,England,50.13186,-5.48805
+TR21,South West,England,49.91909,-6.29862
+TR22,South West,England,49.89516,-6.34094
+TR23,South West,England,49.9536,-6.35271
+TR24,South West,England,49.95509,-6.33558
+TR25,South West,England,49.96426,-6.29344
+TR26,South West,England,50.20275,-5.47892
+TR27,South West,England,50.18305,-5.40378
+TR3,South West,England,50.21752,-5.11234
+TR4,South West,England,50.28652,-5.13765
+TR5,South West,England,50.31041,-5.19771
+TR6,South West,England,50.34194,-5.15314
+TR7,South West,England,50.41387,-5.07417
+TR8,South West,England,50.40146,-5.0406
+TR9,South West,England,50.41348,-4.93531
+TS1,North East,England,54.57189,-1.2393
+TS10,North East,England,54.6066,-1.06948
+TS11,North East,England,54.58759,-1.02688
+TS12,North East,England,54.56285,-0.96715
+TS13,North East,England,54.54982,-0.85433
+TS14,North East,England,54.53247,-1.06278
+TS15,North East,England,54.4873,-1.33517
+TS16,North East,England,54.52244,-1.35674
+TS17,North East,England,54.53526,-1.30472
+TS18,North East,England,54.56099,-1.3241
+TS19,North East,England,54.57724,-1.34327
+TS2,North East,England,54.5852,-1.23762
+TS20,North East,England,54.5868,-1.31383
+TS21,North East,England,54.62564,-1.42636
+TS22,North East,England,54.62749,-1.32566
+TS23,North East,England,54.60959,-1.28502
+TS24,North East,England,54.69698,-1.21133
+TS25,North East,England,54.66292,-1.22527
+TS26,North East,England,54.689,-1.23319
+TS27,North East,England,54.72332,-1.28918
+TS28,North East,England,54.72599,-1.37477
+TS29,North East,England,54.71071,-1.42031
+TS3,North East,England,54.5605,-1.19686
+TS4,North East,England,54.55576,-1.22287
+TS5,North East,England,54.55035,-1.25247
+TS6,North East,England,54.56551,-1.15373
+TS7,North East,England,54.53379,-1.18298
+TS8,North East,England,54.52179,-1.23259
+TS9,Yorkshire and the Humber,England,54.46618,-1.16545
+TW1,London,England,51.45101,-0.32536
+TW10,London,England,51.44767,-0.30296
+TW11,London,England,51.42628,-0.33177
+TW12,London,England,51.42298,-0.36973
+TW13,London,England,51.43905,-0.4019
+TW14,London,England,51.45335,-0.42163
+TW15,South East,England,51.43124,-0.45873
+TW16,South East,England,51.41573,-0.41686
+TW17,South East,England,51.39822,-0.4478
+TW18,South East,England,51.42777,-0.50435
+TW19,South East,England,51.45435,-0.49838
+TW2,London,England,51.44638,-0.35434
+TW20,South East,England,51.42749,-0.55301
+TW3,London,England,51.4683,-0.36396
+TW4,London,England,51.46546,-0.38798
+TW5,London,England,51.48247,-0.38629
+TW6,London,England,51.47076,-0.44872
+TW7,London,England,51.47286,-0.33604
+TW8,London,England,51.4874,-0.30515
+TW9,London,England,51.46962,-0.29235
+UB1,London,England,51.51538,-0.37348
+UB10,London,England,51.54932,-0.45206
+UB11,London,England,51.51149,-0.44725
+UB18,London,England,51.50072,-0.40266
+UB2,London,England,51.49968,-0.37888
+UB3,London,England,51.50515,-0.42437
+UB4,London,England,51.52599,-0.40855
+UB5,London,England,51.54306,-0.37651
+UB6,London,England,51.53917,-0.34028
+UB7,London,England,51.50438,-0.4692
+UB8,London,England,51.53507,-0.47357
+UB9,South East,England,51.58645,-0.49233
+W10,London,England,51.52319,-0.21661
+W11,London,England,51.51227,-0.21529
+W12,London,England,51.50837,-0.23959
+W13,London,England,51.51301,-0.3212
+W14,London,England,51.49469,-0.21024
+W1A,London,England,51.52435,-0.11288
+W1B,London,England,51.51438,-0.14095
+W1C,London,England,51.51444,-0.14911
+W1D,London,England,51.51333,-0.1327
+W1F,London,England,51.51349,-0.13644
+W1G,London,England,51.51933,-0.14827
+W1H,London,England,51.5177,-0.16121
+W1J,London,England,51.50786,-0.14508
+W1K,London,England,51.51112,-0.15103
+W1S,London,England,51.51121,-0.14239
+W1T,London,England,51.52029,-0.1367
+W1U,London,England,51.5187,-0.15348
+W1W,London,England,51.51921,-0.14087
+W2,London,England,51.51522,-0.1852
+W3,London,England,51.51107,-0.26753
+W4,London,England,51.49117,-0.26413
+W5,London,England,51.51337,-0.30219
+W6,London,England,51.49256,-0.22843
+W7,London,England,51.5119,-0.33597
+W8,London,England,51.50119,-0.19425
+W9,London,England,51.52491,-0.19262
+WA1,North West,England,53.39372,-2.57238
+WA10,North West,England,53.45429,-2.75623
+WA11,North West,England,53.47836,-2.72052
+WA12,North West,England,53.45342,-2.63317
+WA13,North West,England,53.3823,-2.4696
+WA14,North West,England,53.38788,-2.36097
+WA15,North West,England,53.38442,-2.32554
+WA16,North West,England,53.30307,-2.37209
+WA2,North West,England,53.41085,-2.5813
+WA3,North West,England,53.45657,-2.5479
+WA4,North West,England,53.36458,-2.57592
+WA5,North West,England,53.39933,-2.6392
+WA55,North West,England,53.3926,-2.61028
+WA6,North West,England,53.27243,-2.7251
+WA7,North West,England,53.33067,-2.70318
+WA8,North West,England,53.37318,-2.74121
+WA88,North West,England,53.36799,-2.76867
+WA9,North West,England,53.43606,-2.71941
+WC1A,London,England,51.52029,-0.12009
+WC1B,London,England,51.51945,-0.12613
+WC1E,London,England,51.52172,-0.13283
+WC1H,London,England,51.52686,-0.12568
+WC1N,London,England,51.52292,-0.11973
+WC1R,London,England,51.51961,-0.11578
+WC1V,London,England,51.51803,-0.11653
+WC1X,London,England,51.52665,-0.11495
+WC2A,London,England,51.51619,-0.11415
+WC2B,London,England,51.51494,-0.12047
+WC2E,London,England,51.51188,-0.12332
+WC2H,London,England,51.51332,-0.12735
+WC2N,London,England,51.50913,-0.12492
+WC2R,London,England,51.51175,-0.11814
+WD17,East of England,England,51.66393,-0.40557
+WD18,East of England,England,51.64906,-0.4146
+WD19,East of England,England,51.63076,-0.39064
+WD23,East of England,England,51.64532,-0.35798
+WD24,East of England,England,51.67371,-0.39812
+WD25,East of England,England,51.68721,-0.38767
+WD3,East of England,England,51.64677,-0.48239
+WD4,East of England,England,51.70648,-0.45687
+WD5,East of England,England,51.70338,-0.4162
+WD6,East of England,England,51.65746,-0.2756
+WD7,East of England,England,51.68729,-0.30975
+WD99,East of England,England,51.64878,-0.42207
+WF1,Yorkshire and the Humber,England,53.68759,-1.49337
+WF10,Yorkshire and the Humber,England,53.72388,-1.3476
+WF11,Yorkshire and the Humber,England,53.71152,-1.25619
+WF12,Yorkshire and the Humber,England,53.68348,-1.6197
+WF13,Yorkshire and the Humber,England,53.69239,-1.64684
+WF14,Yorkshire and the Humber,England,53.67981,-1.69609
+WF15,Yorkshire and the Humber,England,53.70832,-1.70043
+WF16,Yorkshire and the Humber,England,53.71023,-1.66959
+WF17,Yorkshire and the Humber,England,53.71886,-1.64235
+WF2,Yorkshire and the Humber,England,53.67232,-1.51254
+WF3,Yorkshire and the Humber,England,53.72319,-1.52372
+WF4,Yorkshire and the Humber,England,53.64662,-1.51922
+WF5,Yorkshire and the Humber,England,53.68049,-1.57645
+WF6,Yorkshire and the Humber,England,53.70038,-1.41565
+WF7,Yorkshire and the Humber,England,53.66638,-1.35293
+WF8,Yorkshire and the Humber,England,53.68647,-1.30043
+WF9,Yorkshire and the Humber,England,53.60635,-1.32125
+WF90,Yorkshire and the Humber,England,53.67445,-1.49089
+WN1,North West,England,53.55354,-2.62792
+WN2,North West,England,53.53594,-2.5825
+WN3,North West,England,53.52891,-2.64615
+WN4,North West,England,53.4937,-2.64446
+WN5,North West,England,53.53183,-2.6876
+WN6,North West,England,53.57551,-2.67149
+WN7,North West,England,53.4981,-2.51844
+WN8,North West,England,53.55345,-2.77001
+WR1,West Midlands,England,52.19563,-2.22201
+WR10,West Midlands,England,52.11537,-2.06806
+WR11,West Midlands,England,52.09564,-1.92884
+WR12,West Midlands,England,52.04051,-1.87006
+WR13,West Midlands,England,52.09367,-2.34246
+WR14,West Midlands,England,52.11428,-2.32027
+WR15,West Midlands,England,52.30543,-2.56978
+WR2,West Midlands,England,52.18877,-2.24937
+WR3,West Midlands,England,52.21713,-2.21388
+WR4,West Midlands,England,52.20374,-2.18955
+WR5,West Midlands,England,52.17441,-2.20209
+WR6,West Midlands,England,52.23012,-2.38234
+WR7,West Midlands,England,52.19683,-2.04884
+WR8,West Midlands,England,52.07441,-2.2066
+WR9,West Midlands,England,52.26663,-2.15848
+WR99,West Midlands,England,52.19501,-2.20431
+WS1,West Midlands,England,52.57932,-1.97841
+WS10,West Midlands,England,52.56062,-2.0223
+WS11,West Midlands,England,52.68787,-2.0169
+WS12,West Midlands,England,52.70744,-2.00218
+WS13,West Midlands,England,52.69376,-1.81741
+WS14,West Midlands,England,52.66447,-1.8169
+WS15,West Midlands,England,52.75864,-1.91705
+WS2,West Midlands,England,52.58938,-2.00442
+WS3,West Midlands,England,52.61963,-1.9917
+WS4,West Midlands,England,52.60689,-1.95871
+WS5,West Midlands,England,52.56602,-1.95826
+WS6,West Midlands,England,52.6586,-2.02321
+WS7,West Midlands,England,52.67973,-1.92166
+WS8,West Midlands,England,52.64737,-1.93314
+WS9,West Midlands,England,52.60999,-1.91848
+WV1,West Midlands,England,52.58649,-2.11574
+WV10,West Midlands,England,52.61914,-2.11353
+WV11,West Midlands,England,52.61068,-2.07187
+WV12,West Midlands,England,52.60585,-2.04035
+WV13,West Midlands,England,52.58516,-2.05802
+WV14,West Midlands,England,52.55739,-2.07888
+WV15,West Midlands,England,52.51477,-2.37398
+WV16,West Midlands,England,52.50895,-2.44163
+WV2,West Midlands,England,52.57374,-2.11843
+WV3,West Midlands,England,52.57903,-2.15661
+WV4,West Midlands,England,52.56136,-2.14478
+WV5,West Midlands,England,52.53415,-2.21085
+WV6,West Midlands,England,52.59666,-2.18329
+WV7,West Midlands,England,52.63552,-2.27901
+WV8,West Midlands,England,52.62589,-2.18754
+WV9,West Midlands,England,52.63778,-2.1436
+WV98,West Midlands,England,52.40489,-2.2202
+WV99,West Midlands,England,52.67136,-2.42029
+YO1,Yorkshire and the Humber,England,53.95862,-1.08262
+YO10,Yorkshire and the Humber,England,53.95048,-1.05721
+YO11,Yorkshire and the Humber,England,54.26319,-0.39641
+YO12,Yorkshire and the Humber,England,54.2729,-0.42462
+YO13,Yorkshire and the Humber,England,54.28671,-0.49759
+YO14,Yorkshire and the Humber,England,54.19774,-0.29859
+YO15,Yorkshire and the Humber,England,54.09446,-0.17779
+YO16,Yorkshire and the Humber,England,54.096,-0.20239
+YO17,Yorkshire and the Humber,England,54.13679,-0.75776
+YO18,Yorkshire and the Humber,England,54.25867,-0.76891
+YO19,Yorkshire and the Humber,England,53.90651,-1.02016
+YO21,Yorkshire and the Humber,England,54.47688,-0.71097
+YO22,Yorkshire and the Humber,England,54.45134,-0.62116
+YO23,Yorkshire and the Humber,England,53.92343,-1.12362
+YO24,Yorkshire and the Humber,England,53.94599,-1.11714
+YO25,Yorkshire and the Humber,England,54.00468,-0.41683
+YO26,Yorkshire and the Humber,England,53.97613,-1.1807
+YO30,Yorkshire and the Humber,England,53.98709,-1.11713
+YO31,Yorkshire and the Humber,England,53.96981,-1.06449
+YO32,Yorkshire and the Humber,England,54.01237,-1.05942
+YO41,Yorkshire and the Humber,England,53.97043,-0.90043
+YO42,Yorkshire and the Humber,England,53.92394,-0.78994
+YO43,Yorkshire and the Humber,England,53.8495,-0.68517
+YO51,Yorkshire and the Humber,England,54.0896,-1.39455
+YO60,Yorkshire and the Humber,England,54.08622,-0.93908
+YO61,Yorkshire and the Humber,England,54.11726,-1.1961
+YO62,Yorkshire and the Humber,England,54.24619,-0.99394
+YO7,Yorkshire and the Humber,England,54.22411,-1.35258
+YO8,Yorkshire and the Humber,England,53.78108,-1.06045
+YO90,Yorkshire and the Humber,England,53.95972,-1.09024
+ZE1,Scotland,Scotland,60.15145,-1.1714
+ZE2,Scotland,Scotland,60.31129,-1.22743
+ZE3,Scotland,Scotland,59.88292,-1.30427
