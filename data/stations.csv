@@ -4368,7 +4368,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 4367,Clydebank Filling Station,BP,Shell Clydebank,Clydebank,G81 1JA,55.89087,-4.38689,0,0,0,0,0,1,0,1,1,1,Scotland,Scotland
 4368,Asda Tongham Express Petrol,Esso,Tongham Road,Farnham,GU10 1FP,51.22537,-0.75187,0,0,0,0,1,1,0,1,0,1,South East,England
 4369,Saunders Garage Ltd,Murco,28 Astwick Rd,,SG5 4AT,52.02382,-0.22706,0,0,0,0,0,0,0,0,0,0,East of England,England
-4370,Asda Pont Abraham Express Petrol,Esso,J49 M4 Motorway,Llanedi,SA4 0FU,51.74747,-4.06591,0,1,1,0,1,1,0,1,0,1,Wales,Wales
+4370,Asda Pont Abraham Express Petrol,Esso,J49 M4 Motorway,Llanedi,SA4 0FU,51.74747,-4.06591,0,1,0,0,1,1,0,1,0,1,Wales,Wales
 4371,Opie Oils,Jet,Opie Oils Ltd,Redruth,TR16 6RW,50.22705,-5.22264,0,0,0,0,0,0,0,0,0,0,South West,England
 4372,Silverburn Extra - Petrol Filling Station,Tesco,751 Barrhead Road,Glasgow,G53 6AG,55.82275,-4.34018,1,0,0,0,0,1,0,1,0,0,Scotland,Scotland
 4373,Esso - Queensferry Service Station,Queensferry Service Station,Queensferry Service Station,Deeside,CH5 1QD,53.2089,-3.03263,0,0,0,0,0,1,0,1,1,0,Wales,Wales
