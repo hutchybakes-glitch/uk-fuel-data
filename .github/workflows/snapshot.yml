@@ -3,17 +3,9 @@
 name: Fuel Finder snapshot
 
 on:
-  # Six runs a day, about 20 minutes before the Power BI refreshes
-  schedule:
-    - cron: "40 5,8,11,14,17,20 * * *"
-  # Allow a manual run from the Actions tab
+  # PAUSED: Fuel Finder refuses GitHub-hosted runners (HTTP 403, non-UK IP; confirmed 23 Oct 2026).
+  # Snapshots run on a UK machine instead. Manual runs stay available for re-testing.
   workflow_dispatch:
-  # Run when the script or this workflow changes, so changes are tested straight away
-  push:
-    branches: [main]
-    paths:
-      - "scripts/snapshot.py"
-      - ".github/workflows/snapshot.yml"
 
 # The job needs to push its data commit back to the repo
 permissions:
