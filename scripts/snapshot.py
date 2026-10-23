@@ -17,6 +17,8 @@ import time
 import statistics
 # Import date and time handling for UTC timestamps
 from datetime import datetime, timezone, timedelta
+# Import defaultdict to group prices by region and fuel
+from collections import defaultdict
 # Import path handling for the output folders
 from pathlib import Path
 # Import requests to call the API
@@ -308,6 +310,26 @@ write_csv(ids_path, ["sid", "node_id"], [{"sid": v, "node_id": k} for k, v in so
 station_rows = [{"sid": sid[r["node_id"]], **{k: v for k, v in r.items() if k != "node_id"}} for r in station_rows]
 # Sort stations by number so unchanged files produce no git changes
 station_rows.sort(key=lambda r: r["sid"])
+# The postcode-district-to-region lookup built by make_place_index.py
+region_path = DATA.parent / "reference" / "outcode_region.csv"
+# Region and nation keyed by postcode district (empty if the lookup is missing)
+region_of = {}
+# Read the lookup when it exists
+if region_path.exists():
+    # Open it for reading
+    with open(region_path, newline="", encoding="utf-8") as f:
+        # Store region and nation for each postcode district
+        region_of = {row["outcode"]: (row["region"], row["nation"]) for row in csv.DictReader(f)}
+# Add region and nation to every station from its postcode district (the part before the space)
+for r in station_rows:
+    # Look up the station's postcode district
+    reg, nat = region_of.get(r["postcode"].split(" ")[0] if r["postcode"] else "", ("Unknown", "Unknown"))
+    # Store the region
+    r["region"] = reg
+    # Store the nation
+    r["nation"] = nat
+# Region of each station number, for the regional summary
+region_of_sid = {r["sid"]: r["region"] for r in station_rows}
 
 # Flatten every station's price list into (station, fuel, price, changed, effective) rows
 flat = []
@@ -401,6 +423,37 @@ for month, rows in by_month.items():
         existing[(str(row["sid"]), row["fuel"], row["effective_utc"])] = row
     # Write the merged file sorted for stable diffs
     write_csv(path, ["sid", "fuel", "price", "effective_utc"], sorted(existing.values(), key=lambda x: (x["effective_utc"], int(x["sid"]), x["fuel"])))
+
+# Daily regional summary: one row per day, region and fuel, from prices flagged OK (the day's last run wins)
+daily_path = DATA / "daily_region.csv"
+# Today's date in UTC
+today = run_utc.strftime("%Y-%m-%d")
+# Keep earlier days' rows from the existing file
+daily = []
+# Read the existing file if there is one
+if daily_path.exists():
+    # Open it for reading
+    with open(daily_path, newline="", encoding="utf-8") as f:
+        # Keep every row from other days
+        daily = [row for row in csv.DictReader(f) if row["date"] != today]
+# Group today's OK prices by region and fuel, plus a UK-wide group
+groups = defaultdict(list)
+# Go through each current price
+for r in price_rows:
+    # Only prices that passed the quality checks count
+    if r["flag"] == "ok":
+        # Add to the station's region
+        groups[(region_of_sid.get(r["sid"], "Unknown"), r["fuel"])].append(r["price"])
+        # Add to the UK total
+        groups[("United Kingdom", r["fuel"])].append(r["price"])
+# Add one summary row per group
+for (region, fuel), vals in sorted(groups.items()):
+    # Median, mean, cheapest and number of stations
+    daily.append({"date": today, "region": region, "fuel": fuel, "median_p": round(statistics.median(vals), 1),
+                  # Mean and the cheapest price
+                  "mean_p": round(sum(vals) / len(vals), 2), "min_p": min(vals), "stations": len(vals)})
+# Write the summary sorted for stable diffs
+write_csv(daily_path, ["date", "region", "fuel", "median_p", "mean_p", "min_p", "stations"], sorted(daily, key=lambda x: (x["date"], x["region"], x["fuel"])))
 
 # Append one line to the run log with counts and national medians
 log = DATA / "snapshots.csv"

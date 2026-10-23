@@ -24,7 +24,7 @@ Set-Location $repo
 Write-Log 'Start'
 try {
     # Get any changes made elsewhere first, so the push cannot be rejected
-    git pull --rebase --quiet 2>&1 | Out-Null
+    git pull --rebase --autostash --quiet 2>&1 | Out-Null
     # Run the snapshot and capture everything it prints
     $out = & 'C:\Python313\python.exe' 'scripts\snapshot.py' 2>&1
     # Record what it printed

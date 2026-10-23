@@ -1,0 +1,10 @@
+energy_code,energy_label,powertrain,unit,co2e_direct,co2e_wtt,co2e_wtw,factor_year
+PETROL,Petrol (E10),PETROL,litre,2.075,0.58094,2.65594,2026
+DIESEL,Diesel (B7),DIESEL,litre,2.58354,0.61101,3.19455,2026
+HVO,HVO (renewable diesel),HVO,litre,0.03558,0.56439,0.59997,2026
+LPG,LPG,LPG,litre,1.55713,0.18551,1.74264,2026
+CNG,CNG (fossil gas),CNG,kg,2.50772,0.53078,3.0385,2026
+BIOCNG,Bio-CNG (biomethane),CNG,kg,0.00521,0.77405,0.77926,2026
+ELEC_DEPOT,EV: depot or home charging,EV,kWh,0.14395,0.04041,0.18436,2026
+ELEC_PUBLIC,EV: public slow/fast,EV,kWh,0.14395,0.04041,0.18436,2026
+ELEC_RAPID,EV: public rapid,EV,kWh,0.14395,0.04041,0.18436,2026
