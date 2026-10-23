@@ -99,7 +99,7 @@ def get_token():
     # Stop with a plain message if either is missing
     if not client_id or not client_secret:
         # Explain what is missing
-        sys.exit("Missing FUEL_FINDER_CLIENT_ID or FUEL_FINDER_CLIENT_SECRET.")
+        fail("Missing FUEL_FINDER_CLIENT_ID or FUEL_FINDER_CLIENT_SECRET.")
     # Send the credentials as JSON, as the API expects
     r = requests.post(BASE + "/api/v1/oauth/generate_access_token", json={
         # The OAuth grant type for machine-to-machine access
@@ -113,11 +113,11 @@ def get_token():
     # A 403 here usually means the request came from outside the UK
     if r.status_code == 403:
         # Stop with a message that names the likely cause
-        sys.exit("Token request refused (403). Fuel Finder may block non-UK IP addresses.")
+        fail("Token request refused (403). Fuel Finder may block non-UK IP addresses.")
     # Any other failure stops with its status code only (never the body)
     if r.status_code != 200:
         # Explain the failure
-        sys.exit(f"Token request failed with HTTP {r.status_code}.")
+        fail(f"Token request failed with HTTP {r.status_code}.")
     # Hand back the token
     return r.json()["data"]["access_token"]
 
@@ -153,11 +153,11 @@ def page_all(path, token):
         # A 403 on data calls usually means the IP address is not in the UK
         if r.status_code == 403:
             # Stop with a message that names the likely cause
-            sys.exit(f"{path} refused (403). Fuel Finder may block non-UK IP addresses.")
+            fail(f"{path} refused (403). Fuel Finder may block non-UK IP addresses.")
         # Any other error stops the run
         if r.status_code != 200:
             # Explain the failure
-            sys.exit(f"{path} batch {batch} failed with HTTP {r.status_code}.")
+            fail(f"{path} batch {batch} failed with HTTP {r.status_code}.")
         # Parse the body
         body = r.json()
         # Accept either a bare list or a list wrapped in a data key
@@ -172,6 +172,14 @@ def page_all(path, token):
         time.sleep(PAUSE_SECONDS)
     # Hand back the rows and the call count
     return rows, calls
+
+
+# Stop the run with a plain message, also shown as a GitHub annotation so it is visible without opening the log
+def fail(message):
+    # Print the message in the GitHub Actions annotation format
+    print(f"::error::{message}")
+    # Exit with an error code and the same message
+    sys.exit(message)
 
 
 # Read an ISO UTC timestamp from the API into a datetime (or None)
@@ -215,7 +223,7 @@ prices, price_calls = page_all("/api/v1/pfs/fuel-prices", token)
 # Stop if the feed looks broken, so a bad run never overwrites good files
 if len(stations) < 7000 or len(prices) < 7000:
     # Explain why nothing was written
-    sys.exit(f"Too few rows (stations {len(stations)}, prices {len(prices)}); not writing.")
+    fail(f"Too few rows (stations {len(stations)}, prices {len(prices)}); not writing.")
 
 # Build the tidy station rows
 station_rows = []
