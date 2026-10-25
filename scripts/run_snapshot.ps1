@@ -23,13 +23,26 @@ Set-Location $repo
 # Note the start
 Write-Log 'Start'
 try {
+    # After the PC wakes from sleep the network can take a minute to come back: wait up to 3 minutes for GitHub to answer
+    $waited = 0
+    # Check every 15 seconds until GitHub answers or 3 minutes have passed
+    while (-not (Test-Connection -ComputerName 'github.com' -Count 1 -Quiet) -and $waited -lt 180) { Start-Sleep -Seconds 15; $waited += 15 }
+    # Note any wait, so slow wake-ups show in the log
+    if ($waited -gt 0) { Write-Log "Waited $waited s for the network" }
     # Get any changes made elsewhere first, so the push cannot be rejected
     git pull --rebase --autostash --quiet 2>&1 | Out-Null
-    # Run the snapshot and capture everything it prints
-    $out = & 'C:\Python313\python.exe' 'scripts\snapshot.py' 2>&1
-    # Record what it printed
-    Write-Log ($out -join ' | ')
-    # Stop if the snapshot failed, leaving the last good files in place
+    # Run the snapshot, and once more after a minute if it fails (Fuel Finder is occasionally slow or busy)
+    foreach ($attempt in 1, 2) {
+        # Run the snapshot and capture everything it prints
+        $out = & 'C:\Python313\python.exe' 'scripts\snapshot.py' 2>&1
+        # Record what it printed, with the attempt number
+        Write-Log ("Attempt $attempt | " + ($out -join ' | '))
+        # Stop retrying once it has worked
+        if ($LASTEXITCODE -eq 0) { break }
+        # Wait a minute before the second attempt
+        if ($attempt -eq 1) { Start-Sleep -Seconds 60 }
+    }
+    # Stop if both attempts failed, leaving the last good files in place
     if ($LASTEXITCODE -ne 0) { throw "snapshot.py exit code $LASTEXITCODE" }
     # Stage the data folder
     git add data
