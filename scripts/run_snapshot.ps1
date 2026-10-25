@@ -1,5 +1,5 @@
 # Runs one Fuel Finder snapshot on this PC and pushes the data to GitHub.
-# Called by the Windows scheduled task "UK Fuel Snapshot" six times a day.
+# Called by the Windows scheduled task "UK Fuel Snapshot" six times a day (06:40 to 21:40 UK time); the task may wake the PC from sleep (on mains power) to run it.
 # Fuel Finder only answers UK IP addresses, so this cannot run on GitHub's own servers.
 # Credentials: C:\Users\User\.fuelfinder.env (FUEL_FINDER_CLIENT_ID=..., FUEL_FINDER_CLIENT_SECRET=...).
 
