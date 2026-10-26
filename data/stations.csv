@@ -308,7 +308,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 307,Costco Wholesale Haydock,Costco,Andover Road,Haydock,WA11 9FA,53.47463,-2.66282,0,0,0,0,0,1,0,0,0,1,North West,England
 308,Lanark Fuel Express Automat,Gulf,West Port,Lanark,ML11 9HE,55.67491,-3.78468,0,0,0,0,0,0,0,1,0,0,Scotland,Scotland
 309,Asda Stockport Express Petrol,Esso,297-309 Buxton Road,Stockport,SK2 7NR,53.38923,-2.13822,0,0,0,0,0,1,0,1,0,0,North West,England
-310,Telford Extra - Petrol Filling Station,Tesco,Wrekin Retail Park,Telford,TF1 2DE,52.68972,-2.49249,1,0,0,0,0,1,0,1,1,1,West Midlands,England
+310,Telford Extra - Petrol Filling Station,Tesco,Wrekin Retail Park,Telford,TF1 2DE,52.68972,-2.49249,1,0,1,0,0,1,0,1,1,1,West Midlands,England
 311,Asda Wembury Road Express Petrol,Asda,Wembury Road,Plymouth,PL9 0DF,50.35128,-4.07588,0,0,0,0,0,1,0,0,0,0,South West,England
 312,Mfg Peveril,Esso,Sheffield Road,Chesterfield,S41 8JZ,53.25093,-1.42887,0,0,0,0,0,1,0,1,1,0,East Midlands,England
 313,Asda Chadderton,Asda,"Milne Street, Chadderton",Oldham,OL9 0JE,53.54515,-2.14,1,0,0,0,0,1,0,1,0,1,North West,England
@@ -2311,7 +2311,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 2310,Mfg Waterbeach,BP,A10 Ely Road,Waterbeach,CB25 9PQ,52.291,0.17737,0,0,0,0,0,1,0,1,0,1,East of England,England
 2311,Nicholl Auto 365 Cookstown,Nicholl Auto 365 Cookstown,22 Dungannon Road,Cookstown,BT80 8TL,54.63147,-6.74244,0,0,0,0,0,0,0,1,0,0,Northern Ireland,Northern Ireland
 2312,Mfg Morrisons Scunthorpe,Morrisons,Lakeside Parkway,Scunthorpe,DN16 3UA,53.56414,-0.61561,1,0,0,0,1,1,0,1,1,0,Yorkshire and the Humber,England
-2313,Mfg Morrisons Elland,Morrisons,Jubilee Way,Elland,HX5 9DT,53.68836,-1.83869,1,0,0,0,1,1,1,1,1,0,Yorkshire and the Humber,England
+2313,Mfg Morrisons Elland,Morrisons,Jubilee Way,Elland,HX5 9DT,53.68836,-1.83869,1,0,1,0,1,1,1,1,1,0,Yorkshire and the Humber,England
 2314,Pound Hill Supervalu,Solo,2 Moore Styreet,Aughnacloy,BT69 6AY,54.41727,-6.97951,1,0,0,0,0,1,0,1,0,1,Northern Ireland,Northern Ireland
 2315,Chrysler Garage,Texaco,Chrysler Garage,Kettering,NN16 8HR,52.4023,-0.7305,0,0,0,0,0,1,0,1,1,1,East Midlands,England
 2316,Shell Baguley,Shell,Altrincham Road,Manchester,M23 9AA,53.40053,-2.29309,0,0,0,0,0,1,0,1,0,1,North West,England
@@ -3395,7 +3395,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 3394,Eg Bury Road Pfs,Shell,Bury Road,Huntington,PE26 1NE,52.44063,-0.11418,0,0,0,0,0,1,0,0,0,0,East of England,England
 3395,Eg Hinckley Pfs,EG On The Move,Coventry Road,Hinckley,LE10 0NB,52.5364,-1.39893,0,0,0,0,0,1,0,1,0,0,East Midlands,England
 3396,Mfg West Wickham,Esso,171 High Street,West Wickham,BR4 0LU,51.3772,-0.02243,0,0,0,0,0,1,0,0,1,0,London,England
-3397,Asda Sproughton Rd Express Petrol,Shell,Sproughton Road,Ipswich,IP1 5BL,52.06325,1.10954,0,1,0,0,1,1,0,1,1,1,East of England,England
+3397,Asda Sproughton Rd Express Petrol,Esso,Sproughton Road,Ipswich,IP1 5BL,52.06325,1.10954,0,1,0,0,1,1,0,1,1,1,East of England,England
 3398,Shell Chigwell,Shell,124 Manor Road,Chigwell,IG7 5PP,51.61071,0.08144,0,0,0,0,0,1,0,1,0,1,East of England,England
 3399,Rontec Timberley,Esso,Chester Road,Birmingham,B36 0LB,52.50011,-1.76002,0,0,0,0,0,1,0,1,1,0,West Midlands,England
 3400,Kessingland Petrol Station,Kessingland Petrol Station,82 High Street,Kessingland,NR33 7QQ,52.4201,1.70836,0,0,0,0,0,1,0,1,0,0,East of England,England
@@ -8109,7 +8109,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8108,Arnolds Garage,Arnolds Garage,Post Office,Haslemere,GU27 3RB,51.08284,-0.74071,1,0,0,0,0,1,0,0,0,0,South East,England
 8109,Crawfordsburn Filling Station,Maxol,Crawfordsburn Service Station,Bangor,BT19 1JS,54.65915,-5.72965,1,0,0,0,0,1,0,0,0,0,Northern Ireland,Northern Ireland
 8110,Asda Tranent Supermarket,Asda,151 High Street,Tranent,EH33 1LP,55.94301,-2.94817,1,0,0,0,0,1,0,0,1,1,Scotland,Scotland
-8111,Minehead Superstore - Petrol Filling Station,Tesco,Seaward Way,Minehead,TA24 5BY,51.20147,-3.46403,1,0,1,0,0,1,0,1,1,1,South West,England
+8111,Minehead Superstore - Petrol Filling Station,Tesco,Seaward Way,Minehead,TA24 5BY,51.20147,-3.46403,1,0,0,0,0,1,0,1,1,1,South West,England
 8112,Solihull Esso Express,Esso,11 Warwick Road,Solihull,B92 7HS,52.44255,-1.81132,0,0,0,0,0,1,0,0,0,0,West Midlands,England
 8113,Asda Moreton Express Petrol,Esso,157 Hoylake Road,Wirral,CH46 9PZ,53.401,-3.107,0,0,0,0,0,1,0,1,1,0,North West,England
 8114,Old Windsor Sf Connect,BP,95 Straight Road,Old Windsor,SL4 2SE,51.45589,-0.57659,0,0,0,0,0,1,0,0,0,1,South East,England
