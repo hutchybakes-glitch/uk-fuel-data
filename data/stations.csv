@@ -1722,7 +1722,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1721,Virgo Merchants,Jet,Four Winds Service Station,Boston,PE20 3QF,52.97938,-0.214,0,0,0,0,1,1,1,1,1,1,East Midlands,England
 1722,Shell Hatton,Shell,Hertford Hill,Warwick,CV35 7DZ,52.29501,-1.62704,0,0,0,0,0,1,0,1,0,1,West Midlands,England
 1723,Rontec Swanwick,Esso,Derby Road,Alfreton,DE55 1BG,53.07869,-1.39821,0,0,0,0,0,1,0,1,1,0,East Midlands,England
-1724,Shell Diss,Shell,Victoria Road,Diss,IP22 4GA,52.37086,1.1204,0,0,1,0,0,1,0,1,0,1,East of England,England
+1724,Shell Diss,Shell,Victoria Road,Diss,IP22 4GA,52.37086,1.1204,0,0,0,0,0,1,0,1,0,1,East of England,England
 1725,Mfg Loxford,Esso,433 Ilford Lane,Ilford,IG1 2PG,51.5447,0.07827,0,0,0,0,0,1,0,1,1,1,London,England
 1726,Mfg Morrisons Harwood,Morrisons,Lea Gate,Harwood,BL2 3HN,53.6048,-2.39624,1,0,0,0,0,1,0,0,0,0,North West,England
 1727,Mfg Lymm,Esso,Higher Lane,Lymm,WA13 0BA,53.37692,-2.4725,0,0,0,0,0,1,0,0,1,1,North West,England
@@ -7227,7 +7227,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 7226,Tattenham Service Station,Tattenham Service Station,Tattenham Corner Service Station,Epsom,KT18 5QJ,51.30995,-0.24166,0,0,0,0,0,1,0,0,0,0,South East,England
 7227,Mfg Morrisons Bromsgrove,Morrisons,Buntsford Park Road,Bromsgrove,B60 3DX,52.3178,-2.06364,1,0,0,0,1,1,0,1,1,0,West Midlands,England
 7228,Bradford St Esso Express,Esso,104 Bradford Street,Bolton,BL2 1JR,53.57844,-2.41369,0,0,0,0,0,1,0,0,0,0,North West,England
-7229,Shell Carlisle Street,Shell,Carlisle Street East,Sheffield,S4 7LJ,53.40455,-1.43558,0,0,1,0,0,1,0,1,1,1,Yorkshire and the Humber,England
+7229,Shell Carlisle Street,Shell,Carlisle Street East,Sheffield,S4 7LJ,53.40455,-1.43558,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
 7230,Hertford Road Service Station,Jet,Jet Hertford Road Service Station,Enfield,EN3 5SS,51.66727,-0.04282,0,0,0,0,0,1,0,1,0,1,London,England
 7231,Hunstanton Superstore - Petrol Filling Station,Tesco,Tesco Stores Ltd,Hunstanton,PE36 5AR,52.93458,0.48636,1,0,0,0,0,1,0,0,1,1,East of England,England
 7232,Leven Services,Esso,Leven Services,,HU17 5PT,53.89209,-0.29755,0,0,0,0,1,1,0,1,0,1,Yorkshire and the Humber,England
