@@ -5110,7 +5110,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5109,Barnsley Extra - Petrol Filling Station,Tesco,Wombwell Lane,Barnsley,S70 3NS,53.54079,-1.43602,1,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
 5110,Exelby Services A19 South,Shell,Exelby Services A19 South,Northallerton,DL6 3LG,54.41599,-1.3191,0,0,0,0,1,1,0,1,0,1,Yorkshire and the Humber,England
 5111,Shell Victoria,Shell,Ebury Street,London,SW1W 9QJ,51.49255,-0.15065,0,0,0,0,0,1,0,0,0,1,London,England
-5112,Shell Expressway,Shell,A55 Interchange  Abergele Road,Abergele,LL22 8HH,53.29063,-3.6434,0,0,0,0,0,1,0,1,0,1,Wales,Wales
+5112,Shell Expressway,Shell,A55 Interchange  Abergele Road,Abergele,LL22 8HH,53.29063,-3.6434,0,0,1,0,0,1,0,1,0,1,Wales,Wales
 5113,Mfg Sleaford,BP,A325 Farnham Road,"Kingsley, Nr. Bordon",GU35 0QP,51.14041,-0.85213,0,0,0,0,0,1,0,1,1,0,South East,England
 5114,Clock Garage,Texaco,Clock Garage,Wadebridge,PL27 6NW,50.54863,-4.90491,0,0,0,0,0,1,0,0,1,0,South West,England
 5115,Asda Solihull New Con Express Petrol,Esso,94-96 High Street,Solihull,B91 1BB,52.406,-1.86,0,0,0,0,0,1,0,1,1,0,West Midlands,England
@@ -5813,7 +5813,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 5812,Asda Bristol Whitchurch Superstore,Asda,Oatlands Avenue,Bristol,BS14 0ST,51.41356,-2.5693,1,0,0,0,0,1,0,0,0,1,South West,England
 5813,Asda Ballyclare Superstore,Asda,Park Street,Ballyclare,BT39 9DQ,54.75359,-6.00038,1,0,0,0,0,1,0,1,0,1,Northern Ireland,Northern Ireland
 5814,Clifton Lee Esso Express,Esso,59 Sidcup Rd,London,SE12 8BL,51.45066,0.02968,0,0,0,0,0,1,0,0,0,0,London,England
-5815,Shell Little Waitrose Headington,Shell,London Road,Oxford,OX3 7RD,51.75936,-1.21439,0,0,0,0,0,1,0,1,1,1,South East,England
+5815,Shell Little Waitrose Headington,Shell,London Road,Oxford,OX3 7RD,51.75936,-1.21439,0,0,1,0,0,1,0,1,1,1,South East,England
 5816,Packhorse Service Station,Texaco,Packhorse Service Station,Dunstable,LU6 3QU,51.84851,-0.47562,1,0,0,0,1,1,0,1,1,0,East of England,England
 5817,Rontec Welshpool,Shell,Buttington Cross Enterprise Park,Welshpool,SY21 8SL,52.67005,-3.12483,0,0,0,0,1,1,0,1,0,1,Wales,Wales
 5818,Grove Park Esso Express,Esso,340 Baring Rd,London,SE12 0DU,51.43265,0.02101,0,0,0,0,0,1,0,0,1,0,London,England
@@ -6598,7 +6598,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 6597,Oldham Huddersfield Rd Extra - Petrol Filling Station,Tesco,Huddersfield Road,Oldham,OL1 3LG,53.54635,-2.09089,1,0,0,0,0,1,0,1,1,0,North West,England
 6598,Asda Wye Garage Express Petrol,Esso,Llyswen,Brecon,LD3 0UR,52.03235,-3.26495,0,0,0,0,0,1,0,0,1,0,Wales,Wales
 6599,Spar Castlerock Road,Maxol,Spar Castlerock Road,Coleraine,BT51 3HP,55.13253,-6.67852,1,0,0,0,0,1,0,0,0,1,Northern Ireland,Northern Ireland
-6600,Shell Cringleford,Shell,Norwich Road,Norwich,NR9 3AU,52.60267,1.22218,0,0,0,0,1,1,0,1,1,1,East of England,England
+6600,Shell Cringleford,Shell,Norwich Road,Norwich,NR9 3AU,52.60267,1.22218,0,0,1,0,1,1,0,1,1,1,East of England,England
 6601,Mfg Morrisons Canterbury,Morrisons,Ten Perch Road,Wincheap,CT1 3TQ,51.27145,1.06199,1,0,0,0,0,1,0,1,1,0,South East,England
 6602,Pelican Service Station,BP,Pelican Service Station,Whitehaven,CA28 6EA,54.56005,-3.57786,0,0,0,0,0,1,0,1,0,0,North West,England
 6603,Intake 4,Jet,Doncaster Road,Mexborough,S64 0HL,53.49447,-1.26803,0,0,0,0,0,1,0,1,1,0,Yorkshire and the Humber,England
