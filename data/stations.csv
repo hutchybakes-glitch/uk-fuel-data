@@ -661,7 +661,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 660,Aa Services,Gulf,"Mayesbrook Motors, 334, Romford Road, London, E7 8Bs",London,E7 8BS,51.54656,0.02911,0,0,0,0,0,1,0,1,0,0,London,England
 661,Haugh Head Garage,Jet,Haugh Head Garage,Wooler,NE71 6QP,55.53153,-1.99937,0,0,0,0,0,1,0,0,1,0,North East,England
 662,Mfg Normanton,Esso,Castleford Road,Normanton,WF6 2DW,53.70016,-1.41384,0,0,0,0,0,1,0,1,1,0,Yorkshire and the Humber,England
-663,Sainsburys Livingstone Automat,Sainsbury's,Unit 1,Livingstone,EH54 6RQ,55.87942,-3.5224,1,0,0,0,0,0,0,1,0,0,Scotland,Scotland
+663,Sainsburys Livingstone Automat,Sainsbury's,Unit 1,Livingstone,EH54 6RQ,55.87942,-3.5224,1,0,1,0,0,0,0,1,0,0,Scotland,Scotland
 664,Powick Service Station,Murco,39 Worcester Rd,Worcester,WR2 4QS,52.16326,-2.24599,0,0,0,0,0,1,0,0,0,0,West Midlands,England
 665,Newark Fuel Express Automat,Gulf,Ossington Way,Newark,NG24 1FF,53.08046,-0.81236,0,0,0,0,0,0,0,1,0,0,East Midlands,England
 666,Patterson Oil Omagh,Patterson Oil,"Patterson Oil, Unit 25, Gortrush Industrial Estate, Omagh, Bt78 5Ej",Omagh,BT78 5EJ,54.60523,-7.32645,0,0,0,0,1,0,0,1,1,0,Northern Ireland,Northern Ireland
