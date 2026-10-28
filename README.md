@@ -13,3 +13,7 @@ Fuel Finder refuses requests from GitHub's cloud servers (non-UK addresses), so 
 | `data/station_ids.csv` | Maps the short `sid` to Fuel Finder's `node_id` (numbers are never reused) |
 
 **Licence:** Contains Fuel Finder data from the Department for Energy Security and Net Zero, licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Prices are reported by retailers and not checked by this project. Spotted a wrong price? Report it to Fuel Finder: https://www.fuel-finder.service.gov.uk/motorist/price-report
+
+## Licence
+
+The code is MIT licensed (see [LICENSE](LICENSE)). The data belongs to its publishers and is used under their licences, credited above.
