@@ -8146,3 +8146,4 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8146,Gulf Service Station,Gulf,"Fenton Service Station, 400, King Street, Stoke-On-Trent, St4 3Db",Stoke-On-Trent,ST4 3DB,52.99303,-2.14365,0,0,0,0,0,1,0,0,0,0,West Midlands,England
 8147,Texaco,Texaco,"Undercliffe Autopoint, 360A, Killinghall Road, Bradford, Bd2 4Se",Bradford,BD2 4SE,53.80759,-1.72759,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
 8148,Bridge End Garage,Texaco,"Bridge End Garage, Bridge End, Penistone, Sheffield, S36 7Ah",Sheffield,S36 7AH,53.52946,-1.63455,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
+8149,Murco Service Station - Jacksons Service Ltd,Murco,"Jacksons Services Ltd, Jacksons Garage, Summer Lane, Birmingham, B19 3Qg",Birmingham,B19 3QG,52.48856,-1.89962,1,0,0,0,0,1,0,0,1,0,West Midlands,England
