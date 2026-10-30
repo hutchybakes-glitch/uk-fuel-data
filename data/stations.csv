@@ -860,7 +860,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 859,Brixton Tulse Hill Esso Express,Esso,109 Tulse Hill,London,SW2 2QB,51.44785,-0.11258,0,0,0,0,0,1,0,0,0,0,London,England
 860,Eg Burnley Barracks Pfs,EG On The Move,Barracks Rd,Burnley,BB11 4SB,53.78859,-2.26192,0,0,0,0,0,1,0,1,0,0,North West,England
 861,Karan Peggy White Service Station,BP,Edinburgh Road Motherwell,,ML1 5SY,55.83168,-3.92851,1,0,0,0,0,1,0,0,0,0,Scotland,Scotland
-862,Maiden Newton Service Station,Texaco,"Maiden Newton Service Station, Dorchester Road, Maiden Newton, Dorchester, Dt2 0Ba",Dorchester,DT2 0BA,50.77632,-2.57014,0,0,0,0,0,1,0,0,0,0,South West,England
+862,Maiden Newton Service Station,Texaco,"Maiden Newton Service Station, Dorchester Road, Maiden Newton, Dorchester, Dt2 0Ba",Dorchester,DT2 0BA,50.77632,-2.57014,0,0,1,0,0,1,0,0,0,0,South West,England
 863,Eg Carrington Pfs,Valero,"Hucknall Road,",Nottingham,NG5 1BJ,52.97273,-1.15475,0,0,0,0,0,1,0,1,0,0,East Midlands,England
 864,Redfield Filling Station,Highland Fuels,38 Main Street,Kircudbright,DG6 4NT,54.86653,-4.08409,0,0,0,0,0,1,0,0,0,1,Scotland,Scotland
 865,Mfg Fairmile,Murco,204 Fairmile Road,Christchurch,BH23 2LP,50.74815,-1.79295,0,0,0,0,0,1,0,0,1,0,South West,England
@@ -1318,7 +1318,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 1317,J Todd & Son Ltd,J Todd & Son Ltd,J Todd & Son,Harrogate,HG3 4JN,54.0587,-1.69542,0,0,0,0,0,1,0,1,0,0,Yorkshire and the Humber,England
 1318,Asda Clayton Brook Express Petrol,Esso,Preston Road,Chorley,PR6 7EJ,53.713,-2.645,0,0,0,0,0,1,0,1,0,0,North West,England
 1319,Central Convenience - Crewkerne Pfs,Central Convenience,South Street,Crewkerne,TA18 8AE,50.87945,-2.78415,0,0,0,0,0,1,0,0,1,0,South West,England
-1320,The Grove Service Station,BP,"Loders Forecourt Ltd, The Grove, Dorchester, Dt1 1Xu",Dorchester,DT1 1XU,50.71894,-2.4415,0,0,0,0,0,1,1,0,1,0,South West,England
+1320,The Grove Service Station,BP,"Loders Forecourt Ltd, The Grove, Dorchester, Dt1 1Xu",Dorchester,DT1 1XU,50.71894,-2.4415,0,0,1,0,0,1,1,0,1,0,South West,England
 1321,Beeches Service Station,Gulf,Beeches Road Service Station,Birmingham,B42 2HN,52.53853,-1.9106,1,0,0,0,0,0,0,1,1,0,West Midlands,England
 1322,Wilderhaugh Service Station,Shell,Adam Purves Galashiels Ltd,Galashiels,TD1 1PW,55.62134,-2.81692,0,0,0,0,0,1,0,1,1,0,Scotland,Scotland
 1323,Petrocell Folkestone,Jet,Tram Road Filling Station,Folkestone,CT20 1TE,51.08179,1.18603,0,0,0,0,0,1,0,0,1,0,South East,England
