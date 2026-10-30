@@ -7328,7 +7328,7 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 7328,Sainsburys Sedgefield,Sainsbury's,Salters Lane,Stockton-On-Tees,TS21 3EE,54.66257,-1.44854,1,0,0,0,0,1,0,0,1,0,North East,England
 7329,Bp Rangers Service Station,BP,154 Mersea Road,Colchester,CO2 8PU,51.87213,0.90897,1,0,0,0,1,1,0,0,1,1,East of England,England
 7330,Mfg West Suffolk,BP,The Battlies,Rougham,IP30 9NF,52.23882,0.77723,0,0,0,0,1,1,0,1,0,1,East of England,England
-7331,Aldersons Nateby Service Station Ltd,Independent,"Aldersons, Nateby Service Station, Nateby, Kirkby Stephen, Ca17 4Jp",Kirkby Stephen,CA17 4JP,54.45593,-2.34906,0,0,0,0,0,0,0,0,1,0,North West,England
+7331,Aldersons Nateby Service Station Ltd,Aldersons Nateby Service Station Ltd,"Aldersons, Nateby Service Station, Nateby, Kirkby Stephen, Ca17 4Jp",Kirkby Stephen,CA17 4JP,54.45593,-2.34906,0,0,0,0,0,0,0,0,1,0,North West,England
 7332,Shell Co-Op Tiverton,Shell,Exeter Road,Tiverton,EX16 5DY,50.89878,-3.49058,0,0,0,0,0,1,0,1,1,1,South West,England
 7333,Bridge Garage Shrewton,Murco,Bridge Garage,Salisbury,SP3 4JD,51.19449,-1.90428,0,0,0,0,0,1,0,0,0,0,South West,England
 7334,Shell Little Waitrose Sutton Elms,Shell,Coventry Road,Leicester,LE9 6QD,52.53925,-1.25212,0,0,0,0,1,1,0,1,0,1,East Midlands,England
@@ -8145,3 +8145,4 @@ sid,name,brand,address,town,postcode,lat,lon,supermarket,motorway,temp_closed,pe
 8145,Medway East Service Area,BP,"Medway Service Area,",Gillingham,ME8 8PQ,51.34215,0.60917,0,1,0,0,1,1,0,1,0,0,South East,England
 8146,Gulf Service Station,Gulf,"Fenton Service Station, 400, King Street, Stoke-On-Trent, St4 3Db",Stoke-On-Trent,ST4 3DB,52.99303,-2.14365,0,0,0,0,0,1,0,0,0,0,West Midlands,England
 8147,Texaco,Texaco,"Undercliffe Autopoint, 360A, Killinghall Road, Bradford, Bd2 4Se",Bradford,BD2 4SE,53.80759,-1.72759,0,0,0,0,0,1,0,1,1,1,Yorkshire and the Humber,England
+8148,Bridge End Garage,Texaco,"Bridge End Garage, Bridge End, Penistone, Sheffield, S36 7Ah",Sheffield,S36 7AH,53.52946,-1.63455,0,0,0,0,0,1,0,0,0,0,Yorkshire and the Humber,England
